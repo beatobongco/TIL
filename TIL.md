@@ -12,5 +12,5 @@ A small list of shit I learned.
    * Go to path where sql file is and `gunzip`
    * Finally `psql -hdb -U <username> -W < backup.sql`
  
- * Run a docker container `docker-compose run --rm <container>` 
+ * Run a docker container `docker-compose run --rm <container> <cmd>` 
  
