@@ -28,4 +28,4 @@ A small list of shit I learned.
  * http://gtmetrix.com/ --> speed testing
  * http://www.browseemall.com/ --> cross browser testing
  * Learn typescript one day please http://www.typescriptlang.org/
- 
+ * Look for npm modules! `npm ls <module` 
