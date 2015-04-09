@@ -27,4 +27,5 @@ A small list of shit I learned.
  * ??? I dunno what this was http://tympanus.net/
  * http://gtmetrix.com/ --> speed testing
  * http://www.browseemall.com/ --> cross browser testing
+ * Learn typescript one day please http://www.typescriptlang.org/
  
