@@ -16,4 +16,15 @@ A small list of shit I learned.
 
 ## 4/9/2015
  * Style console.log! Useful for teaching javascript! https://github.com/adamschwartz/log
+ * Resources for icons!
+   * https://thenounproject.com/
+   * http://www.flaticon.com/
+ * Little stylistic additions
+   * wow.js http://mynameismatthieu.com/WOW/ https://github.com/matthieua/WOW
+   * http://daneden.github.io/animate.css/
+   * https://github.com/julianshapiro/velocity
+ * Sublime ES6 definition https://github.com/Benvie/JavaScriptNext.tmLanguage
+ * ??? I dunno what this was http://tympanus.net/
+ * http://gtmetrix.com/ --> speed testing
+ * http://www.browseemall.com/ --> cross browser testing
  
