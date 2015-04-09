@@ -29,3 +29,4 @@ A small list of shit I learned.
  * http://www.browseemall.com/ --> cross browser testing
  * Learn typescript one day please http://www.typescriptlang.org/
  * Look for npm modules! `npm ls <module` 
+ * Solid presentations https://github.com/bartaz/impress.js/blob/master/index.html
