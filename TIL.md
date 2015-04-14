@@ -31,3 +31,7 @@ A small list of shit I learned.
  * Look for npm modules! `npm ls <module` 
  * Solid presentations https://github.com/bartaz/impress.js/blob/master/index.html
  * JS style guide https://github.com/airbnb/javascript
+
+## 4/15/2015
+ * cookie-js
+ * `docker exec` runs a new subprocess in a container and `docker-compose run` runs a new instance/container 
