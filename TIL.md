@@ -38,3 +38,4 @@ A small list of shit I learned.
  * visionmedia's `superagent`
  * http://semantic-ui.com/
  * Elementary OS -> http://itsfoss.com/things-todo-elementary-os-freya/
+ * foreground processes can be disowned, follow the command with `&` and `disown` and to stop it find the process with `ps-aux` and then `kill` it
