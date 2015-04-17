@@ -41,4 +41,5 @@ A small list of shit I learned.
  * foreground processes can be disowned, follow the command with `&` and `disown` and to stop it find the process with `ps-aux` and then `kill` it
 
 ## 4/17/2015
- * press `t` in github
+ * press `t` in github -> quick repo search
+ * `docker cp {CONTAINER}:{PATH} {HOSTDIR}`
