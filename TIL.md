@@ -43,3 +43,5 @@ A small list of shit I learned.
 ## 4/17/2015
  * press `t` in github -> quick repo search
  * `docker cp {CONTAINER}:{PATH} {HOSTDIR}`
+## 4/18/2015
+ * http://ricostacruz.com/cheatsheets/react.html
