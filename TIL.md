@@ -45,3 +45,6 @@ A small list of shit I learned.
  * `docker cp {CONTAINER}:{PATH} {HOSTDIR}`
 ## 4/18/2015
  * http://ricostacruz.com/cheatsheets/react.html
+
+## 4/20/2015
+ * http://howtocenterincss.com/
