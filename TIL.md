@@ -51,3 +51,4 @@ A small list of shit I learned.
  
 ## 4/22/2015
  * https://www.youtube.com/watch?v=vtJ0C0UHFfE Peter Thiel: What's the valuation of your company? Think of the valuation not as a premium on the past but a discount to the future. The way one should pitch the value of the company by explaining why it will be worth much more in the future so investors will be getting in at a point much cheaper than 1 or 2 years later.
+ * Cofounder equity calculator: http://foundrs.com/ 
