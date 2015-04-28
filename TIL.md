@@ -55,3 +55,4 @@ A small list of shit I learned.
  
 ## 4/28/2015
  * Invert transparency. Just takes a little effort http://graphicdesign.stackexchange.com/questions/22275/how-to-invert-pixels-with-alpha-values
+ * Material design call to action http://kushagragour.in/lab/ctajs/
