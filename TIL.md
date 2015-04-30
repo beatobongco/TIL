@@ -62,3 +62,5 @@ A small list of shit I learned.
  * `document.getElementById('youridhere').scrollIntoView();` one line, no third party, xbrowser
  * Add methods to "classes" in JS by `var x = new Class(); x.newMethod = function(x) { ... }`
  * Email length in db is best limited to `320` characters
+ * `docker rmi $(docker images -f 'dangling=true' -q)`
+
