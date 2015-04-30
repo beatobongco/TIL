@@ -56,3 +56,8 @@ A small list of shit I learned.
 ## 4/28/2015
  * Invert transparency. Just takes a little effort http://graphicdesign.stackexchange.com/questions/22275/how-to-invert-pixels-with-alpha-values
  * Material design call to action http://kushagragour.in/lab/ctajs/
+
+## 4/30/2015
+ * `document.getElementById('youridhere').scrollIntoView();` one line, no third party, xbrowser
+ * Add methods to "classes" in JS by `var x = new Class(); x.newMethod = function(x) { ... }`
+ * Email length in db is best limited to `320` characters
