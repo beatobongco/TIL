@@ -67,3 +67,4 @@ A small list of shit I learned.
 ## 5/1/2015
  * set a `key` of an object in one line in `ES6` ```[`${prop}`]: value```
  * JS: study `.bind` and `.apply` 
+ * React convention of expansions, always expand before passing new props so you can override `<div {...this.props}`
