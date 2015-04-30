@@ -64,3 +64,5 @@ A small list of shit I learned.
  * Email length in db is best limited to `320` characters
  * `docker rmi $(docker images -f 'dangling=true' -q)`
 
+## 5/1/2015
+ * set a `key` of an object in one line in `ES6` ```[`${prop}`]: value```
