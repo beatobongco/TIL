@@ -62,7 +62,7 @@ A small list of shit I learned.
  * `document.getElementById('youridhere').scrollIntoView();` one line, no third party, xbrowser
  * Add methods to "classes" in JS by `var x = new Class(); x.newMethod = function(x) { ... }`
  * Email length in db is best limited to `320` characters
- * `docker rmi $(docker images -f 'dangling=true' -q)`
+ * Remove useless docker images `docker rmi $(docker images -f 'dangling=true' -q)`
 
 ## 5/1/2015
  * set a `key` of an object in one line in `ES6` ```[`${prop}`]: value```
@@ -73,3 +73,4 @@ A small list of shit I learned.
  * Here is an example on how to clean up old containers that are weeks old. `docker ps -a | grep 'weeks ago' | awk '{print $1}' | xargs --no-run-if-empty docker rm`
  * `docker machine` access your docker containers in remote places like Digital Ocean. Just do `$(docker-machine env <name>` and do docker operations as normal
  * You can ssh into a docker machine like so: `docker-machine ssh radar`
+ * using `scp`: Copy the file "foobar.txt" from a remote host to the local host `$ scp your_username@remotehost.edu:foobar.txt /some/local/directory` Copy the file "foobar.txt" from the local host to a remote host `$ scp foobar.txt your_username@remotehost.edu:/some/remote/directory`
