@@ -71,3 +71,4 @@ A small list of shit I learned.
 
 ## 5/6/2015
  * Here is an example on how to clean up old containers that are weeks old. `docker ps -a | grep 'weeks ago' | awk '{print $1}' | xargs --no-run-if-empty docker rm`
+ * `docker machine` access your docker containers in remote places like Digital Ocean. Just do `$(docker-machine env <name>` and do docker operations as normal
