@@ -42,7 +42,7 @@ A small list of shit I learned.
 
 ## 4/17/2015
  * press `t` in github -> quick repo search
- * `docker cp {CONTAINER}:{PATH} {HOSTDIR}`
+ * `docker cp {CONTAINER}:{PATH} {HOSTDIR}` ex `docker cp 59244e24ab80:/usr/local/mysql/radar.sql /home/beato/Desktop/sqlbackup`
 
 ## 4/18/2015
  * http://ricostacruz.com/cheatsheets/react.html
