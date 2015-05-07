@@ -71,6 +71,6 @@ A small list of shit I learned.
 
 ## 5/6/2015
  * Here is an example on how to clean up old containers that are weeks old. `docker ps -a | grep 'weeks ago' | awk '{print $1}' | xargs --no-run-if-empty docker rm`
- * `docker machine` access your docker containers in remote places like Digital Ocean. Just do `$(docker-machine env <name>` and do docker operations as normal
+ * `docker machine` allows you to access your docker containers in remote places like Digital Ocean. Just do `$(docker-machine env <name>)` and do docker operations as normal
  * You can ssh into a docker machine like so: `docker-machine ssh radar`
  * using `scp`: Copy the file "foobar.txt" from a remote host to the local host `$ scp your_username@remotehost.edu:foobar.txt /some/local/directory` Copy the file "foobar.txt" from the local host to a remote host `$ scp foobar.txt your_username@remotehost.edu:/some/remote/directory`
