@@ -75,3 +75,6 @@ A small list of shit I learned.
  * You can ssh into a docker machine like so: `docker-machine ssh radar`
  * using `scp`: Copy the file "foobar.txt" from a remote host to the local host `$ scp your_username@remotehost.edu:foobar.txt /some/local/directory` Copy the file "foobar.txt" from the local host to a remote host `$ scp foobar.txt your_username@remotehost.edu:/some/remote/directory`
  * using `scp` in `docker-machine` `scp -i ~/.docker/machine/machines/radar/id_rsa dump.sql.gz root@$(docker-machine ip radar):~`
+
+## 5/12/2015
+ * REACT: You can pass `children` as props to DOM elements. ex. `<Dialog children=(<p>Yolo</p>) />`
