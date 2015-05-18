@@ -78,3 +78,6 @@ A small list of shit I learned.
 
 ## 5/12/2015
  * REACT: You can pass `children` as props to DOM elements. ex. `<Dialog children=(<p>Yolo</p>) />`
+
+##  5/18/2015
+ * http://makerbook.net/ for awesome resources for creatives
