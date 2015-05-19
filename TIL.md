@@ -86,3 +86,4 @@ A small list of shit I learned.
  * Beautiful icons http://bitshadow.github.io/iconate/
  * TIL a downfall for using shortcircuits e.g. `var x = myVal1 || myVal2` because if `myVal1 = 0` and you DO want to get 0, you will get `myVal2` instead.
  * https://webmaker.org/en-US/tools <-- awesome shit for beginners!
+ * Joseph Campbell's hero with a thousand faces... "Full circle we come, from the tomb of the womb to the womb of the tomb, a brief enigmatic journey into the realm of the solid world, only to melt away like the substance of a dream."
