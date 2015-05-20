@@ -91,4 +91,16 @@ A small list of shit I learned.
 ## 5/20/2015
  * http://drill.apache.org/ <-- best bet for querying noSQL dbs. Looks really cool 
  * http://www.typegenius.com/ font pairing! finally!
+
+## 5/21/2015
+ * You Suck At Photoshop -> WATCH IT YOU FUCKING NEED ITTTTT
+ * Content-aware shit or "how to fill in the blanks" Use case: making a perfect square Instagram image from a landscape one
+   * step 1: resize canvas
+   * step 2: look for parts in photo that could be extended (like iron man's rope)
+   * step 3: move the photo there
+   * step 4: select empty space that was left
+   * step 5: press DELETE or right click on the selection
+   * step 6: press `fill`
+   * step 7: select `content-aware`
+   * step 8: wtf???? profit!!!
  
