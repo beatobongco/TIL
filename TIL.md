@@ -90,4 +90,5 @@ A small list of shit I learned.
  
 ## 5/20/2015
  * http://drill.apache.org/ <-- best bet for querying noSQL dbs. Looks really cool 
+ * http://www.typegenius.com/ font pairing! finally!
  
