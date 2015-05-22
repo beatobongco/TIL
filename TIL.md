@@ -104,3 +104,5 @@ A small list of shit I learned.
    * step 7: select `content-aware`
    * step 8: wtf???? profit!!!
  
+## 5/22/2015
+ * horror movies wew https://imgur.com/gallery/KIZLc
