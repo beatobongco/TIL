@@ -106,3 +106,6 @@ A small list of shit I learned.
  
 ## 5/22/2015
  * horror movies wew https://imgur.com/gallery/KIZLc
+
+## 5/28/2015
+ * startup traction http://submit.co/
