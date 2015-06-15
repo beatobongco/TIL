@@ -109,3 +109,6 @@ A small list of shit I learned.
 
 ## 5/28/2015
  * startup traction http://submit.co/
+
+## 6/16/2015
+ * https://developers.google.com/speed/public-dns/
