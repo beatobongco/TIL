@@ -116,4 +116,4 @@ A small list of shit I learned.
    * `$(docker-machine env blah)`
    * `docker-compose run -d web python script.py`
    * `docker logs -f radar_web_run_2`
-
+ * http://youmightnotneedjquery.com/
