@@ -112,3 +112,8 @@ A small list of shit I learned.
 
 ## 6/16/2015
  * https://developers.google.com/speed/public-dns/
+ * Run something in docker machine (OK to close terminal)
+   * `$(docker-machine env blah)`
+   * `docker-compose run -d web python script.py`
+   * `docker logs -f radar_web_run_2`
+
