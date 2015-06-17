@@ -117,3 +117,7 @@ A small list of shit I learned.
    * `docker-compose run -d web python script.py`
    * `docker logs -f radar_web_run_2`
  * http://youmightnotneedjquery.com/
+ 
+## 6/17/2015
+ * Don't you forget to keep moving forward https://acidheroes.wordpress.com/2015/06/01/6855/
+ * 
