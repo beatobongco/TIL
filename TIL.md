@@ -124,3 +124,4 @@ A small list of shit I learned.
 
 ## 6/22/2015
  * http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
+ * Mounting volumes baby `docker run -d --env-file .env -v /root/dump:/usr/src/app/dump --env PYTHONUNBUFFERED=1 radar_web  python script.py`
