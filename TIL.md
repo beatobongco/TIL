@@ -121,3 +121,6 @@ A small list of shit I learned.
 ## 6/17/2015
  * Don't you forget to keep moving forward https://acidheroes.wordpress.com/2015/06/01/6855/
  * There are two kinds of people in the world: those who move forward, and those stand still.
+
+## 6/22/2015
+ * http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
