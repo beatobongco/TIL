@@ -127,4 +127,5 @@ A small list of shit I learned.
  * Mounting volumes baby `docker run -d --env-file .env -v /root/dump:/usr/src/app/dump --env PYTHONUNBUFFERED=1 radar_web  python script.py`
 
 ## 6/25/2015
- * http://animography.net/collections
+ * Animated fonts: http://animography.net/collections
+ * CMD LINE https://github.com/jlevy/the-art-of-command-line
