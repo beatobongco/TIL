@@ -129,3 +129,6 @@ A small list of shit I learned.
 ## 6/25/2015
  * Animated fonts: http://animography.net/collections
  * CMD LINE https://github.com/jlevy/the-art-of-command-line
+
+## 6/26/2015
+ * https://github.com/getify/You-Dont-Know-JS
