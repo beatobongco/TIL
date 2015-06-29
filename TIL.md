@@ -132,3 +132,6 @@ A small list of shit I learned.
 
 ## 6/26/2015
  * https://github.com/getify/You-Dont-Know-JS
+
+## 6/29/2015
+ * https://github.com/MojoJolo/textteaser
