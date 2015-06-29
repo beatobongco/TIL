@@ -135,3 +135,4 @@ A small list of shit I learned.
 
 ## 6/29/2015
  * https://github.com/MojoJolo/textteaser
+ * https://docs.docker.com/compose/django/
