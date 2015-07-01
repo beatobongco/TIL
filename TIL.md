@@ -139,4 +139,6 @@ A small list of shit I learned.
 
 ## 6/30/2015
  * http://t4t5.github.io/sweetalert/
- * 
+
+## 7/1/2015
+ * http://blog.instavest.com/three-useful-python-libraries-for-startups
