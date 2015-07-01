@@ -142,3 +142,4 @@ A small list of shit I learned.
 
 ## 7/1/2015
  * http://blog.instavest.com/three-useful-python-libraries-for-startups
+ * Koans for software dev http://thecodelesscode.com/
