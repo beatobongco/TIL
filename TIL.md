@@ -147,3 +147,4 @@ A small list of shit I learned.
 ## 7/7/2016
  * Desiderata, always relevant http://zenpencils.com/comic/desiderata/
  * Stage entire working tree: (meaning it will remove deleted files also from remote) `git add -u :/`
+ * material design lite http://www.getmdl.io/
