@@ -155,3 +155,6 @@ A small list of shit I learned.
 
 ## 7/14/2015
  * Reset git to remote: `git fetch origin && git reset --hard origin/master`
+
+## 7/15/2015
+ * One day I'll visit Tuvalu + http://www.dailymail.co.uk/travel/travel_news/article-2779663/Inside-10-visited-countries-world.html
