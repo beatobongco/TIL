@@ -152,3 +152,6 @@ A small list of shit I learned.
 ## 7/9/2015
  * Beginnging with go resource https://sourcegraph.com/blog/live/gophercon2015/123565059490
  * Virtual office Philippines http://www.voffice.com.ph/
+
+## 7/14/2015
+ * Reset git to remote: `git fetch origin && git reset --hard origin/master`
