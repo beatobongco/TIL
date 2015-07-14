@@ -159,3 +159,4 @@ A small list of shit I learned.
 ## 7/15/2015
  * One day I'll visit Tuvalu + http://www.dailymail.co.uk/travel/travel_news/article-2779663/Inside-10-visited-countries-world.html
  * https://www.youtube.com/watch?v=rQVpmAGBccQ
+ * http://www.buzzfeed.com/patricksmith/13-of-the-worlds-loneliest-islands-you-will-never-visit#.dcLzDEMG8
