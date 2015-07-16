@@ -163,3 +163,4 @@ A small list of shit I learned.
 
 ## 7/16/2015
  * Swallow your pride https://imcreator.com <-- could use for BKT
+ * Or keep your pride and use this baby http://www.getmdl.io/
