@@ -164,3 +164,6 @@ A small list of shit I learned.
 ## 7/16/2015
  * Swallow your pride https://imcreator.com <-- could use for BKT
  * Or keep your pride and use this baby http://www.getmdl.io/
+
+## 7/18/2015
+ * https://www.youtube.com/channel/UCPPg3rzfDNko5GjU8qxu9iQ Climbing DVD which was not included in the Kindle version of the self coached climber
