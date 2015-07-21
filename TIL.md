@@ -167,3 +167,6 @@ A small list of shit I learned.
 
 ## 7/18/2015
  * https://www.youtube.com/channel/UCPPg3rzfDNko5GjU8qxu9iQ Climbing DVD which was not included in the Kindle version of the self coached climber
+
+## 7/21/2015:
+ * If serving on `nginx` during development, don't forget to add `127.0.0.1 www.something.com` to your hosts file in `C:\Windows\System32\drivers\etc`
