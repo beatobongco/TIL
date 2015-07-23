@@ -170,3 +170,6 @@ A small list of shit I learned.
 
 ## 7/21/2015:
  * If serving on `nginx` during development, don't forget to add `127.0.0.1 www.something.com` to your hosts file in `C:\Windows\System32\drivers\etc`
+
+## 7/23/2015
+ * Dan Harmon story embryo http://www.wired.com/2011/09/mf_harmon/
