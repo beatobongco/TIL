@@ -173,3 +173,6 @@ A small list of shit I learned.
 
 ## 7/23/2015
  * Dan Harmon story embryo http://www.wired.com/2011/09/mf_harmon/
+
+## 8/10/2015
+ * http://www.ukclimbing.com/articles/page.php?id=3694
