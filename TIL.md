@@ -176,3 +176,6 @@ A small list of shit I learned.
 
 ## 8/10/2015
  * http://www.ukclimbing.com/articles/page.php?id=3694
+
+## 8/11/2015
+ * if you run into trouble w/ relative imports `python -m radar/tests/local_test` http://stackoverflow.com/questions/11536764/attempted-relative-import-in-non-package-even-with-init-py
