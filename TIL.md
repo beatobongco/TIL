@@ -179,3 +179,6 @@ A small list of shit I learned.
 
 ## 8/11/2015
  * if you run into trouble w/ relative imports `python -m radar/tests/local_test` http://stackoverflow.com/questions/11536764/attempted-relative-import-in-non-package-even-with-init-py
+
+## 8/12/2015
+ * https://github.com/seatgeek/fuzzywuzzy fuzzy search
