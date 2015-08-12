@@ -182,3 +182,6 @@ A small list of shit I learned.
 
 ## 8/12/2015
  * https://github.com/seatgeek/fuzzywuzzy fuzzy search
+ * Get all tags, put in choices array
+ * `>>> choices = ["Atlanta Falcons", "New York Jets", "New York Giants", "Dallas Cowboys"]`
+ * `>>> process.extract("new york jets", choices, limit=2)`
