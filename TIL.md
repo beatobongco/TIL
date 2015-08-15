@@ -187,3 +187,7 @@ A small list of shit I learned.
  * `>>> process.extract("new york jets", choices, limit=2)`
  * `[('New York Jets', 100), ('New York Giants', 78)]`
  * mock data https://www.mockaroo.com/
+
+## 8/16/2015
+ * https://github.com/flowjs/flow.js <-- resumeable file uploads
+ * https://github.com/facebook/flow <-- typechecking for js
