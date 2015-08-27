@@ -191,3 +191,6 @@ A small list of shit I learned.
 ## 8/16/2015
  * https://github.com/flowjs/flow.js <-- resumeable file uploads
  * https://github.com/facebook/flow <-- typechecking for js
+
+## 8/27/2015
+ * If you get weird content mismatch errors, try making sure that time on both your server/virtual machine and host is the same.
