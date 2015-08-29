@@ -194,3 +194,6 @@ A small list of shit I learned.
 
 ## 8/27/2015
  * If you get weird content mismatch errors, try making sure that time on both your server/virtual machine and host is the same.
+
+## 8/30/2015
+ * Google sheets as database https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/
