@@ -197,3 +197,7 @@ A small list of shit I learned.
 
 ## 8/30/2015
  * Google sheets as database https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/
+
+
+## 9/1/2015
+ * Configure server time `dpkg-reconfigure tzdata`
