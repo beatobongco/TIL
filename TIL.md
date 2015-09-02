@@ -201,3 +201,6 @@ A small list of shit I learned.
 
 ## 9/1/2015
  * Configure server time `dpkg-reconfigure tzdata`
+
+## 9/2/2015
+ * Good perspective (live, but dont live to feed the beast): http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
