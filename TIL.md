@@ -204,3 +204,6 @@ A small list of shit I learned.
 
 ## 9/2/2015
  * Good perspective (live, but dont live to feed the beast): http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
+
+## 9/7/2015
+ * https://github.com/krisk/Fuse JS fuzzy search, good for client side
