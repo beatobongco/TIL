@@ -207,3 +207,6 @@ A small list of shit I learned.
 
 ## 9/7/2015
  * https://github.com/krisk/Fuse JS fuzzy search, good for client side
+
+## 9/16/2015
+ * beautiful hover animations http://ianlunn.github.io/Hover/
