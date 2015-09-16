@@ -210,3 +210,6 @@ A small list of shit I learned.
 
 ## 9/16/2015
  * beautiful hover animations http://ianlunn.github.io/Hover/
+ * remove filter while scaling CSS3 animations `-webkit-filter: blur(0);
+  -ms-filter: blur(0);
+  filter: blur(0);`
