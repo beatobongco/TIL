@@ -197,10 +197,12 @@ A small list of shit I learned.
 
 ## 8/30/2015
  * Google sheets as database https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/
+ * Mirror: https://gist.github.com/beatobongco/6c07a5637510bf16e006
  * Tools > Script Editor
  * Paste
  * Deploy as web app
  * Run setup
+ * Copy script URL and post there
 
 ## 9/1/2015
  * Configure server time `dpkg-reconfigure tzdata`
