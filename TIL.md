@@ -220,4 +220,4 @@ A small list of shit I learned.
   filter: blur(0);`
 
 ## 9/18/2015
- * Don't forget to add gzip types to make site faster esp for React! `gzip_types text/plain text/html text/css application/json application/javascript application/x-javascript text/javascript text/xml application/xml application/rss+xml application/atom+xml application/rdf+xml;`
+ * Don't forget to add gzip types to Nginx make site faster esp for React! `gzip_types text/plain text/html text/css application/json application/javascript application/x-javascript text/javascript text/xml application/xml application/rss+xml application/atom+xml application/rdf+xml;`
