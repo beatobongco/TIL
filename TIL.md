@@ -222,3 +222,6 @@ A small list of shit I learned.
 ## 9/18/2015
  * Don't forget to add gzip types to Nginx make site faster esp for React! `gzip_types text/plain text/html text/css application/json application/javascript application/x-javascript text/javascript text/xml application/xml application/rss+xml application/atom+xml application/rdf+xml;`
  * f(**args) Python unpack arguments splat https://docs.python.org/2/tutorial/controlflow.html#unpacking-argument-lists
+ 
+## 9/24/2015
+ * Making a fucking PEM https://www.digicert.com/ssl-support/pem-ssl-creation.htm DONT FORGET, .key of your server goes on TOP!
