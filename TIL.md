@@ -228,3 +228,4 @@ A small list of shit I learned.
 
 ## 10/2/2015
  * http://zenorocha.github.io/clipboard.js/ CLIPBOARD
+ * non atomic redis delete `redis-cli KEYS "prefix:*" | xargs redis-cli DEL`
