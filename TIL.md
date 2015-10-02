@@ -225,3 +225,6 @@ A small list of shit I learned.
  
 ## 9/24/2015
  * Making a fucking PEM https://www.digicert.com/ssl-support/pem-ssl-creation.htm DONT FORGET, .key of your server goes on TOP!
+
+## 10/2/2015
+ * http://zenorocha.github.io/clipboard.js/ CLIPBOARD
