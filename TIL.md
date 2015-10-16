@@ -232,3 +232,7 @@ A small list of shit I learned.
 
 ## 10/9/2015
  * copy from docker container to host docker cp <containerId>:/file/path/within/container /host/path/target 
+
+## 10/16/2015
+ * http://ready.mobi/
+ * github.com/relax/relax
