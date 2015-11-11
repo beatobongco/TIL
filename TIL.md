@@ -236,3 +236,7 @@ A small list of shit I learned.
 ## 10/16/2015
  * http://ready.mobi/
  * github.com/relax/relax
+
+## 11/11/2015
+ * http://thehustle.co/the-richest-entrepreneurs-say-you-need-to-write-better
+ * Write better: http://www.hemingwayapp.com/
