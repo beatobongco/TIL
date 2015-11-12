@@ -240,3 +240,6 @@ A small list of shit I learned.
 ## 11/11/2015
  * http://thehustle.co/the-richest-entrepreneurs-say-you-need-to-write-better
  * Write better: http://www.hemingwayapp.com/
+
+## 11/12/2015
+ * Questions to ask before startup https://medium.com/swlh/the-startup-framework-to-validate-your-idea-before-you-spend-1-5c475a3bbd6f
