@@ -244,3 +244,6 @@ A small list of shit I learned.
 ## 11/12/2015
  * Questions to ask before startup https://medium.com/swlh/the-startup-framework-to-validate-your-idea-before-you-spend-1-5c475a3bbd6f
  * I need this as my life motto https://medium.com/life-learning/never-tell-people-what-you-do-124be62f0751
+
+## 11/18/2015
+ * https://www.youtube.com/watch?v=2BpGMKtoB4Y what not to do. super interesting tho 
