@@ -247,3 +247,6 @@ A small list of shit I learned.
 
 ## 11/18/2015
  * https://www.youtube.com/watch?v=2BpGMKtoB4Y what not to do. super interesting tho 
+
+## 11/23/2015
+ * small business accounting software https://www.xero.com/
