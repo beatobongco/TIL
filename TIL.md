@@ -250,3 +250,6 @@ A small list of shit I learned.
 
 ## 11/23/2015
  * small business accounting software https://www.xero.com/
+
+## 11/25/2015
+ * BRAND BUILDING: http://firstround.com/review/three-moves-every-startup-founder-must-make-to-build-a-brand-that-matters/
