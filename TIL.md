@@ -253,3 +253,6 @@ A small list of shit I learned.
 
 ## 11/25/2015
  * BRAND BUILDING: http://firstround.com/review/three-moves-every-startup-founder-must-make-to-build-a-brand-that-matters/
+
+## 11/30/2015
+ * Explains my ideology on building software https://simple.wikipedia.org/wiki/Occam%27s_razor
