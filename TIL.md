@@ -256,3 +256,6 @@ A small list of shit I learned.
 
 ## 11/30/2015
  * Explains my ideology on building software https://simple.wikipedia.org/wiki/Occam%27s_razor
+
+## 12/3/2015
+ * beknontho categories http://getthinglist.co/
