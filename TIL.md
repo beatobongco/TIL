@@ -262,3 +262,7 @@ A small list of shit I learned.
 
 ## 12/6/2015
  * Really good HTML5 site templates http://html5up.net/
+
+## 12/7/2015
+ * `kill %1` kill first job put in bg. Super useful for killing simpleHTTPservers that exit wrong.
+
