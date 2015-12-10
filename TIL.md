@@ -266,3 +266,5 @@ A small list of shit I learned.
 ## 12/7/2015
  * `kill %1` kill first job put in bg. Super useful for killing simpleHTTPservers that exit wrong.
 
+## 12/10/2015
+ * iOS 8-like transforms (good for images and shiite) https://github.com/Rich-Harris/ramjet
