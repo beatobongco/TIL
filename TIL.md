@@ -268,3 +268,4 @@ A small list of shit I learned.
 
 ## 12/10/2015
  * iOS 8-like transforms (good for images and shiite) https://github.com/Rich-Harris/ramjet
+ * Blurry DOM probs? No prob! http://keithclark.co.uk/articles/gpu-text-rendering-in-webkit/
