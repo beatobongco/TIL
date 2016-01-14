@@ -270,3 +270,7 @@ A small list of shit I learned.
  * iOS 8-like transforms (good for images and shiite) https://github.com/Rich-Harris/ramjet
  * Blurry DOM probs? No prob! http://keithclark.co.uk/articles/gpu-text-rendering-in-webkit/
  * DISTRUPTIVE INNOVATION https://hbr.org/2015/12/what-is-disruptive-innovation
+
+## 1/14/2016
+ * http://getmwf.com/ Microsoft Web Framework - clean, simple design
+ * https://gasket.io/ Google sheets as frontend
