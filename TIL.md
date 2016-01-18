@@ -277,3 +277,4 @@ A small list of shit I learned.
 
 ## 1/18/2016
  * Pretty print curled JSON by `| python -m json.tool`
+ * Good docker hygiene http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
