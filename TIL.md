@@ -279,3 +279,4 @@ A small list of shit I learned.
  * Pretty print curled JSON by `| python -m json.tool`
  * Good docker hygiene http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
  * Where's all my space?? `ncdu` is the shiz http://unix.stackexchange.com/questions/125429/tracking-down-where-disk-space-has-gone-on-linux
+ * Get the most out of physical raw material http://svgnest.com/
