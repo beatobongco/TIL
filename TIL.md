@@ -274,3 +274,6 @@ A small list of shit I learned.
 ## 1/14/2016
  * http://getmwf.com/ Microsoft Web Framework - clean, simple design
  * https://gasket.io/ Google sheets as frontend
+
+## 1/18/2016
+ * Pretty print curled JSON by `| python -m json.tool`
