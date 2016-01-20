@@ -280,3 +280,6 @@ A small list of shit I learned.
  * Good docker hygiene http://blog.yohanliyanage.com/2015/05/docker-clean-up-after-yourself/
  * Where's all my space?? `ncdu` is the shiz http://unix.stackexchange.com/questions/125429/tracking-down-where-disk-space-has-gone-on-linux
  * Get the most out of physical raw material http://svgnest.com/
+
+## 1/20/2016
+ * MySQL remote access: http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
