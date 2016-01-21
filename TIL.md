@@ -284,3 +284,6 @@ A small list of shit I learned.
 ## 1/20/2016
  * MySQL remote access: http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
  * `service mysql stop/start` works better than restart
+
+## 1/21/2016
+ * Cron jobs! Can't believe didn't know how to use /noob https://help.ubuntu.com/community/CronHowto
