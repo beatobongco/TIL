@@ -283,3 +283,4 @@ A small list of shit I learned.
 
 ## 1/20/2016
  * MySQL remote access: http://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html
+ * `service mysql stop/start` works better than restart
