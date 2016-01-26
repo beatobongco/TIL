@@ -287,3 +287,6 @@ A small list of shit I learned.
 
 ## 1/21/2016
  * Cron jobs! Can't believe didn't know how to use /noob https://help.ubuntu.com/community/CronHowto
+
+## 1/26/2016
+ * Novella that might help with design http://www.fastcodesign.com/3045202/wanted/the-classic-novella-iflatland-i-finally-gets-the-design-makeover-it-deserves
