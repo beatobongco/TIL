@@ -294,3 +294,5 @@ A small list of shit I learned.
 ## 1/27/2016
  * ```Asking someone to change deep-seated beliefs like political or religious viewpoints is asking them to run a mental marathon, and the vast majority of people cannot be bothered. Often only the youth, with healthy energetic minds stay in a state of flux in their viewpoints.``` http://robrhinehart.com/?p=570
  * The right way to start building a product: http://www.themacro.com/articles/2016/01/minimum-viable-product-process/
+ * Beautiful reason why we work on web: https://remysharp.com/2016/01/20/why-i-love-working-with-the-web
+ * Study this during free time! jQuery original source with dev commentary! http://genius.it/5113970/ejohn.org/files/jquery-original.html 
