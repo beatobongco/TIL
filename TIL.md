@@ -296,3 +296,4 @@ A small list of shit I learned.
  * The right way to start building a product: http://www.themacro.com/articles/2016/01/minimum-viable-product-process/
  * Beautiful reason why we work on web: https://remysharp.com/2016/01/20/why-i-love-working-with-the-web
  * Study this during free time! jQuery original source with dev commentary! http://genius.it/5113970/ejohn.org/files/jquery-original.html 
+ * Nice flex based grid system
