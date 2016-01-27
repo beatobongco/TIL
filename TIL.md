@@ -290,3 +290,6 @@ A small list of shit I learned.
 
 ## 1/26/2016
  * Novella that might help with design http://www.fastcodesign.com/3045202/wanted/the-classic-novella-iflatland-i-finally-gets-the-design-makeover-it-deserves
+
+## 1/27/2016
+ * ```Asking someone to change deep-seated beliefs like political or religious viewpoints is asking them to run a mental marathon, and the vast majority of people cannot be bothered. Often only the youth, with healthy energetic minds stay in a state of flux in their viewpoints.``` http://robrhinehart.com/?p=570
