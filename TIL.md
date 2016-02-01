@@ -297,3 +297,11 @@ A small list of shit I learned.
  * Beautiful reason why we work on web: https://remysharp.com/2016/01/20/why-i-love-working-with-the-web
  * Study this during free time! jQuery original source with dev commentary! http://genius.it/5113970/ejohn.org/files/jquery-original.html 
  * Nice flex based grid system http://leejordan.github.io/reflex/docs/
+
+## 2/1/2016
+ * https://www.udacity.com/course/intro-to-statistics--st101
+ * Lesson 2: Given constant price per unit w/c is unknown, you can quickly find price of something via 
+1400 sqft = 112,000; 1800 sqft = 144,000; 1500 = ?
+112,000 + 1/4(112,000 + 144,000) = 120,000
+You can say 1400 is priced at 112,000 plus a quarter of the way to 1800's price which is 144,000. Ans: 120,000
+Of course, I think alt way is much better w/c is determining avg price per sqft then mult by 1500. 1500 * 80 = 120,000.
