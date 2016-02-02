@@ -301,3 +301,6 @@ A small list of shit I learned.
 ## 2/1/2016
  * https://www.udacity.com/course/intro-to-statistics--st101
  * Find details under TIL/2016-2-1.md
+
+## 2/3/2016
+ * The best UI design I have ever seen http://fantasy.co/work
