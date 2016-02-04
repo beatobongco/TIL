@@ -305,3 +305,6 @@ A small list of shit I learned.
 ## 2/3/2016
  * The best UI design I have ever seen http://fantasy.co/work
  * Super useful article about inline-block http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/
+
+## 2/4/2016
+ * Answer 1: Tooltip prop in html, Answer 2: CSS only tooltip! http://stackoverflow.com/questions/7117073/how-to-add-a-tooltip-to-a-div
