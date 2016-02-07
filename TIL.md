@@ -308,3 +308,8 @@ A small list of shit I learned.
 
 ## 2/4/2016
  * Answer 1: Tooltip prop in html, Answer 2: CSS only tooltip! http://stackoverflow.com/questions/7117073/how-to-add-a-tooltip-to-a-div
+
+
+## 2/7/2016
+ * SQL for humans! https://github.com/kennethreitz/records
+ * Lessons from a failed startup https://medium.com/@producthunt/the-rise-and-fall-of-everest-the-app-b0d2e6cb594c#.bcodfg894
