@@ -313,3 +313,6 @@ A small list of shit I learned.
 ## 2/7/2016
  * SQL for humans! https://github.com/kennethreitz/records
  * Lessons from a failed startup https://medium.com/@producthunt/the-rise-and-fall-of-everest-the-app-b0d2e6cb594c#.bcodfg894
+
+## 2/10/2016
+ * Philosophical concepts in an interesting format https://www.reddit.com/r/psycho_alpaca/comments/3qoyve/wp_ever_since_you_were_born_youve_possessed_the/
