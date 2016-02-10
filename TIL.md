@@ -316,3 +316,4 @@ A small list of shit I learned.
 
 ## 2/10/2016
  * Philosophical concepts in an interesting format https://www.reddit.com/r/psycho_alpaca/comments/3qoyve/wp_ever_since_you_were_born_youve_possessed_the/
+ * `The worst word you can be called as an entrepreneur is timid.` http://www.businessinsider.com/dating-a-model-taught-me-about-opportunity-2014-11
