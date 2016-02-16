@@ -318,6 +318,5 @@ A small list of shit I learned.
  * Philosophical concepts in an interesting format https://www.reddit.com/r/psycho_alpaca/comments/3qoyve/wp_ever_since_you_were_born_youve_possessed_the/
  * `The worst word you can be called as an entrepreneur is timid.` http://www.businessinsider.com/dating-a-model-taught-me-about-opportunity-2014-11
 
-## 2/14/2016
- * https://www.udacity.com/course/intro-to-statistics--st101
- * Find details under TIL/2016-2-14.md
+## 2/16/2016
+ * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
