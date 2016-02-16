@@ -319,4 +319,4 @@ A small list of shit I learned.
  * `The worst word you can be called as an entrepreneur is timid.` http://www.businessinsider.com/dating-a-model-taught-me-about-opportunity-2014-11
 
 ## 2/16/2016
- * https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+ * AI for robotics! Udacity is fucking awesome. https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
