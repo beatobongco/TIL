@@ -320,3 +320,6 @@ A small list of shit I learned.
 
 ## 2/16/2016
  * AI for robotics! Udacity is fucking awesome. https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
+
+## 2/19/2016
+ * SUPER SIMPLE APIS! <3 https://github.com/timothycrosley/hug
