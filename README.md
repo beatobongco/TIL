@@ -324,6 +324,9 @@ A small list of shit I learned.
 ## 2/19/2016
  * SUPER SIMPLE APIS! <3 This + flask or whatever https://github.com/timothycrosley/hug
 
-## 2/22/106
+## 2/22/2016
  * `argv` in python gets args after running script like script_name, arg1, arg2, arg3 = argv `python script.py blah blah blah`
  * Probability distributions see 2016-2-22.md
+
+## 2/25/2016
+ * Accelerated Mobile Pages (!!) https://github.com/ampproject/amphtml
