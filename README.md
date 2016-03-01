@@ -333,3 +333,7 @@ A small list of shit I learned.
 
 ## 2/26/2016
  * "First principles" or how to make hard decisions. A good explanation of stick to the facts https://medium.com/@mmccue/the-most-powerful-lesson-i-ve-ever-learned-in-business-4d89e95ab250#.4cpr824je
+
+## 3/1/2016
+ * Small JS lib for onboarding apps! http://introjs.com/
+ * React Slides https://github.com/FormidableLabs/spectacle
