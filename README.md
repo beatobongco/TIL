@@ -337,3 +337,6 @@ A small list of shit I learned.
 ## 3/1/2016
  * Small JS lib for onboarding apps! http://introjs.com/
  * React Slides https://github.com/FormidableLabs/spectacle
+
+## 3/2/2016
+ * Revisit react basics http://courses.reactjsprogram.com/courses/reactjsfundamentals
