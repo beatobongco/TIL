@@ -340,3 +340,4 @@ A small list of shit I learned.
 
 ## 3/2/2016
  * Revisit react basics http://courses.reactjsprogram.com/courses/reactjsfundamentals
+ * Easy lazyloading images in vanilla js https://github.com/aFarkas/lazysizes
