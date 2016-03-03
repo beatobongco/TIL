@@ -326,7 +326,7 @@ A small list of shit I learned.
 
 ## 2/22/2016
  * `argv` in python gets args after running script like script_name, arg1, arg2, arg3 = argv `python script.py blah blah blah`
- * Probability distributions see 2016-2-22.md
+ * Probability dipstributions see 2016-2-22.md
 
 ## 2/25/2016
  * Accelerated Mobile Pages (!!) https://github.com/ampproject/amphtml
@@ -341,3 +341,7 @@ A small list of shit I learned.
 ## 3/2/2016
  * Revisit react basics http://courses.reactjsprogram.com/courses/reactjsfundamentals
  * Easy lazyloading images in vanilla js https://github.com/aFarkas/lazysizes
+
+## 3/3/2016
+ * DEEP LEARNING https://www.udacity.com/course/viewer#!/c-ud730/l-6370362152/m-6379811815
+ * ADVANCED PYTHON https://www.udacity.com/courses/cs212
