@@ -345,6 +345,3 @@ A small list of shit I learned.
 ## 3/3/2016
  * DEEP LEARNING https://www.udacity.com/course/viewer#!/c-ud730/l-6370362152/m-6379811815
  * ADVANCED PYTHON https://www.udacity.com/courses/cs212
-
-## 3/6/2016
- * As of version 1.7.7 you can use `git stash save -u` to stash untracked files without staging them.
