@@ -345,3 +345,6 @@ A small list of shit I learned.
 ## 3/3/2016
  * DEEP LEARNING https://www.udacity.com/course/viewer#!/c-ud730/l-6370362152/m-6379811815
  * ADVANCED PYTHON https://www.udacity.com/courses/cs212
+
+## 3/8/2016
+ * capture the screen, face, voice and all the touches/clicks on a device, and then automatically upload it to your dashboard for you to view, collaborate, and share. https://lookback.io/
