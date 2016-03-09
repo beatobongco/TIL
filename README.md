@@ -354,3 +354,4 @@ A small list of shit I learned.
  * Configurable React Stateless Functional UI Components https://github.com/jxnblk/rebass
  * REACT EVERYWHERE WOO https://github.com/necolas/react-native-web
  * CSS to use for your next project http://www.basscss.com/
+ * Brent Jackson's reading list! Front End + UX right up my alley!! http://jxnblk.com/reading-list/
