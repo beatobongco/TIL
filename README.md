@@ -348,3 +348,8 @@ A small list of shit I learned.
 
 ## 3/8/2016
  * capture the screen, face, voice and all the touches/clicks on a device, and then automatically upload it to your dashboard for you to view, collaborate, and share. https://lookback.io/
+
+## 3/9/2016
+ * Static render React https://github.com/necolas/react-native-web
+ * Configurable React Stateless Functional UI Components https://github.com/jxnblk/rebass
+ * REACT EVERYWHERE WOO https://github.com/necolas/react-native-web
