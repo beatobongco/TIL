@@ -355,3 +355,6 @@ A small list of shit I learned.
  * REACT EVERYWHERE WOO https://github.com/necolas/react-native-web
  * CSS to use for your next project http://www.basscss.com/
  * Brent Jackson's reading list! Front End + UX right up my alley!! http://jxnblk.com/reading-list/
+
+## 3/16/2016
+ * How to get and choose clients https://medium.com/@letsworkshop/david-ogilvy-s-20-unconventional-rules-for-getting-clients-319f9abed7d5
