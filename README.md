@@ -358,3 +358,6 @@ A small list of shit I learned.
 
 ## 3/16/2016
  * How to get and choose clients https://medium.com/@letsworkshop/david-ogilvy-s-20-unconventional-rules-for-getting-clients-319f9abed7d5
+
+## 3/17/2016
+ * Super awesome free fonts!! http://open-foundry.com/hot30
