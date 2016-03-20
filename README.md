@@ -361,3 +361,6 @@ A small list of shit I learned.
 
 ## 3/17/2016
  * Super awesome free fonts!! http://open-foundry.com/hot30
+
+## 3/20/2016
+ * Easy signups, would be nice to copy https://magicsignup.com/
