@@ -364,3 +364,6 @@ A small list of shit I learned.
 
 ## 3/20/2016
  * Easy signups, would be nice to copy https://magicsignup.com/
+
+## 3/25/2016
+ * VIRTUAL CREDIT CARDS! https://privacy.com/
