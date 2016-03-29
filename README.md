@@ -367,3 +367,6 @@ A small list of shit I learned.
 
 ## 3/25/2016
  * VIRTUAL CREDIT CARDS! https://privacy.com/
+
+## 3/29/2016
+ * Daily top 10 Hacker News! http://www.daemonology.net/hn-daily/
