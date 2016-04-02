@@ -370,3 +370,6 @@ A small list of shit I learned.
 
 ## 3/29/2016
  * Daily top 10 Hacker News! http://www.daemonology.net/hn-daily/
+
+## 4/2/2016
+ * Forming a pyramid base in climbing http://www.climbstrong.com/articles/20140501
