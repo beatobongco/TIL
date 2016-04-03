@@ -373,3 +373,6 @@ A small list of shit I learned.
 
 ## 4/2/2016
  * Forming a pyramid base in climbing http://www.climbstrong.com/articles/20140501
+
+## 4/3/2016
+ * Python's string.format for JS! https://github.com/sindresorhus/multiline
