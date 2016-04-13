@@ -381,3 +381,4 @@ A small list of shit I learned.
  * Messeger platform - bots for facebook https://messengerplatform.fb.com/
  * Wit AI Natural language for devs https://wit.ai/
  * /usr/bin/env: node: No such file or directory FIX `ln -s /usr/bin/nodejs /usr/bin/node`
+ * `flex: none;` This is equivalent to flex: 0 0 auto. It sizes the item according to its width/height properties, but makes it fully inflexible. This is similar to flex: initial except it is not allowed to shrink, even in an overflow situation. Super useful for divs with no content and background image. https://css-tricks.com/almanac/properties/f/flex/#article-header-id-4
