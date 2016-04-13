@@ -376,3 +376,7 @@ A small list of shit I learned.
 
 ## 4/6/2016
  * Github post commit hooks http://oli.jp/2011/github-pages-workflow/
+
+## 4/13/2016
+ * Messeger platform - bots for facebook https://messengerplatform.fb.com/
+ * Wit AI Natural language for devs https://wit.ai/
