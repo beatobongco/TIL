@@ -380,3 +380,4 @@ A small list of shit I learned.
 ## 4/13/2016
  * Messeger platform - bots for facebook https://messengerplatform.fb.com/
  * Wit AI Natural language for devs https://wit.ai/
+ * /usr/bin/env: node: No such file or directory FIX `ln -s /usr/bin/nodejs /usr/bin/node`
