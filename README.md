@@ -383,3 +383,6 @@ A small list of shit I learned.
  * /usr/bin/env: node: No such file or directory FIX `ln -s /usr/bin/nodejs /usr/bin/node`
  * `flex: none;` This is equivalent to flex: 0 0 auto. It sizes the item according to its width/height properties, but makes it fully inflexible. This is similar to flex: initial except it is not allowed to shrink, even in an overflow situation. Super useful for divs with no content and background image. https://css-tricks.com/almanac/properties/f/flex/#article-header-id-4
  * TODO: Make a tutorial for flex. Remember: `display: flex;`, `flex: 1`, `overflow: auto or hidden;` are your 3 key css properties to modify to get awesome scaling apps.
+
+## 4/25/2016
+ * Do stuff on a previous page with `window.opener`! https://mathiasbynens.github.io/rel-noopener/
