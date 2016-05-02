@@ -386,3 +386,6 @@ A small list of shit I learned.
 
 ## 4/25/2016
  * Do stuff on a previous page with `window.opener`! https://mathiasbynens.github.io/rel-noopener/
+
+## 5/2/2016
+ * CSS: The `~` combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.
