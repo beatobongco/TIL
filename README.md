@@ -393,3 +393,5 @@ A small list of shit I learned.
 ## 5/4/2016
  * Minimalist CSS framework + looks quite nice https://milligram.github.io
  * A lot of interesting CSS effects here https://github.com/h5bp/Effeckt.css
+ * Best simple CSS tooltips http://kushagragour.in/lab/hint/
+ * Super awesome CSS fw based on flexbox https://github.com/jgthms/bulma
