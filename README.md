@@ -392,3 +392,4 @@ A small list of shit I learned.
 
 ## 5/4/2016
  * Minimalist CSS framework + looks quite nice https://milligram.github.io
+ * A lot of interesting CSS effects here https://github.com/h5bp/Effeckt.css
