@@ -389,3 +389,6 @@ A small list of shit I learned.
 
 ## 5/2/2016
  * CSS: The `~` combinator separates two selectors and matches the second element only if it is preceded by the first, and both share a common parent.
+
+## 5/4/2016
+ * Minimalist CSS framework + looks quite nice https://milligram.github.io
