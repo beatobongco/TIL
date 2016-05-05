@@ -395,3 +395,6 @@ A small list of shit I learned.
  * A lot of interesting CSS effects here https://github.com/h5bp/Effeckt.css
  * Best simple CSS tooltips http://kushagragour.in/lab/hint/
  * Super awesome CSS fw based on flexbox https://github.com/jgthms/bulma
+
+## 5/5/2016
+ * docker logs take up a lotta space (like gigs) why not delete them? `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
