@@ -398,3 +398,4 @@ A small list of shit I learned.
 
 ## 5/5/2016
  * docker logs take up a lotta space (like gigs) why not delete them? `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
+ * Pretty + quick CSS spinners http://projects.lukehaas.me/css-loaders/
