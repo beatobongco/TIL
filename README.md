@@ -375,7 +375,7 @@ A small list of shit I learned.
  * Forming a pyramid base in climbing http://www.climbstrong.com/articles/20140501
 
 ## 4/6/2016
- * Github post commit hooks http://oli.jp/2011/github-pages-workflow/
+ * Github post commit hooks http://oli.jp/2011/github-pages-workflow/ Don't forget to `chmod +x .git/hooks/post-commit`
 
 ## 4/13/2016
  * Messeger platform - bots for facebook https://messengerplatform.fb.com/
