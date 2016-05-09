@@ -400,7 +400,7 @@ A small list of shit I learned.
  * docker logs take up a lotta space (like gigs) why not delete them? `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
  * Pretty + quick CSS spinners http://projects.lukehaas.me/css-loaders/
 
-## 5/102016
+## 5/10/2016
  * Clean way of preloading via CSS only
  ```
  #preload { 
