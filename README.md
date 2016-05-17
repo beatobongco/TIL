@@ -407,3 +407,6 @@ A small list of shit I learned.
 		background: url(../img/move.gif) no-repeat -9999px -9999px; 
 	}
 	```
+
+## 5/17/2016
+ * Client side JS notebook. Super beautiful! https://github.com/JoelOtter/kajero
