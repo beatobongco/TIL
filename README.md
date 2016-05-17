@@ -410,3 +410,4 @@ A small list of shit I learned.
 
 ## 5/17/2016
  * Client side JS notebook. Super beautiful! https://github.com/JoelOtter/kajero
+ * Find images' visual center http://javier.xyz/visual-center/
