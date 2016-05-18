@@ -411,3 +411,6 @@ A small list of shit I learned.
 ## 5/17/2016
  * Client side JS notebook. Super beautiful! https://github.com/JoelOtter/kajero
  * Find images' visual center http://javier.xyz/visual-center/
+
+## 5/18/2016
+ * Create flaks project: http://getflakes.com/ + Flask to create awesome as shit dumb UI and allow programmers to type super little shit but get a great dumb UI.
