@@ -415,3 +415,6 @@ A small list of shit I learned.
 ## 5/18/2016
  * Create flaks project: http://getflakes.com/ + Flask to create awesome as shit dumb UI and allow programmers to type super little shit but get a great dumb UI.
  * Awesome JS dates, good for cohort https://date-fns.org/
+
+## 5/25/2016
+ * Dedicated events db (could replace bitmapist!) http://traildb.io/
