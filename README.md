@@ -13,7 +13,7 @@ A small list of shit I learned.
    * Finally `psql -hdb -U <username> -W < backup.sql`
  
  * Run a docker container `docker-compose run --rm <container> <cmd>` 
-
+f
 ## 4/9/2015
  * Style console.log! Useful for teaching javascript! https://github.com/adamschwartz/log
  * Resources for icons!
@@ -413,7 +413,7 @@ A small list of shit I learned.
  * Find images' visual center http://javier.xyz/visual-center/
 
 ## 5/18/2016
- * Create flaks project: http://getflakes.com/ + Flask to create awesome as shit dumb UI and allow programmers to type super little shit but get a great dumb UI.
+ * Create flaks project: http://getflakes.com/ + Flask to create awesome as shit dumb UI and allow programmers to type super little shit but get a great dumb UI. ADD to Flaks: https://github.com/ankane/blazer
  * Awesome JS dates, good for cohort https://date-fns.org/
 
 ## 5/25/2016
