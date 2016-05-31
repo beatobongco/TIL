@@ -418,3 +418,6 @@ f
 
 ## 5/25/2016
  * Dedicated events db (could replace bitmapist!) http://traildb.io/
+
+## 5/31/2016
+ * 4 startup interview questions https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4#.2bmsec417
