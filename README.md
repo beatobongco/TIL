@@ -425,3 +425,4 @@ f
 ## 6/1/2016
  * Beautiful short book on typography and design https://drive.google.com/open?id=0BwLflDF52HU6OUM5N2Y1RThDaHM
  * Nice to teach bite sized concepts. This one is for redux https://github.com/rstacruz/pocket-explainer
+ * Beautiful pixelart http://saymygame.com/
