@@ -421,3 +421,7 @@ f
 
 ## 5/31/2016
  * 4 startup interview questions https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4#.2bmsec417
+
+## 6/1/2016
+ * Beautiful short book on typography and design https://drive.google.com/open?id=0BwLflDF52HU6OUM5N2Y1RThDaHM
+ * Nice to teach bite sized concepts. This one is for redux https://github.com/rstacruz/pocket-explainer
