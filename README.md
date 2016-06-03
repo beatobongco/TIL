@@ -426,3 +426,6 @@ f
  * Beautiful short book on typography and design https://drive.google.com/open?id=0BwLflDF52HU6OUM5N2Y1RThDaHM
  * Nice to teach bite sized concepts. This one is for redux https://github.com/rstacruz/pocket-explainer
  * Beautiful pixelart http://saymygame.com/
+
+## 6/3/2016
+ * UI in movies! Great to study! http://www.pushing-pixels.org/fui/
