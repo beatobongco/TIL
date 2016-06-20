@@ -432,3 +432,6 @@ f
 
 ## 6/7/2016
  * Can make awesome stuff with this! http://googlecreativelab.github.io/anypixel/ UI KATA!
+
+## 6/20/2016
+ * Intent and not permission, good for a distributed startup with non-drones https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940#.akg8ihtj3
