@@ -439,3 +439,6 @@ f
 
 ## 6/22/2016
  * Extra input like combobox and datepicker http://alexkuz.github.io/react-input-enhancements/
+
+## 6/27/2016
+ * Material design dark hex shades https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7VHFTNDBGODlvakk/style_color_themes_dark1.png
