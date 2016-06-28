@@ -442,3 +442,6 @@ f
 
 ## 6/27/2016
  * Material design dark hex shades https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7VHFTNDBGODlvakk/style_color_themes_dark1.png
+
+## 6/28/2016
+ * Advice to startups to get off venture capital https://skift.com/2016/01/02/how-we-got-off-the-addiction-to-venture-capital-and-created-our-own-way-to-profits/
