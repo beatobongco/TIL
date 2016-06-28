@@ -445,3 +445,4 @@ f
 
 ## 6/28/2016
  * Advice to startups to get off venture capital https://skift.com/2016/01/02/how-we-got-off-the-addiction-to-venture-capital-and-created-our-own-way-to-profits/
+ * A "WOW!" animation library anime.js https://github.com/juliangarnier/anime http://codepen.io/collection/XLebem/
