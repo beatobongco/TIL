@@ -450,3 +450,6 @@ f
 ## 7/5/2016
  * Better than wow.js because its free and also performant and lightweight. Triggers animation on scroll https://github.com/terwanerik/ScrollTrigger
  * Less than 1kb parallax library https://github.com/dixonandmoe/rellax
+
+## 7/7/2016
+ * Do things in pure CSS! https://github.com/NamPNQ/You-Dont-Need-Javascript
