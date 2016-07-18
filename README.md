@@ -453,3 +453,6 @@ f
 
 ## 7/7/2016
  * Do things in pure CSS! https://github.com/NamPNQ/You-Dont-Need-Javascript
+
+## 7/18/2016
+ * Animate your favicon! http://lab.ejci.net/favico.js/
