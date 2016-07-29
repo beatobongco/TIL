@@ -460,3 +460,4 @@ f
 ## 7/29/2016
  * In love with Vue.js http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/ http://blog.evanyou.me/2015/12/20/vuejs-2015-in-review/ 
  * Evan You: `“Progressive Framework” - we can scale up the framework’s complexity incrementally, only when the project’s inherent complexity demands it.`
+ * Make address usable again / kill process that is using the address `sudo fuser -k 80/tcp`
