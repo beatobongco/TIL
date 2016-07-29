@@ -456,3 +456,6 @@ f
 
 ## 7/18/2016
  * Animate your favicon! http://lab.ejci.net/favico.js/
+
+## 7/29/2016
+ * In love with Vue.js http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/ http://blog.evanyou.me/2015/12/20/vuejs-2015-in-review/ 
