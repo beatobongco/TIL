@@ -463,3 +463,6 @@ f
  * Make address usable again / kill process that is using the address `sudo fuser -k 80/tcp`
  * Super pretty answer to What is Web Design http://jgthms.com/web-design-in-4-minutes/
  * Really pretty HTML CSS tutorials http://marksheet.io/
+
+## 8/4/2016
+ * Amazing frontend portfolio! http://www.nerval.ch/
