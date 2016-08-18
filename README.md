@@ -466,3 +466,6 @@ f
 
 ## 8/4/2016
  * Amazing frontend portfolio! http://www.nerval.ch/
+
+## 8/18/2016
+ * For frontend design, more efficient to use CSS instead of writing more JS http://www.heydonworks.com/article/on-writing-less-damn-code
