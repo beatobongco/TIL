@@ -469,3 +469,6 @@ f
 
 ## 8/18/2016
  * For frontend design, more efficient to use CSS instead of writing more JS http://www.heydonworks.com/article/on-writing-less-damn-code
+
+## 8/26/2016
+ * Vitaly Friedman is prettty awesome for frontend stuff https://www.youtube.com/watch?v=U4xd2ZwMOIk
