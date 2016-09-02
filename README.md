@@ -472,3 +472,6 @@ f
 
 ## 8/26/2016
  * Vitaly Friedman is prettty awesome for frontend stuff https://www.youtube.com/watch?v=U4xd2ZwMOIk
+
+## 9/2/2016
+ * In Chrome dev console, one can highlight an element and type in console $1 to reference that element and do shit to it.
