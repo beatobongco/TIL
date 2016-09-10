@@ -475,3 +475,6 @@ f
 
 ## 9/2/2016
  * In Chrome dev console, one can highlight an element and type in console $1 to reference that element and do shit to it.
+
+## 9/9/2016
+ * To remove directories, run `git clean -f -d` or `git clean -fd`.
