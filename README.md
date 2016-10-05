@@ -410,7 +410,7 @@ f
 
 ## 5/17/2016
  * Client side JS notebook. Super beautiful! https://github.com/JoelOtter/kajero
- * Find images' visual center http://javier.xyz/visual-center/
+ * Find images visual center http://javier.xyz/visual-center/
 
 ## 5/18/2016
  * Create flaks project: http://getflakes.com/ + Flask to create awesome as shit dumb UI and allow programmers to type super little shit but get a great dumb UI. ADD to Flaks: https://github.com/ankane/blazer
@@ -478,3 +478,6 @@ f
 
 ## 9/9/2016
  * To remove directories, run `git clean -f -d` or `git clean -fd`.
+
+## 10/5/2016
+ * Learned a lot setting up Ubuntu on Thinkpad x260. Skylake does not play well with Ubuntu. Use powertop and put on all tunables. Make sure deeper p states are used. https://wiki.archlinux.org/index.php/powertop
