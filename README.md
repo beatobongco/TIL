@@ -481,3 +481,4 @@ f
 
 ## 10/5/2016
  * Learned a lot setting up Ubuntu on Thinkpad x260. Skylake does not play well with Ubuntu. Use powertop and put on all tunables. Make sure deeper p states are used. https://wiki.archlinux.org/index.php/powertop
+ * http://askubuntu.com/questions/112705/how-do-i-make-powertop-changes-permanent
