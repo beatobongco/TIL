@@ -482,3 +482,6 @@ f
 ## 10/5/2016
  * Learned a lot setting up Ubuntu on Thinkpad x260. Skylake does not play well with Ubuntu. Use powertop and put on all tunables. Make sure deeper p states are used. https://wiki.archlinux.org/index.php/powertop
  * http://askubuntu.com/questions/112705/how-do-i-make-powertop-changes-permanent
+
+## 10/6/2016
+ * Enable ThinkPad fingerprint reader http://www.thinkwiki.org/wiki/How_to_enable_integrated_fingerprint_reader_with_fprint
