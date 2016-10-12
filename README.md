@@ -488,3 +488,4 @@ f
 
 ## 10/12/2016
  * http://jazcash.com/a-javascript-journey-with-only-six-characters/
+ * Invest in durable knowledge, not all knowledge is equal and some have longer "half-lives" http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php
