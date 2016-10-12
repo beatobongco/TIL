@@ -485,3 +485,6 @@ f
 
 ## 10/6/2016
  * Enable ThinkPad fingerprint reader http://www.thinkwiki.org/wiki/How_to_enable_integrated_fingerprint_reader_with_fprint
+
+## 10/12/2016
+ * http://jazcash.com/a-javascript-journey-with-only-six-characters/
