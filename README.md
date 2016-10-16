@@ -496,3 +496,4 @@ f
 ## 10/16/2016
  * https://juokaz.com/blog/becoming-a-cto
  * Ask HN: Good books on UI (for sure long half-life, its design) https://news.ycombinator.com/item?id=12711060
+ * Reminds me of Beknowntho https://shift.newco.co/what-50-buys-you-at-huaqiangbei-the-worlds-most-fascinating-electronics-market-f0384d9fca32#.sijgrtodz
