@@ -492,3 +492,6 @@ f
 
 ## 10/15/2016
  * http://youmightnotneedjs.com/
+ 
+## 10/16/2016
+ * https://juokaz.com/blog/becoming-a-cto
