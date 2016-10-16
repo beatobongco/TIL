@@ -498,3 +498,4 @@ f
  * Ask HN: Good books on UI (for sure long half-life, its design) https://news.ycombinator.com/item?id=12711060
  * Reminds me of Beknowntho https://shift.newco.co/what-50-buys-you-at-huaqiangbei-the-worlds-most-fascinating-electronics-market-f0384d9fca32#.sijgrtodz
  * Good list of programming books http://www.billthelizard.com/2008/12/books-programmers-dont-really-read.html
+ * Ask HN YouTube channel for devs https://news.ycombinator.com/item?id=12702651
