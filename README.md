@@ -506,5 +506,6 @@ f
  * Icons in pure css. Awesome! http://cssicon.space/#/
  
  ## 10/23/2016
-  * Fun APIs to play with https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
-  * Nice static website generator https://gohugo.io/
+ * Fun APIs to play with https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
+ * Nice static website generator https://gohugo.io/
+ * Manually curated collection of resources for frontend web developers. https://frontend.directory/p
