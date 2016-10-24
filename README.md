@@ -509,3 +509,7 @@ f
  * Fun APIs to play with https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
  * Nice static website generator https://gohugo.io/
  * Manually curated collection of resources for frontend web developers. https://frontend.directory/p
+
+## 10/24/2016
+ * 40 Key Computer Science Concepts Explained In Layman’s Terms http://carlcheo.com/compsci
+ * EXTREMELY USEFUL COLOR PALETTE THINGY https://coolors.co
