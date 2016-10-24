@@ -513,3 +513,4 @@ f
 ## 10/24/2016
  * 40 Key Computer Science Concepts Explained In Layman’s Terms http://carlcheo.com/compsci
  * EXTREMELY USEFUL COLOR PALETTE THINGY https://coolors.co
+ * Awesome HN comments, lots of stuff about startups, hiring, code http://danluu.com/hn-comments/
