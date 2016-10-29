@@ -505,7 +505,7 @@ f
  * DIY design education https://medium.com/facebook-design/a-diy-design-education-218a4a2d340f#.vx2rupab2
  * Icons in pure css. Awesome! http://cssicon.space/#/
  
- ## 10/23/2016
+## 10/23/2016
  * Fun APIs to play with https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
  * Nice static website generator https://gohugo.io/
  * Manually curated collection of resources for frontend web developers. https://frontend.directory/p
@@ -514,3 +514,6 @@ f
  * 40 Key Computer Science Concepts Explained In Layman’s Terms http://carlcheo.com/compsci
  * EXTREMELY USEFUL COLOR PALETTE THINGY https://coolors.co
  * Awesome HN comments, lots of stuff about startups, hiring, code http://danluu.com/hn-comments/
+
+## 10/29/2016
+ * Fix chrome screen tearing http://askubuntu.com/questions/766725/annoying-flickering-in-16-04-lts-chrome
