@@ -520,3 +520,4 @@ f
 
 ## 10/30/2016
  * Great blog on startups. Article of how to de-risk https://codingvc.com/how-to-de-risk-a-startup/
+ * The case for being bored, wandering around to walk, perhaps meditation. Limiting TV, computer and internet use (only a certain time where wifi is available) https://www.weforum.org/agenda/2016/09/being-bored-is-good-for-children-and-adults-this-is-why/
