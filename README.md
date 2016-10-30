@@ -517,3 +517,6 @@ f
 
 ## 10/29/2016
  * Fix chrome screen tearing http://askubuntu.com/questions/766725/annoying-flickering-in-16-04-lts-chrome
+
+## 10/30/2016
+ * Great blog on startups. Article of how to de-risk https://codingvc.com/how-to-de-risk-a-startup/
