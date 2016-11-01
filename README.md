@@ -524,3 +524,6 @@ f
 
 ## 10/31/2016
  * Better fonts on Ubuntu http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html
+ 
+ ## 11/1/2016
+ * This is how to do SEO! https://www.indiehackers.com/businesses/instapainting
