@@ -525,6 +525,9 @@ f
 ## 10/31/2016
  * Better fonts on Ubuntu http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html
  
- ## 11/1/2016
+## 11/1/2016
  * This is how to do SEO! https://www.indiehackers.com/businesses/instapainting
  * `try to take a known working category and try to invent 20% of it, rather than 90%. Apple didn’t invent the smartphone, the MP3 player, or the computer, and yet they are super innovative and successful. You don’t have to invent a new product category either, and it’s easier to get to product/market fit when you have a baseline competitor to compete against.` http://andrewchen.co/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/
+ 
+## 11/10/2016
+ * Data viz! https://datastudio.google.com
