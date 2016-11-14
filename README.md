@@ -535,3 +535,4 @@ f
 ## 11/14/2016
  * React UI Toolkit http://blueprintjs.com/
  * Good startup ideas http://www.defmacro.org/2015/02/25/startup-ideas.html
+ * Great way to run a software development company. https://dev.to/isaacandsuch/developer-driven-development/
