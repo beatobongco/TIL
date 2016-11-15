@@ -536,3 +536,6 @@ f
  * React UI Toolkit http://blueprintjs.com/
  * Good startup ideas http://www.defmacro.org/2015/02/25/startup-ideas.html
  * Great way to run a software development company. https://dev.to/isaacandsuch/developer-driven-development/
+
+## 11/15/2016
+ * Interesting small projects to do to improve! Great for UI-Kata work https://github.com/karan/Projects#web
