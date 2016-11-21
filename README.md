@@ -539,3 +539,6 @@ f
 
 ## 11/15/2016
  * Interesting small projects to do to improve! Great for UI-Kata work https://github.com/karan/Projects#web
+
+## 11/21/2016
+ * Use css pointer events to make something not clickable and make it not block elements under it http://caniuse.com/pointer-events/embed/ https://developer.mozilla.org/en/docs/Web/CSS/pointer-events
