@@ -550,3 +550,4 @@ f
    - Increase max connections so a TCP setting can be enforced. Set `sysctl net.core.somaxconn=65535` and add ti `sysctl.conf`
    - Disable Transparent Huge Pages (THP). If enabled (by default) this will create latency and memory usage issues with Redis. Run `echo never > /sys/kernel/mm/transparent_hugepage/enabled`.
  * Lessons for the future perhaps https://www.technologyreview.com/s/602961/four-lessons-for-silicon-valley-from-its-first-startup/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
+ * `git diff --cached <filename>` see changes of file 
