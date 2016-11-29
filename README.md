@@ -549,3 +549,4 @@ f
    - set the Linux kernel overcommit memory setting to 1 by `sysctl vm.overcommit_memory=1` and adding `vm.overcommit_memory = 1` to `/etc/sysctl.conf`. The default is 0. Redis background save may fail under low memory condition. (This is what I assume the original problem was about)
    - Increase max connections so a TCP setting can be enforced. Set `sysctl net.core.somaxconn=65535` and add ti `sysctl.conf`
    - Disable Transparent Huge Pages (THP). If enabled (by default) this will create latency and memory usage issues with Redis. Run `echo never > /sys/kernel/mm/transparent_hugepage/enabled`.
+ * Lessons for the future perhaps https://www.technologyreview.com/s/602961/four-lessons-for-silicon-valley-from-its-first-startup/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
