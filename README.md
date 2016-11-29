@@ -542,3 +542,10 @@ f
 
 ## 11/21/2016
  * Use css pointer events to make something not clickable and make it not block elements under it http://caniuse.com/pointer-events/embed/ https://developer.mozilla.org/en/docs/Web/CSS/pointer-events
+
+## 11/29/2016
+ * TIL: When using redis from a docker image (or redis in general actually) remember to do the following on the host server...
+
+   - set the Linux kernel overcommit memory setting to 1 by `sysctl vm.overcommit_memory=1` and adding `vm.overcommit_memory = 1` to `/etc/sysctl.conf`. The default is 0. Redis background save may fail under low memory condition. (This is what I assume the original problem was about)
+   - Increase max connections so a TCP setting can be enforced. Set `sysctl net.core.somaxconn=65535` and add ti `sysctl.conf`
+   - Disable Transparent Huge Pages (THP). If enabled (by default) this will create latency and memory usage issues with Redis. Run `echo never > /sys/kernel/mm/transparent_hugepage/enabled`.
