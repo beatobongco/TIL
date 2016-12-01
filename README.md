@@ -551,3 +551,6 @@ f
    - Disable Transparent Huge Pages (THP). If enabled (by default) this will create latency and memory usage issues with Redis. Run `echo never > /sys/kernel/mm/transparent_hugepage/enabled`.
  * Lessons for the future perhaps https://www.technologyreview.com/s/602961/four-lessons-for-silicon-valley-from-its-first-startup/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
  * `git diff --cached <filename>` see changes of file 
+
+## 12/1/2016
+ * Scaling up as a startup CEO https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/
