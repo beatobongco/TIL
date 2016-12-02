@@ -557,3 +557,5 @@ f
 
 ## 12/2/2016
  * Learn math one day, will be useful for dev. Discrete math and algos http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html
+ * Argument for designer + dev. Skill mastery diminishing returns, better to work on areas with larger return thus multi-discipline. http://www.forbes.com/sites/quora/2013/06/27/the-myth-of-the-myth-of-the-unicorn-designer/#1d627d783504
+ * https://irondavy.quora.com/Designers-Will-Code
