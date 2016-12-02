@@ -554,3 +554,6 @@ f
 
 ## 12/1/2016
  * Scaling up as a startup CEO https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/
+
+## 12/2/2016
+ * Learn math one day, will be useful for dev. Discrete math and algos http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html
