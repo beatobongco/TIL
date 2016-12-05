@@ -563,3 +563,4 @@ f
 ## 12/5/2016
  * Billing made easy https://plasso.com/billing
  * json on the command line http://200ok.ch/jq-my-new-favorite-tool-to-work-with-json-on-the-command-line/index.html
+ * HTTP client for redis https://github.com/nicolasff/webdis
