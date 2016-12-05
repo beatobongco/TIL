@@ -565,3 +565,4 @@ f
  * json on the command line http://200ok.ch/jq-my-new-favorite-tool-to-work-with-json-on-the-command-line/index.html
  * HTTP client for redis https://github.com/nicolasff/webdis
  * Firebase bindings for Vue https://github.com/vuejs/vuefire
+ * Make phone apps with vue https://github.com/vuejs/vue-touch
