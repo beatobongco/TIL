@@ -566,3 +566,6 @@ f
  * HTTP client for redis https://github.com/nicolasff/webdis
  * Firebase bindings for Vue https://github.com/vuejs/vuefire
  * Make phone apps with vue https://github.com/vuejs/vue-touch
+
+## 12/6/2016
+ * Cut mp3's online. Very useful. http://mp3cut.net/ 
