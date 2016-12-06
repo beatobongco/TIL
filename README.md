@@ -569,3 +569,4 @@ f
 
 ## 12/6/2016
  * Cut mp3's online. Very useful. http://mp3cut.net/ 
+ * Next time I need js client and server sync https://pouchdb.com/
