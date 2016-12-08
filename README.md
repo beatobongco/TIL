@@ -571,3 +571,6 @@ f
  * Cut mp3's online. Very useful. http://mp3cut.net/ 
  * Next time I need js client and server sync https://pouchdb.com/
  * Hot sync 2 redis https://github.com/stickermule/rump
+
+## 12/8/2016
+ * I want to learn how to create miniamlist assets of my own, ala flaticons. https://www.gimp.org/tutorials/Creating_Icons/
