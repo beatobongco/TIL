@@ -574,3 +574,4 @@ f
 
 ## 12/8/2016
  * I want to learn how to create miniamlist assets of my own, ala flaticons. https://www.gimp.org/tutorials/Creating_Icons/
+ * How to ship side projects http://blog.andyjiang.com/how-to-ship-side-projects/
