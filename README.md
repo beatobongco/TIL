@@ -576,4 +576,9 @@ f
  * I want to learn how to create miniamlist assets of my own, ala flaticons. https://www.gimp.org/tutorials/Creating_Icons/
  * How to ship side projects http://blog.andyjiang.com/how-to-ship-side-projects/
  * Idea: CRUD-tacular. A template for extremely quick client-side-only app with user management on localforage. Kinda like a superwireframe to test concepts quickly. Not meant for real app building. Bonus if you can make data persist somehow. Includes forms and viewing of forms.  
- * A picture book blog thing like the nytimes sometimes posts that allows mobile scrolling and fading in and out of pictures that remain centered. **PRIORITY**
+ * AESOP - A picture book blog thing like the nytimes sometimes posts that allows mobile scrolling and fading in and out of pictures that remain centered. **PRIORITY**
+ 
+ ## 12/8/2016
+  * HN people talk about side projects with passive income https://news.ycombinator.com/item?id=13150144
+  * Potential startup ideas https://news.ycombinator.com/item?id=13139638
+  * HN on how to supercharge code https://news.ycombinator.com/item?id=13142372
