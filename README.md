@@ -578,7 +578,10 @@ f
  * Idea: CRUD-tacular. A template for extremely quick client-side-only app with user management on localforage. Kinda like a superwireframe to test concepts quickly. Not meant for real app building. Bonus if you can make data persist somehow. Includes forms and viewing of forms.  
  * AESOP - A picture book blog thing like the nytimes sometimes posts that allows mobile scrolling and fading in and out of pictures that remain centered. **PRIORITY**
  
- ## 12/8/2016
-  * HN people talk about side projects with passive income https://news.ycombinator.com/item?id=13150144
-  * Potential startup ideas https://news.ycombinator.com/item?id=13139638
-  * HN on how to supercharge code https://news.ycombinator.com/item?id=13142372
+## 12/8/2016
+ * HN people talk about side projects with passive income https://news.ycombinator.com/item?id=13150144
+ * Potential startup ideas https://news.ycombinator.com/item?id=13139638
+ * HN on how to supercharge code https://news.ycombinator.com/item?id=13142372
+
+## 12/14/2016
+ * Rule of Silence can be applied to UX. Only what's necessary. http://www.linfo.org/rule_of_silence.html
