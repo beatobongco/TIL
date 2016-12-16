@@ -585,3 +585,6 @@ f
 
 ## 12/14/2016
  * Rule of Silence can be applied to UX. Only what's necessary. http://www.linfo.org/rule_of_silence.html
+
+## 12/16/2016
+ * Add a subdomain to a flask static route https://github.com/insynchq/web/issues/338
