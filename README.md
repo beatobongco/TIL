@@ -589,3 +589,6 @@ f
 ## 12/16/2016
  * Add a subdomain to a flask static route https://github.com/insynchq/web/issues/338
  * Shoulda totally used this waaaaay back. Flask decorators http://flask.pocoo.org/docs/0.11/patterns/viewdecorators/
+
+## 12/20/2016
+ * How to start a real business https://stripe.com/atlas/guide
