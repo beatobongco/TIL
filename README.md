@@ -592,3 +592,7 @@ f
 
 ## 12/20/2016
  * How to start a real business https://stripe.com/atlas/guide
+
+## 12/21/2016
+ * READ OTHER PEOPLE'S CODE https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding
+ * Best practical guide on starting a SaaS https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.elp95ovw5
