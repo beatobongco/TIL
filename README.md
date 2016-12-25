@@ -599,3 +599,7 @@ f
 
 ## 12/22/2016
  * Great layman explanation of deep learning http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0
+
+## 12/25/2016
+ * MERRY XMAS
+ * Education about AI and why it might not be as scary as we think http://idlewords.com/talks/superintelligence.htm
