@@ -603,3 +603,10 @@ f
 ## 12/25/2016
  * MERRY XMAS
  * Education about AI and why it might not be as scary as we think http://idlewords.com/talks/superintelligence.htm
+
+## 1/2/2017
+ * HAPPY NEW YEAR
+ * Validating demand https://www.upupgrow.com/blog/2016/12/20/how-to-validate-demand-for-your-product
+ * Communities with 1m users https://en.wikipedia.org/wiki/List_of_virtual_communities_with_more_than_1_million_users
+ * Guide to deep learning http://yerevann.com/a-guide-to-deep-learning/
+ * Principles - Ray Dalio https://www.principles.com/ https://principlesbydalio.com/
