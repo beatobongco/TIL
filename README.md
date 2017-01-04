@@ -610,3 +610,6 @@ f
  * Communities with 1m users https://en.wikipedia.org/wiki/List_of_virtual_communities_with_more_than_1_million_users
  * Guide to deep learning http://yerevann.com/a-guide-to-deep-learning/
  * Principles - Ray Dalio https://www.principles.com/ https://principlesbydalio.com/
+
+## 1/4/2017
+ * Being mentally + physically challenged helps your mind stay healthy even as you age. Ties in with Talent Code (deep practice) and Dalio (being in a constant state of discomfort) http://www.nytimes.com/2016/12/31/opinion/sunday/how-to-become-a-superager.html?smid=fb-share&_r=0
