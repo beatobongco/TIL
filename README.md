@@ -613,3 +613,4 @@ f
 
 ## 1/4/2017
  * Being mentally + physically challenged helps your mind stay healthy even as you age. Ties in with Talent Code (deep practice) and Dalio (being in a constant state of discomfort) http://www.nytimes.com/2016/12/31/opinion/sunday/how-to-become-a-superager.html?smid=fb-share&_r=0
+ * Hangboarding for Power Endrance + Endurance http://www.rockandice.com/rock-climbing-training/hangboarding-for-endurance-not-just-for-power
