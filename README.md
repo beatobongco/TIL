@@ -617,3 +617,4 @@ f
 
 ## 1/7/2017
  * Developer marketing guide https://www.devmarketingguide.com/
+ * Shopping cart platform for any website https://snipcart.com/
