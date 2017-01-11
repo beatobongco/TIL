@@ -621,3 +621,4 @@ f
 
 ## 1/11/2017
  * Proof that email marketing is the way https://www.campaignmonitor.com/company/annual-report/2016/
+ * http://githubengineering.com/moving-persistent-data-out-of-redis/
