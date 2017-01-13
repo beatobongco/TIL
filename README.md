@@ -622,3 +622,8 @@ f
 ## 1/11/2017
  * Proof that email marketing is the way https://www.campaignmonitor.com/company/annual-report/2016/
  * http://githubengineering.com/moving-persistent-data-out-of-redis/
+
+## 1/13/2017
+ * https://medium.com/swlh/mediums-best-design-writing-of-2016-68de5ed2b7d9
+ * Nice! Simple web design should be identifiable in a 9x9 grid https://medium.com/swlh/9x9-pixels-the-world-s-smallest-website-s-82c9e46a9fd0#.3fsg9kidg
+ * Nice color pairings! Use picker in photoshop! http://www.vanschneider.com/colors/
