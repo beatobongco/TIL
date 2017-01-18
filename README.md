@@ -633,3 +633,5 @@ f
  * List of naughty strings https://github.com/minimaxir/big-list-of-naughty-strings
  * Finish stuff! Even if not perfect! http://www.jacksimpson.co/finishing-being-productive-busy/
  * Be wary of zones of death/line of death on browser https://textslashplain.com/2017/01/14/the-line-of-death/
+ * Historical radio broadcasts http://radio.garden/history
+ * Random youtube videos with small views http://astronaut.io/
