@@ -635,3 +635,7 @@ f
  * Be wary of zones of death/line of death on browser https://textslashplain.com/2017/01/14/the-line-of-death/
  * Historical radio broadcasts http://radio.garden/history
  * Random youtube videos with small views http://astronaut.io/
+
+## 1/24/2017
+ * https://danluu.com/programming-blogs/
+ * https://danluu.com/programming-books/
