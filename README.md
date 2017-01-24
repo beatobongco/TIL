@@ -639,3 +639,7 @@ f
 ## 1/24/2017
  * https://danluu.com/programming-blogs/
  * https://danluu.com/programming-books/
+ * One day I'd love to make programmatic electronic music visualizations, or interactive art
+ * https://blog.framer.com/a-story-of-a-designer-conquering-mathematics-d0fd4585f0ba#.yyswavqs1
+ * Or perhaps create short movies http://zulko.github.io/moviepy/
+ * https://www.michaelfogleman.com/
