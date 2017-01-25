@@ -648,3 +648,6 @@ f
  * You can code Gnome shit in js using `gjs`! https://wiki.gnome.org/action/show/Projects/Gjs
  * Battlecode https://www.battlecode.org/
  * http://codedoodl.es/
+ * Exactly what I want to make: https://github.com/mattdesl/audiograph.xyz 
+ * This too:http://2013.jsconf.asia/blog/2013/11/8/jsconfasia-2013-mrdoob-ricardo-cabello-framejs
+ * Visualizations of electronic tracks, reactive to sound and movement of the crowd
