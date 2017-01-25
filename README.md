@@ -643,3 +643,6 @@ f
  * https://blog.framer.com/a-story-of-a-designer-conquering-mathematics-d0fd4585f0ba#.yyswavqs1
  * Or perhaps create short movies http://zulko.github.io/moviepy/
  * https://www.michaelfogleman.com/
+
+## 1/25/2017
+ * You can code Gnome shit in js using `gjs`! https://wiki.gnome.org/action/show/Projects/Gjs
