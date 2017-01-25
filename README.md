@@ -654,3 +654,6 @@ f
  * https://en.wikipedia.org/wiki/VJing
  * https://en.wikipedia.org/wiki/Demoscene
  * Get mp3 from youtube https://github.com/jcalazan/youtube-audio-dl
+ * Curated list of materials for audioviz https://github.com/willianjusten/awesome-audio-visualization
+ * https://github.com/unconed/ThreeAudio.js
+ * http://raathigesh.com/Audio-Visualization-with-Web-Audio-and-ThreeJS/
