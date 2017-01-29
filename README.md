@@ -661,3 +661,10 @@ f
 
 ## 1/29/2017
  * Upload image, choose paint, it will color for you. Machine learning!! http://paintschainer.preferred.tech/
+ * ```
+ 	L1 = [1, 28, 36]
+	L2 = [2, 57, 9]
+	for x in map(min, L1, L2):
+	  print(x)
+	//output: [1, 28, 9]
+   ```
