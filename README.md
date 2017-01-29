@@ -658,3 +658,6 @@ f
  * https://github.com/unconed/ThreeAudio.js
  * http://raathigesh.com/Audio-Visualization-with-Web-Audio-and-ThreeJS/
  * https://devart.withgoogle.com
+
+## 1/29/2017
+ * Upload image, choose paint, it will color for you. Machine learning!! http://paintschainer.preferred.tech/
