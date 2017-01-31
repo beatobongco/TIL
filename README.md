@@ -668,3 +668,6 @@ f
 	  print(x)
 	//output: [1, 28, 9]
    ```
+   
+## 1/31/2017
+ * Add to routine: http://www.speedcoder.net/lessons/ !!!
