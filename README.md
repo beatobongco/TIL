@@ -672,3 +672,9 @@ f
 ## 1/31/2017
  * Learn to touchtype: Add to routine: http://www.speedcoder.net/lessons/ !!!
  * http://zty.pe/
+ 
+## 2/7/2017
+ * Get updated with master easily!
+ `git fetch origin master`
+ `git rebase origin/master`
+ * `git clean -f` remove new uncommitted files
