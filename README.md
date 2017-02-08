@@ -682,3 +682,4 @@ f
 ## 2/8/2017
  * Cards to bust through creative blocks https://en.wikipedia.org/wiki/Oblique_Strategies
  * https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
+ * https://css-tricks.com/examples/ShapesOfCSS/
