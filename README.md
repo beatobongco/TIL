@@ -687,3 +687,5 @@ f
 ## 2/9/2017
  * http://www.dev-books.com/
  * https://danluu.com/web-bloat/
+ * http://danluu.com/octopress-speedup/
+ * http://idlewords.com/talks/website_obesity.htm
