@@ -689,3 +689,4 @@ f
  * https://danluu.com/web-bloat/
  * http://danluu.com/octopress-speedup/
  * http://idlewords.com/talks/website_obesity.htm
+ * MET artworks can be downloaded at high res, public domain! http://www.metmuseum.org/art/collection
