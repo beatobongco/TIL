@@ -675,11 +675,15 @@ f
  
 ## 2/7/2017
  * Get updated with master easily!
- `git fetch origin master`
- `git rebase origin/master`
+   `git fetch origin master`
+   `git rebase origin/master`
  * `git clean -f` remove new uncommitted files
 
 ## 2/8/2017
  * Cards to bust through creative blocks https://en.wikipedia.org/wiki/Oblique_Strategies
  * https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
  * https://css-tricks.com/examples/ShapesOfCSS/
+ 
+## 2/9/2017
+ * http://www.dev-books.com/
+ * https://danluu.com/web-bloat/
