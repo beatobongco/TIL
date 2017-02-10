@@ -690,3 +690,6 @@ f
  * http://danluu.com/octopress-speedup/
  * http://idlewords.com/talks/website_obesity.htm
  * MET artworks can be downloaded at high res, public domain! http://www.metmuseum.org/art/collection
+
+## 2/10/2017
+ * TUNAY NA BAYANI https://ulapph-corporation.appspot.com/?checkHTTPS=yes
