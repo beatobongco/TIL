@@ -694,3 +694,6 @@ f
 ## 2/10/2017
  * TUNAY NA BAYANI https://ulapph-corporation.appspot.com/?checkHTTPS=yes
  * https://www.jpeg.io/ compress images!
+
+## 2/13/2017
+ * https://testmysite.thinkwithgoogle.com
