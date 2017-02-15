@@ -700,3 +700,4 @@ f
 
 ## 2/15/2017
  * Good resources for beginners and those who wish to review HTML basics http://htmlreference.io/ https://internetingishard.com
+ * https://illustrated-algorithms.now.sh/
