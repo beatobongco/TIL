@@ -697,3 +697,6 @@ f
 
 ## 2/13/2017
  * https://testmysite.thinkwithgoogle.com
+
+## 2/15/2017
+ * Good resources for beginners and those who wish to review HTML basics http://htmlreference.io/ https://internetingishard.com
