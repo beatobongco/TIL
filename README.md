@@ -703,4 +703,5 @@ f
  * https://illustrated-algorithms.now.sh/
 
 ## 2/16/2017
- * http://code-poetry.com/
+ * http://code-poetry.com/ Think about doing this with js
+ * Algorithms https://www.khanacademy.org/computing/computer-science/algorithms/
