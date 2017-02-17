@@ -705,3 +705,15 @@ f
 ## 2/16/2017
  * http://code-poetry.com/ Think about doing this with js
  * Algorithms https://www.khanacademy.org/computing/computer-science/algorithms/
+
+## 2/17/2017
+ * Useful sublime shortcuts
+ * `ctrl+p` go to filename in proj
+ * `ctrl+r` go to symbol etc in file
+ * `ctrl+p <filename> @` go to file then to symbol, etc
+ * `ctrl+g` go to line number
+ * `ctrl+alt+p` switch project
+ * `alt+shift+[1..4]` number of columns
+ * `ctrl+w` close a file
+ * `ctrl+enter` add newline after this one
+ * `ctrl+ [ or ]` un/indent lines
