@@ -717,3 +717,6 @@ f
  * `ctrl+w` close a file
  * `ctrl+enter` add newline after this one
  * `ctrl+ [ or ]` un/indent lines
+
+## 2/18/2017
+ * https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
