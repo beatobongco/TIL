@@ -725,3 +725,4 @@ f
  * Good indiehacker template https://www.indiehackers.com/businesses/cronitor https://blog.cronitor.io/the-jit-startup-bb1a13381b0#.8n62hp3cd
  * https://www.khanacademy.org/partner-content/pixar/storytelling
  * https://techcrunch.com/2017/02/18/co-founder-conflict/
+ * http://nautil.us/issue/17/big-bangs/how-i-rewired-my-brain-to-become-fluent-in-math
