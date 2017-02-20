@@ -724,4 +724,4 @@ f
 ## 2/20/2017
  * Good indiehacker template https://www.indiehackers.com/businesses/cronitor https://blog.cronitor.io/the-jit-startup-bb1a13381b0#.8n62hp3cd
  * https://www.khanacademy.org/partner-content/pixar/storytelling
-
+ * https://techcrunch.com/2017/02/18/co-founder-conflict/
