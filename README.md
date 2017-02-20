@@ -720,3 +720,8 @@ f
 
 ## 2/18/2017
  * https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html
+
+## 2/20/2017
+ * Good indiehacker template https://www.indiehackers.com/businesses/cronitor https://blog.cronitor.io/the-jit-startup-bb1a13381b0#.8n62hp3cd
+ * https://www.khanacademy.org/partner-content/pixar/storytelling
+
