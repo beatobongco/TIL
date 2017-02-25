@@ -729,3 +729,7 @@ f
 
 ## 2/23/2017
  * To read https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+
+## 2/25/2017
+ * https://paddle.com/
+ * https://techcrunch.com/2016/09/28/paddle-banks-3-2m-for-an-ecommerce-platform-targeting-saas-startups/
