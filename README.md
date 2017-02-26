@@ -734,3 +734,6 @@ f
  * https://paddle.com/
  * https://techcrunch.com/2016/09/28/paddle-banks-3-2m-for-an-ecommerce-platform-targeting-saas-startups/
  * https://stunning.co/
+
+## 2/26/2017
+ * NEED!! Use for testing instead of nightmare js https://github.com/bnx05/pytest-selenium
