@@ -738,3 +738,6 @@ f
 ## 2/26/2017
  * NEED!! Use for testing instead of nightmare js https://github.com/bnx05/pytest-selenium
  * http://www.omgubuntu.co.uk/2016/08/peek-desktop-gif-screen-recorder-linux
+
+## 2/27/2017
+ * Awesome language exercises http://exercism.io/
