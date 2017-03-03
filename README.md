@@ -742,3 +742,6 @@ f
 ## 2/27/2017
  * Awesome language exercises http://exercism.io/
  * To read https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/
+
+## 3/3/2017
+ * Careful what you type in terminal. `history | grep`
