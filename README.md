@@ -745,3 +745,7 @@ f
 
 ## 3/3/2017
  * Careful what you type in terminal. `history | grep`
+
+## 3/4/2017
+ * https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/
+ * Mythical 10x programmer http://antirez.com/news/112
