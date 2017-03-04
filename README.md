@@ -749,3 +749,5 @@ f
 ## 3/4/2017
  * https://qz.com/884448/every-successful-relationship-is-successful-for-the-same-exact-reasons/
  * Mythical 10x programmer http://antirez.com/news/112
+ * http://startupclass.samaltman.com/
+ * http://playbook.samaltman.com/
