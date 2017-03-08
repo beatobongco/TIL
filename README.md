@@ -5,14 +5,14 @@ A small list of shit I learned.
  * `docker-compose up --no-deps <container name>` - Using docker, if you have images of a database don't keep on using `docker-compose up db`. It might cause weird shit to happen to your database. Instead for example, if you have images: web and db do `docker-compose up --no-deps web` to put web up but not disturb your db.
 
  * Aliases - aliases are a cool way to make your life easier. Edit ~/.bashrc with your favorite text editor and make shorcuts like `alias dcp='docker-compose'` to type in `dcp` instead of `docker-compose`
- 
+
  * Restoring a dockerized database from a local .sql file
    * `cd` to where your .sql file is located
    * Mount your pwd inside the db container ```docker run --rm -ti -v `pwd`:<where you want to place shit> --link <db container>:db postgres bash```
    * Go to path where sql file is and `gunzip`
    * Finally `psql -hdb -U <username> -W < backup.sql`
- 
- * Run a docker container `docker-compose run --rm <container> <cmd>` 
+
+ * Run a docker container `docker-compose run --rm <container> <cmd>`
 f
 ## 4/9/2015
  * Style console.log! Useful for teaching javascript! https://github.com/adamschwartz/log
@@ -28,13 +28,13 @@ f
  * http://gtmetrix.com/ --> speed testing
  * http://www.browseemall.com/ --> cross browser testing
  * Learn typescript one day please http://www.typescriptlang.org/
- * Look for npm modules! `npm ls <module` 
+ * Look for npm modules! `npm ls <module`
  * Solid presentations https://github.com/bartaz/impress.js/blob/master/index.html
  * JS style guide https://github.com/airbnb/javascript
 
 ## 4/15/2015
  * cookie-js
- * `docker exec` runs a new subprocess in a container and `docker-compose run` runs a new instance/container 
+ * `docker exec` runs a new subprocess in a container and `docker-compose run` runs a new instance/container
  * visionmedia's `superagent`
  * http://semantic-ui.com/
  * Elementary OS -> http://itsfoss.com/things-todo-elementary-os-freya/
@@ -49,11 +49,11 @@ f
 
 ## 4/20/2015
  * http://howtocenterincss.com/
- 
+
 ## 4/22/2015
  * https://www.youtube.com/watch?v=vtJ0C0UHFfE Peter Thiel: What's the valuation of your company? Think of the valuation not as a premium on the past but a discount to the future. The way one should pitch the value of the company by explaining why it will be worth much more in the future so investors will be getting in at a point much cheaper than 1 or 2 years later.
- * Cofounder equity calculator: http://foundrs.com/ 
- 
+ * Cofounder equity calculator: http://foundrs.com/
+
 ## 4/28/2015
  * Invert transparency. Just takes a little effort http://graphicdesign.stackexchange.com/questions/22275/how-to-invert-pixels-with-alpha-values
  * Material design call to action http://kushagragour.in/lab/ctajs/
@@ -66,7 +66,7 @@ f
 
 ## 5/1/2015
  * set a `key` of an object in one line in `ES6` ```[`${prop}`]: value```
- * JS: study `.bind` and `.apply` 
+ * JS: study `.bind` and `.apply`
  * React convention of expansions, always expand before passing new props so you can override `<div {...this.props}`
 
 ## 5/6/2015
@@ -87,9 +87,9 @@ f
  * TIL a downfall for using shortcircuits e.g. `var x = myVal1 || myVal2` because if `myVal1 = 0` and you DO want to get 0, you will get `myVal2` instead.
  * https://webmaker.org/en-US/tools <-- awesome shit for beginners!
  * Joseph Campbell's hero with a thousand faces... "Full circle we come, from the tomb of the womb to the womb of the tomb, a brief enigmatic journey into the realm of the solid world, only to melt away like the substance of a dream."
- 
+
 ## 5/20/2015
- * http://drill.apache.org/ <-- best bet for querying noSQL dbs. Looks really cool 
+ * http://drill.apache.org/ <-- best bet for querying noSQL dbs. Looks really cool
  * http://www.typegenius.com/ font pairing! finally!
 
 ## 5/21/2015
@@ -103,7 +103,7 @@ f
    * step 6: press `fill`
    * step 7: select `content-aware`
    * step 8: wtf???? profit!!!
- 
+
 ## 5/22/2015
  * horror movies wew https://imgur.com/gallery/KIZLc
 
@@ -117,7 +117,7 @@ f
    * `docker-compose run -d web python script.py`
    * `docker logs -f radar_web_run_2`
  * http://youmightnotneedjquery.com/
- 
+
 ## 6/17/2015
  * Don't you forget to keep moving forward https://acidheroes.wordpress.com/2015/06/01/6855/
  * There are two kinds of people in the world: those who move forward, and those stand still.
@@ -222,7 +222,7 @@ f
 ## 9/18/2015
  * Don't forget to add gzip types to Nginx make site faster esp for React! `gzip_types text/plain text/html text/css application/json application/javascript application/x-javascript text/javascript text/xml application/xml application/rss+xml application/atom+xml application/rdf+xml;`
  * f(**args) Python unpack arguments splat https://docs.python.org/2/tutorial/controlflow.html#unpacking-argument-lists
- 
+
 ## 9/24/2015
  * Making a fucking PEM https://www.digicert.com/ssl-support/pem-ssl-creation.htm DONT FORGET, .key of your server goes on TOP!
 
@@ -231,7 +231,7 @@ f
  * non atomic redis delete `redis-cli KEYS "prefix:*" | xargs redis-cli DEL`
 
 ## 10/9/2015
- * copy from docker container to host docker cp <containerId>:/file/path/within/container /host/path/target 
+ * copy from docker container to host docker cp <containerId>:/file/path/within/container /host/path/target
 
 ## 10/16/2015
  * http://ready.mobi/
@@ -246,7 +246,7 @@ f
  * I need this as my life motto https://medium.com/life-learning/never-tell-people-what-you-do-124be62f0751
 
 ## 11/18/2015
- * https://www.youtube.com/watch?v=2BpGMKtoB4Y what not to do. super interesting tho 
+ * https://www.youtube.com/watch?v=2BpGMKtoB4Y what not to do. super interesting tho
 
 ## 11/23/2015
  * small business accounting software https://www.xero.com/
@@ -295,7 +295,7 @@ f
  * ```Asking someone to change deep-seated beliefs like political or religious viewpoints is asking them to run a mental marathon, and the vast majority of people cannot be bothered. Often only the youth, with healthy energetic minds stay in a state of flux in their viewpoints.``` http://robrhinehart.com/?p=570
  * The right way to start building a product: http://www.themacro.com/articles/2016/01/minimum-viable-product-process/
  * Beautiful reason why we work on web: https://remysharp.com/2016/01/20/why-i-love-working-with-the-web
- * Study this during free time! jQuery original source with dev commentary! http://genius.it/5113970/ejohn.org/files/jquery-original.html 
+ * Study this during free time! jQuery original source with dev commentary! http://genius.it/5113970/ejohn.org/files/jquery-original.html
  * Nice flex based grid system http://leejordan.github.io/reflex/docs/
 
 ## 2/1/2016
@@ -403,8 +403,8 @@ f
 ## 5/10/2016
  * Clean way of preloading via CSS only
  ```
- #preload { 
-		background: url(../img/move.gif) no-repeat -9999px -9999px; 
+ #preload {
+		background: url(../img/move.gif) no-repeat -9999px -9999px;
 	}
 	```
 
@@ -458,7 +458,7 @@ f
  * Animate your favicon! http://lab.ejci.net/favico.js/
 
 ## 7/29/2016
- * In love with Vue.js http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/ http://blog.evanyou.me/2015/12/20/vuejs-2015-in-review/ 
+ * In love with Vue.js http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/ http://blog.evanyou.me/2015/12/20/vuejs-2015-in-review/
  * Evan You: `“Progressive Framework” - we can scale up the framework’s complexity incrementally, only when the project’s inherent complexity demands it.`
  * Make address usable again / kill process that is using the address `sudo fuser -k 80/tcp`
  * Super pretty answer to What is Web Design http://jgthms.com/web-design-in-4-minutes/
@@ -492,7 +492,7 @@ f
 
 ## 10/15/2016
  * http://youmightnotneedjs.com/
- 
+
 ## 10/16/2016
  * https://juokaz.com/blog/becoming-a-cto
  * Ask HN: Good books on UI (for sure long half-life, its design) https://news.ycombinator.com/item?id=12711060
@@ -504,7 +504,7 @@ f
  * Collection of articles, videos, and resources made by designers at Facebook. http://facebook.design/
  * DIY design education https://medium.com/facebook-design/a-diy-design-education-218a4a2d340f#.vx2rupab2
  * Icons in pure css. Awesome! http://cssicon.space/#/
- 
+
 ## 10/23/2016
  * Fun APIs to play with https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/
  * Nice static website generator https://gohugo.io/
@@ -524,11 +524,11 @@ f
 
 ## 10/31/2016
  * Better fonts on Ubuntu http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html
- 
+
 ## 11/1/2016
  * This is how to do SEO! https://www.indiehackers.com/businesses/instapainting
  * `try to take a known working category and try to invent 20% of it, rather than 90%. Apple didn’t invent the smartphone, the MP3 player, or the computer, and yet they are super innovative and successful. You don’t have to invent a new product category either, and it’s easier to get to product/market fit when you have a baseline competitor to compete against.` http://andrewchen.co/after-the-techcrunch-bump-life-in-the-trough-of-sorrow/
- 
+
 ## 11/10/2016
  * Data viz! https://datastudio.google.com
 
@@ -550,7 +550,7 @@ f
    - Increase max connections so a TCP setting can be enforced. Set `sysctl net.core.somaxconn=65535` and add ti `sysctl.conf`
    - Disable Transparent Huge Pages (THP). If enabled (by default) this will create latency and memory usage issues with Redis. Run `echo never > /sys/kernel/mm/transparent_hugepage/enabled`.
  * Lessons for the future perhaps https://www.technologyreview.com/s/602961/four-lessons-for-silicon-valley-from-its-first-startup/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
- * `git diff --cached <filename>` see changes of file 
+ * `git diff --cached <filename>` see changes of file
 
 ## 12/1/2016
  * Scaling up as a startup CEO https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/
@@ -568,16 +568,16 @@ f
  * Make phone apps with vue https://github.com/vuejs/vue-touch
 
 ## 12/6/2016
- * Cut mp3's online. Very useful. http://mp3cut.net/ 
+ * Cut mp3's online. Very useful. http://mp3cut.net/
  * Next time I need js client and server sync https://pouchdb.com/
  * Hot sync 2 redis https://github.com/stickermule/rump
 
 ## 12/8/2016
  * I want to learn how to create miniamlist assets of my own, ala flaticons. https://www.gimp.org/tutorials/Creating_Icons/
  * How to ship side projects http://blog.andyjiang.com/how-to-ship-side-projects/
- * Idea: CRUD-tacular. A template for extremely quick client-side-only app with user management on localforage. Kinda like a superwireframe to test concepts quickly. Not meant for real app building. Bonus if you can make data persist somehow. Includes forms and viewing of forms.  
+ * Idea: CRUD-tacular. A template for extremely quick client-side-only app with user management on localforage. Kinda like a superwireframe to test concepts quickly. Not meant for real app building. Bonus if you can make data persist somehow. Includes forms and viewing of forms.
  * AESOP - A picture book blog thing like the nytimes sometimes posts that allows mobile scrolling and fading in and out of pictures that remain centered. **PRIORITY**
- 
+
 ## 12/8/2016
  * HN people talk about side projects with passive income https://news.ycombinator.com/item?id=13150144
  * Potential startup ideas https://news.ycombinator.com/item?id=13139638
@@ -648,10 +648,10 @@ f
  * You can code Gnome shit in js using `gjs`! https://wiki.gnome.org/action/show/Projects/Gjs
  * Battlecode https://www.battlecode.org/
  * http://codedoodl.es/
- * Exactly what I want to make: https://github.com/mattdesl/audiograph.xyz 
+ * Exactly what I want to make: https://github.com/mattdesl/audiograph.xyz
  * This too:http://2013.jsconf.asia/blog/2013/11/8/jsconfasia-2013-mrdoob-ricardo-cabello-framejs
  * Visualizations of electronic tracks, reactive to sound and movement of the crowd
- * https://en.wikipedia.org/wiki/VJing` 
+ * https://en.wikipedia.org/wiki/VJing`
  * https://en.wikipedia.org/wiki/Demoscene
  * Get mp3 from youtube https://github.com/jcalazan/youtube-audio-dl
  * Curated list of materials for audioviz https://github.com/willianjusten/awesome-audio-visualization
@@ -668,11 +668,11 @@ f
 	  print(x)
 	//output: [1, 28, 9]
    ```
-   
+
 ## 1/31/2017
  * Learn to touchtype: Add to routine: http://www.speedcoder.net/lessons/ !!!
  * http://zty.pe/
- 
+
 ## 2/7/2017
  * Get updated with master easily!
    `git fetch origin master`
@@ -683,7 +683,7 @@ f
  * Cards to bust through creative blocks https://en.wikipedia.org/wiki/Oblique_Strategies
  * https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
  * https://css-tricks.com/examples/ShapesOfCSS/
- 
+
 ## 2/9/2017
  * http://www.dev-books.com/
  * https://danluu.com/web-bloat/
@@ -751,7 +751,7 @@ f
  * Mythical 10x programmer http://antirez.com/news/112
  * http://startupclass.samaltman.com/
  * http://playbook.samaltman.com/
- 
+
 ## 3/7/2017
  * PERFECT!!!
  * http://leafletjs.com/examples/geojson/
@@ -764,3 +764,4 @@ f
  * Beautifully done art game that shows philosophical views using snake https://pippinbarr.github.io/SNAKISMS/ Check out his blog also for cool art games!
  * Work on beatobongco.com/TheGame !
  * http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
+ * [Personal interview process](https://github.com/beatobongco/TIL/day_notes/2017-3-8_interview.md)
