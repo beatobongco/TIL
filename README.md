@@ -757,3 +757,6 @@ f
  * http://leafletjs.com/examples/geojson/
  * http://leafletjs.com/examples.html
  * !!!!!!!!!!!!!!!!! https://blog.ycombinator.com/onlineclass/
+
+## 3/8/2017
+ * Coding screencasts done interestingly https://scrimba.com/
