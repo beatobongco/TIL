@@ -761,5 +761,5 @@ f
 ## 3/8/2017
  * Coding screencasts done interestingly https://scrimba.com/
  * math for computer science https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
- * Beautifully done art game that shows philosophical views using snake https://pippinbarr.github.io/SNAKISMS/
+ * Beautifully done art game that shows philosophical views using snake https://pippinbarr.github.io/SNAKISMS/ Check out his blog also for cool art games!
  * Work on beatobongco.com/TheGame !
