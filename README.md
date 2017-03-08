@@ -763,3 +763,4 @@ f
  * math for computer science https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
  * Beautifully done art game that shows philosophical views using snake https://pippinbarr.github.io/SNAKISMS/ Check out his blog also for cool art games!
  * Work on beatobongco.com/TheGame !
+ * http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
