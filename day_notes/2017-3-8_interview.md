@@ -22,9 +22,11 @@ Being able to self-manage and follow-up. Not needing micro-management.
 
 Tell me a story of when you wanted something really bad but there was nobody to guide you. Doesn't matter if you got it or not.
 
+```
 1 - I wanted to be the best tennis player. I just am not naturally talented so I gave up.
 3 - I wanted to be the best tennis player so I went to practice with other people 3x a week.
 5 - I wanted to be the best tennis player so I read books, bought specialized training equipment and am following a specific training program. I joined comps later on.
+```
 
 ## Character
 
@@ -33,9 +35,11 @@ How do you treat people who can't do anything for you.
 Your group failed. How do you treat a groupmate who let you down? Where do you draw the line between compassion and being lax?
 You will have future projects with this group.
 
+```
 1 - Just forgive him. /  Kick him out of the group.
 3 - Forgive him but help him be better / Assess objectively. Reprimand him or kick him out based on impartial data.
 5 - Realize the others and I am at fault also for not helping this person. We should all work together to improve.
+```
 
 ## Passion
 
@@ -43,9 +47,11 @@ Being an uber nerd about something. Doesn't have to be related to tech.
 
 Tell me about something you're passionate about.
 
+```
 1 - I kinda like trains.
 3 - I love trains! I update myself with the latest and greatest. You heard of the Hyperloop?
 5 - HOLY SHIT I LOVE TRAINS! Let me tell about the history of steam engines and how that influenced train tech today... (30 mins of train talk ensues)
+```
 
 ## Determination
 
@@ -53,9 +59,11 @@ Not getting frustrated and giving up easily. Gonna do dis shit no matter what.
 
 Tell me about a time you faced a difficult problem.
 
+```
 1 - I couldn't get the code to work. I tried tho.
 3 - I couldn't get the code to work so I went through it line by line.
 5 - I couldn't get the effing code to work so I drank extra joss and coffee together and didn't sleep. I failed but a week later I still finished it because pride.
+```
 
 ## Lateral thinking
 
@@ -63,17 +71,21 @@ Solving problems by an indirect and creative approach.
 
 How would you revolutionize an object?
 
+```
 1 - I would make a better pen. It would be like a Montblanc but better.
 3 - I would make a better pen. It would work under water and in zero gravity!
 5 - I would make a better pen. (procceds to talk about wacky intersection of surprising things that make sense from a usability / market perspective)
+```
 
-## Techincal proficiency
+## Technical proficiency
 
 Determined by code board.
 
+```
 1 - lots of mistakes
 3 - everything works but things could be optimized / documented better
 5 - perfectly efficient solutions / well documented
+```
 
 ## Evaluation
 
