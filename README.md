@@ -765,3 +765,6 @@ f
  * Work on beatobongco.com/TheGame !
  * http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds
  * [Personal interview process](https://github.com/beatobongco/TIL/day_notes/2017-3-8_interview.md)
+
+## 3/10/2017
+ * Giving someone ssh access, just add to `~/.ssh/authorized_keys`
