@@ -89,4 +89,4 @@ Determined by code board.
 
 ## Evaluation
 
-We're going for > 23.
+We're going for >= 23.
