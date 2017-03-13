@@ -768,3 +768,8 @@ f
 
 ## 3/10/2017
  * Giving someone ssh access, just add to `~/.ssh/authorized_keys`
+
+## 3/13/2017
+ * Greedy algorithms are basically: 1. sort via a metric, 2. get the top ranking ones that fit into constraints
+ * mysql can be bound to address. Just edit `/etc/mysql/my.cnf` look for `bind-address`
+ * When creating mysql users, you can define from which hosts they can connect
