@@ -773,3 +773,6 @@ f
  * Greedy algorithms are basically: 1. sort via a metric, 2. get the top ranking ones that fit into constraints
  * mysql can be bound to address. Just edit `/etc/mysql/my.cnf` look for `bind-address`
  * When creating mysql users, you can define from which hosts they can connect
+
+## 3/14/2017
+ * Template for future UI kata blog posts https://medium.freecodecamp.com/how-to-talk-about-your-side-projects-18b96f192817#.b9u9nljlp
