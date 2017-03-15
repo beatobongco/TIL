@@ -404,9 +404,9 @@ f
  * Clean way of preloading via CSS only
  ```
  #preload {
-		background: url(../img/move.gif) no-repeat -9999px -9999px;
-	}
-	```
+	background: url(../img/move.gif) no-repeat -9999px -9999px;
+ }
+ ```
 
 ## 5/17/2016
  * Client side JS notebook. Super beautiful! https://github.com/JoelOtter/kajero
