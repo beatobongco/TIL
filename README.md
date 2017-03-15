@@ -779,6 +779,6 @@ f
 
 ## 3/15/2017
  * Simple TensorFlow tutorial https://github.com/jostmey/NakedTensor?bare
- * https://teachyourselfcs.com/
+ * Teach yourself CS https://teachyourselfcs.com/
  * Specifically: http://ai.berkeley.edu/home.html
  * For the future maybe https://www.edx.org/micromasters/columbiax-artificial-intelligence though a bit steep at 60k
