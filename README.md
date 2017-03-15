@@ -776,3 +776,6 @@ f
 
 ## 3/14/2017
  * Template for future UI kata blog posts https://medium.freecodecamp.com/how-to-talk-about-your-side-projects-18b96f192817#.b9u9nljlp
+
+## 3/15/2017
+ * Simple TensorFlow tutorial https://github.com/jostmey/NakedTensor?bare
