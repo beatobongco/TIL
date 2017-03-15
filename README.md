@@ -782,3 +782,4 @@ f
  * Teach yourself CS https://teachyourselfcs.com/
  * Specifically: http://ai.berkeley.edu/home.html
  * For the future maybe https://www.edx.org/micromasters/columbiax-artificial-intelligence though a bit steep at 60k
+ * Top CS MOOCs https://www.class-central.com/collection/top-free-online-courses?subject=cs&sort=rating-up&utm_source=top-50-course-page
