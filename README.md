@@ -783,3 +783,6 @@ f
  * Specifically: http://ai.berkeley.edu/home.html
  * For the future maybe https://www.edx.org/micromasters/columbiax-artificial-intelligence though a bit steep at 60k
  * Top CS MOOCs https://www.class-central.com/collection/top-free-online-courses?subject=cs&sort=rating-up&utm_source=top-50-course-page
+
+## 3/17/2017
+ * Stripe for any country https://medium.com/@IsAlmog/hacking-strip-payments-to-use-in-any-country-886a7cafb690#.efandkpax
