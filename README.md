@@ -787,3 +787,13 @@ f
 ## 3/17/2017
  * Stripe for any country https://medium.com/@IsAlmog/hacking-strip-payments-to-use-in-any-country-886a7cafb690#.efandkpax
  * Online MIT courses!! https://mitprofessionalx.mit.edu/courses
+
+## 3/22/2017
+ * Embedding Python in QT applications. Nice for cross platform desktop dev https://ubuverse.com/embedding-the-python-interpreter-in-a-qt-application/
+ * JS debugging made simple https://github.com/egoist/esbin
+ * Jupyter notebook for JS! https://runkit.com/home
+ * JavaScript, reusable APIs, and prebuilt Markup stack. What I should be using. Wish they had boilerplate though https://jamstack.org/
+ * Ask HN good tech blogs to read https://news.ycombinator.com/item?id=13849430
+ * Color theory for programmers https://tallys.github.io/color-theory/
+ * ML research shown visually and interactively http://distill.pub/
+ * Nice library for deep learning https://blog.keras.io/introducing-keras-2.html
