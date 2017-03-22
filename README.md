@@ -797,3 +797,4 @@ f
  * Color theory for programmers https://tallys.github.io/color-theory/
  * ML research shown visually and interactively http://distill.pub/
  * Nice library for deep learning https://blog.keras.io/introducing-keras-2.html
+ * Best books on AI https://news.ycombinator.com/item?id=13900153
