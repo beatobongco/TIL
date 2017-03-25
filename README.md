@@ -804,3 +804,11 @@ f
  
 ## 3/24/2017
  * Aww yis LESS for rapid prototyping http://lesscss.org/#client-side-usage
+
+## 3/25/2017
+ * export environment variables from file 
+ ```
+set -o allexport
+source conf-file
+set +o allexport
+ ```
