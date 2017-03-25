@@ -809,6 +809,6 @@ f
  * export environment variables from file 
  ```
 set -o allexport
-source conf-file
+source .env
 set +o allexport
  ```
