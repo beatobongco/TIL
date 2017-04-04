@@ -812,3 +812,6 @@ set -o allexport
 source .env
 set +o allexport
  ```
+
+## 4/4/2017
+ * http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/
