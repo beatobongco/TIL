@@ -815,3 +815,6 @@ set +o allexport
 
 ## 4/4/2017
  * http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/
+
+## 4/6/2017
+ * Low ranking high download apps on Google play https://news.ycombinator.com/item?id=14047465
