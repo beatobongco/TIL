@@ -818,3 +818,6 @@ set +o allexport
 
 ## 4/6/2017
  * Low ranking high download apps on Google play https://news.ycombinator.com/item?id=14047465
+
+## 4/10/2017
+ * Give the people what they want https://www.fastcompany.com/3021229/chaim-pikarski-the-amazon-whisperer
