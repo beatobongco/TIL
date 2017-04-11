@@ -821,3 +821,6 @@ set +o allexport
 
 ## 4/10/2017
  * Give the people what they want https://www.fastcompany.com/3021229/chaim-pikarski-the-amazon-whisperer
+
+## 4/11/2017
+ * Looks like a better alternative to bootstrap https://semantic-ui.com
