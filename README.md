@@ -824,3 +824,6 @@ set +o allexport
 
 ## 4/11/2017
  * Looks like a better alternative to bootstrap https://semantic-ui.com
+
+## 4/18/2017
+ * Beautiful viz http://raylight.surge.sh/
