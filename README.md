@@ -651,7 +651,7 @@ f
  * Exactly what I want to make: https://github.com/mattdesl/audiograph.xyz
  * This too:http://2013.jsconf.asia/blog/2013/11/8/jsconfasia-2013-mrdoob-ricardo-cabello-framejs
  * Visualizations of electronic tracks, reactive to sound and movement of the crowd
- * https://en.wikipedia.org/wiki/VJing`
+ * https://en.wikipedia.org/wiki/VJing
  * https://en.wikipedia.org/wiki/Demoscene
  * Get mp3 from youtube https://github.com/jcalazan/youtube-audio-dl
  * Curated list of materials for audioviz https://github.com/willianjusten/awesome-audio-visualization
@@ -827,3 +827,4 @@ set +o allexport
 
 ## 4/18/2017
  * Beautiful viz http://raylight.surge.sh/
+ * https://mattdesl.svbtle.com/
