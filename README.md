@@ -828,3 +828,6 @@ set +o allexport
 ## 4/18/2017
  * Beautiful viz http://raylight.surge.sh/
  * https://mattdesl.svbtle.com/
+
+## 4/19/2017
+ * Very good argument for specialization and job progression being a programmer https://dzone.com/articles/the-polyglots-dilemma-daedtech
