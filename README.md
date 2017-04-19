@@ -831,3 +831,4 @@ set +o allexport
 
 ## 4/19/2017
  * Very good argument for specialization and job progression being a programmer https://dzone.com/articles/the-polyglots-dilemma-daedtech
+ * Great article on creativity itself https://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-step-one-back-off.html?_r=0
