@@ -836,3 +836,6 @@ set +o allexport
 ## 4/24/2017
  * Abrash's Graphics Programming Black Book http://www.gamedev.net/page/resources/_/reference/programming/140/283/graphics-programming-black-book-r1698
  * Game programming patterns http://gameprogrammingpatterns.com/contents.html
+
+## 4/25/2017
+ * Derek Yu pixel art tutorial http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial
