@@ -832,3 +832,6 @@ set +o allexport
 ## 4/19/2017
  * Very good argument for specialization and job progression being a programmer https://dzone.com/articles/the-polyglots-dilemma-daedtech
  * Great article on creativity itself https://www.nytimes.com/2016/01/31/opinion/sunday/how-to-raise-a-creative-child-step-one-back-off.html?_r=0
+
+## 4/24/2017
+ * Abrash's Graphics Programming Black Book http://www.gamedev.net/page/resources/_/reference/programming/140/283/graphics-programming-black-book-r1698
