@@ -841,3 +841,6 @@ set +o allexport
  * Derek Yu pixel art tutorial http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial
  * Creative coding inspiration: vacuum flowers http://vacuumflowers.com/projects/
  * Open source ecosystem for webGL http://stack.gl/#learning
+
+## 5/2/2017
+ * http://firstround.com/review/how-to-become-insanely-well-connected/
