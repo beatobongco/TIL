@@ -13,7 +13,7 @@ A small list of shit I learned.
    * Finally `psql -hdb -U <username> -W < backup.sql`
 
  * Run a docker container `docker-compose run --rm <container> <cmd>`
-f
+
 ## 4/9/2015
  * Style console.log! Useful for teaching javascript! https://github.com/adamschwartz/log
  * Resources for icons!
