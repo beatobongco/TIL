@@ -2,6 +2,8 @@
 A small list of shit I learned.
 
 ## 5/2/2017
+ * esoteric programming paradigms http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/
+ * evidence-based advice https://80000hours.org/career-guide/how-to-be-successful/
  * http://firstround.com/review/how-to-become-insanely-well-connected/
  
 ## 4/25/2017
