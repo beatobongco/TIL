@@ -1,6 +1,9 @@
 # TIL
 A small list of shit I learned.
 
+## 5/4/2017
+ * Google Cloud Platform training for a data analyst! https://github.com/GoogleCloudPlatform/training-data-analyst
+ 
 ## 5/3/2017
  * https://www.startupschool.org/
  
