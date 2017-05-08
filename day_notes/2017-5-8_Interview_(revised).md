@@ -4,6 +4,7 @@ Changes in this version:
 
 * Combined Initiative and Determination into one trait, Determined Independence.
 * Lateral thinking changed to Entrepreneurial skill.
+* Added X factor trait.
 * Technical proficiency is now rated by Marte via the code board.
 * There are 2 questions per trait, first is based on real life experiences and next is hypothetical situation. Hypothetical question will only be used when they don't have a relevant story to share.
 
@@ -91,7 +92,7 @@ Determined by Marte with code board. Ask how the candidate found the test. This 
 
 ## X factor
 
-> The big surprise to me was that the intuitive judgment that the interviewers summoned up in the “close your eyes” exercise also did very well, indeed just as well as the sum of the six specific ratings. [...] Intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits.
+> The big surprise to me was that the intuitive judgment that the interviewers summoned up in the “close your eyes” exercise also did very well, indeed just as well as the sum of the six specific ratings. [...] Intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits. - Thinking Fast and Slow p. 231
 
 A subjective rating of the candidate and how I think he/she will fit in Insync culture. Can ask a random question gleaned from the interview or ask candidate to tell me an intersting fact or a joke.
 
