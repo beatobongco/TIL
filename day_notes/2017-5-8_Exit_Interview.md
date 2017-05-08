@@ -2,31 +2,33 @@
 
 We want interns to have fun, learn, earn some extra cash and give us ideas on how to improve the company. We want to grow talent from the grassroots. (Aligned with our purpose)
 
-Rate from 1-10. We are looking for both quantitative and qualitative answers. 
+Have the intern rate the following areas from 1-10. He/she can do this after the interview or during if comfortable.
+
+We are looking for both quantitative and qualitative answers. 
 
 ## Fun
 
-Question: How much fun did you have? Why?
+Question: Did you have fun? How could we have made your stay more fun?
 
 ## Learning
 
-Question: How much did you learn? Why?
+Question: Did you learn a lot? How could we have faciliated more learning?
 
 ## Impact
 
-Question: How much impact on the company did you feel you had? Why?
+Question: Do you feel you made a lot of impact in the company? How could we have given you more chances to do this?
 
 ## Environment
 
 Did the environment we provide fit the traits we were testing for in the interview? 
 
-Question: Was the environment good for someone like you? Why?
+Question: Do you feel like the environment was good for someone like you? How could we improve Insync's environment?
 
 ## Growth opportunity
 
-Question: If you were to stay for more than a year, do you fee like you would grow? Why?
+Question: If you were to stay for more than a year, do you feel like you would grow? Why? How could we facilitate your growth?
 
-## Net Promoter Score
+## Recommendation
 
-Question: How likely is it that you would recommend this internship to a friend? Why?
+Question: How likely is it that you would recommend this internship to a friend? Why? How could we make this a place where students would LOVE to intern?
 
