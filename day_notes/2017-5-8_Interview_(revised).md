@@ -32,8 +32,8 @@ Expectation setting. A checklist of what to make interns aware of:
 
 Being able to self-manage and follow-up. Not needing micro-management. Not getting frustrated and giving up easily. Gonna do dis shit no matter what.
 
-Question 1: Tell me about a time you faced a big challenge on your own. It can be a personal project, school requirement, or a goal. How did you overcome?
-Question 2: If I told you to extend an existing codebase, say a billing system, within one week how would you feel? What if I didn't message you or check up on you? How would you do it?
+* Question 1: Tell me about a time you faced a big challenge on your own. It can be a personal project, school requirement, or a goal. How did you overcome?
+* Question 2: If I told you to extend an existing codebase, say a billing system, within one week how would you feel? What if I didn't message you or check up on you? How would you do it?
 
 ```
 1 - <Worked on it> / I wouldn't feel comfortable with it but I would try my best. I want a bit of supervision and help.
@@ -71,8 +71,8 @@ Being an uber nerd about something. Doesn't have to be related to tech.
 
 ## Entrepreneurial skill
 
-Question 1: Do you want to start your own startup?
-Question 2: If you were to own a startup, what would it be?
+* Question 1: Do you want to start your own startup?
+* Question 2: If you were to own a startup, what would it be?
 
 ```
 1 - No. / <crappy startup idea>
