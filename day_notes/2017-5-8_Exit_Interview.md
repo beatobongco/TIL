@@ -1,8 +1,8 @@
 # Exit Interview
 
-We want interns to have fun, learn, earn some extra cash and give us ideas on how to improve the company. We want to grow talent from the grassroots. (Aligned with our purpose)
+We want interns to have fun, learn, impact the company, enjoy this unique environment, grow and recommend us to their peers. They can also give us ideas on how to improve as a company. We want to grow talent from the grassroots. (Aligned with our purpose)
 
-Have the intern rate the following areas from 1-10. He/she can do this after the interview or during if comfortable.
+Have the intern rate the following areas from 1-10. He/she can do this after the interview questions or during if comfortable.
 
 We are looking for both quantitative and qualitative answers. 
 
