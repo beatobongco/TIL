@@ -22,7 +22,7 @@ Expectation setting. A checklist of what to make interns aware of:
   * Now on our way up with growing revenues
 * remote working culture
 * no office hours culture
-* a place for creative, independent people who get shit done
+* a place for creative, independent people who get shit done who value their time and freedom
 * no need to come in everyday, but come in on Fridays to see the team.
 * don't worry about required number of hours, we'll fill them up.
 * It's a paid internship.
