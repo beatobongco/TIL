@@ -10,7 +10,7 @@ Changes in this version:
 
 # Introduction
 
-A checklist of what to make interns aware of:
+Expectation setting. A checklist of what to make interns aware of:
 
 * Ask if they know what Insync is. 
 * Insync mission and vision https://sites.google.com/insynchq.com/guide/?authuser=1
