@@ -46,9 +46,8 @@ Question 2: If I told you to extend an existing codebase, say a billing system, 
 
 How do you treat people who can't do anything for you. How nice you are. How much you care.
 
-Question 1: Are you engaged in any organizations that help other people? 
-Question 2: Your group failed. How do you treat a groupmate who let you down? Where do you draw the line between compassion and being lax?
-You will have future projects with this group.
+* Question 1: Are you engaged in any organizations that help other people? 
+* Question 2: Your group failed. How do you treat a groupmate who let you down? Where do you draw the line between compassion and being lax? You will have future projects with this group.
 
 ```
 1 - No. I don't want. / Just forgive him or kick him out of the group.
@@ -60,13 +59,13 @@ You will have future projects with this group.
 
 Being an uber nerd about something. Doesn't have to be related to tech.
 
-Question 1: Tell me about something you're passionate about.
-Question 2: Automatic 0.
+* Question 1: Show me a personal project.
+* Question 2: Tell me about something you're passionate about.
 
 ```
-1 - I kinda like trains.
-3 - I love trains! I update myself with the latest and greatest. You heard of the Hyperloop?
-5 - HOLY SHIT I LOVE TRAINS! Let me tell about the history of steam engines and how that influenced train tech today... (30 mins of train talk ensues)
+1 - <No project> / I kinda like trains.
+3 - <Shows an unfinished, ok personal project> / I love trains! I update myself with the latest and greatest. You heard of the Hyperloop?
+5 - <Shows an awesome peronal project> / HOLY SHIT I LOVE TRAINS! Let me tell about the history of steam engines and how that influenced train tech today... (30 mins of train talk ensues)
 ```
 
 ## Entrepreneurial skill
@@ -82,13 +81,19 @@ Question 2: If you were to own a startup, what would it be?
 
 ## Technical proficiency
 
-Determined by Marte with code board.
+Determined by Marte with code board. Ask how the candidate found the test. This wont affect score but will affect X factor rating.
 
 ```
 1 - lots of mistakes
 3 - everything works but things could be optimized / documented better
 5 - perfectly efficient solutions / well documented
 ```
+
+## X factor
+
+> The big surprise to me was that the intuitive judgment that the interviewers summoned up in the “close your eyes” exercise also did very well, indeed just as well as the sum of the six specific ratings. [...] Intuition adds value even in the justly derided selection interview, but only after a disciplined collection of objective information and disciplined scoring of separate traits.
+
+A subjective rating of the candidate and how I think he/she will fit in Insync culture. Can ask a random question gleaned from the interview or ask candidate to tell me an intersting fact or a joke.
 
 # Closing
 
