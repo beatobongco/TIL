@@ -7,6 +7,7 @@ Changes in this version:
 * Added X factor trait.
 * Technical proficiency is now rated by Marte via the code board.
 * There are 2 questions per trait, first is based on real life experiences and next is hypothetical situation. Hypothetical question will only be used when they don't have a relevant story to share.
+* If you're a candidate and you're reading this, that's a good sign. :) Just be honest. See you in the interview! 
 
 # Introduction
 
