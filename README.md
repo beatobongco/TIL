@@ -1,6 +1,9 @@
 # TIL
 A small list of shit I learned.
 
+## 5/11/2017
+ * Remember to care about loadtimes https://blog.intercom.com/bringing-visibility-to-technical-performance/?utm_content=buffer9de5e&utm_medium=social&utm_source=twitter&utm_campaign=buffer
+
 ## 5/4/2017
  * Google Cloud Platform training for a data analyst! https://github.com/GoogleCloudPlatform/training-data-analyst
  
