@@ -11,10 +11,7 @@ To be known as THE elite surgical software team that can elegantly make your bus
 ## Values
  * First and foremost, we are problem solvers.
  * We produce work we are proud of.
- * We grow together.
- 
-Profit sharing, teach each other, help each other as friends and colleagues.
- 
+ * We grow together. (profit sharing + teach and help one another)
  * We are efficient. 
  * We are on time.
  * Quality over quantity.
