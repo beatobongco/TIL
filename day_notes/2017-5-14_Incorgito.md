@@ -39,14 +39,18 @@ Let's shatter the conception. Let's be consultants who care. Let's be consulting
 
 ### Ria
 
-> The investment of a modest amount of skilled effort in a Plans and Controls function is very rewarding. It makes far more difference in project accomplishment than if these people worked directly on building the product programs. For the Plans and Controls group is the watchdog who renders the imperceptible delays visible and who points up the critical elements. It is the early warning system against losing a year, one day at a time. - Frederick Brooks, The Mythical Man Month 
-
 * Functional leader. Leads everything related to operations.
 * First-in-line support.
 * Business analyst responsible for leading efforts to empathize with client and define the problem.
-* Project manager that keeps everything ticking and on time.
+* Project manager that keeps everything ticking and on time. Makes sure we never miss milestones.
+
+> Sharp milestones are in fact a service to the team, and one they can properly expect from a manager. The fuzzy milestone is the harder burden to live with. It is in fact a millstone that grinds down morale, for it deceives one about lost time until it is irremediable. And chronic schedule slippage is a morale-killer. - Fred Brooks, The Mythical Man Month
+
 * Handles client relations.
 * Plans and Control lead.
+
+> The investment of a modest amount of skilled effort in a Plans and Controls function is very rewarding. It makes far more difference in project accomplishment than if these people worked directly on building the product programs. For the Plans and Controls group is the watchdog who renders the imperceptible delays visible and who points up the critical elements. It is the early warning system against losing a year, one day at a time. - Frederick Brooks, The Mythical Man Month 
+
 * Makes all final decisions on client business rules and movement of schedules.
 
 ### Beato
