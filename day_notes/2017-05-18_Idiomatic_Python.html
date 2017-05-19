@@ -1,0 +1,797 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>10 Things from Idiomatic Python</title>
+  <style type="text/css">
+    body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #222;
+  font-size: 100%;
+}
+
+.slide {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  background-color: #f7f7f7;
+}
+
+.slide-content {
+  width: 800px;
+  height: 600px;
+  overflow: hidden;
+  margin: 80px auto 0 auto;
+  padding: 30px;
+
+  font-weight: 200;
+  font-size: 200%;
+  line-height: 1.375;
+}
+
+.controls {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.arrow {
+  width: 0; height: 0;
+  border: 30px solid #333;
+  float: left;
+  margin-right: 30px;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.prev {
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+
+  border-left-width: 0;
+  border-right-width: 50px;
+}
+
+.next {
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+
+  border-left-width: 50px;
+  border-right-width: 0;
+}
+
+.prev:hover {
+  border-right-color: #888;
+  cursor: pointer;
+}
+
+.next:hover {
+  border-left-color: #888;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 300%;
+  line-height: 1.2;
+  text-align: center;
+  margin: 170px 0 0;
+}
+
+h2 {
+  font-size: 100%;
+  line-height: 1.2;
+  margin: 5px 0;
+  text-align: center;
+  font-weight: 200;
+}
+
+h3 {
+  font-size: 140%;
+  line-height: 1.2;
+  border-bottom: 1px solid #aaa;
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+ul {
+  padding: 20px 0 0 60px;
+  font-weight: 200;
+  line-height: 1.375;
+}
+
+.author h1 {
+  font-size: 170%;
+  font-weight: 200;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.author h3 {
+  font-weight: 100;
+  text-align: center;
+  font-size: 95%;
+  border: none;
+}
+
+a {
+  text-decoration: none;
+  color: #44a4dd;
+}
+
+a:hover {
+  color: #66b5ff;
+}
+
+pre {
+  font-size: 60%;
+  line-height: 1.3;
+}
+
+.progress {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  z-index: 1;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 3px;
+  background-color: #b4b4b4;
+
+  -webkit-transition: width 0.05s ease-out;
+  -moz-transition: width 0.05s ease-out;
+  -o-transition: width 0.05s ease-out;
+  transition: width 0.05s ease-out;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 850px) {
+
+  body {
+    font-size: 70%;
+  }
+
+  .slide-content {
+    width: auto;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  h1 {
+    margin-top: 120px;
+  }
+
+  .prev, .prev:hover {
+    border-right-color: rgba(135, 135, 135, 0.5);
+  }
+
+  .next, .next:hover {
+    border-left-color: rgba(135, 135, 135, 0.5);
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 50%;
+    overflow: hidden;
+  }
+
+  .slide-content {
+    padding: 10px;
+    margin-top: 10px;
+    height: 340px;
+  }
+
+  h1 {
+    margin-top: 50px;
+  }
+
+  ul {
+    padding-left: 25px;
+  }
+}
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+
+  @page {
+    size: letter;
+  }
+
+  .hidden {
+    display: inline;
+  }
+
+  html {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  body {
+    margin: 0 auto !important;
+    border: 0;
+    padding: 0;
+    float: none !important;
+    overflow: visible;
+    background: none !important;
+    font-size: 52%;
+  }
+
+  .progress, .controls {
+    display: none;
+  }
+
+  .slide {
+    position: static;
+  }
+
+  .slide-content {
+    border: 1px solid #222;
+    margin-top: 0;
+    margin-bottom: 40px;
+    height: 3.5in;
+    overflow: visible;
+  }
+
+  .slide:nth-child(even) {
+    /* 2 slides per page */
+    page-break-before: always;
+  }
+}
+
+/*
+
+github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
+
+.hljs-comment,
+.hljs-quote {
+  color: #998;
+  font-style: italic;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-subst {
+  color: #333;
+  font-weight: bold;
+}
+
+.hljs-number,
+.hljs-literal,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag .hljs-attr {
+  color: #008080;
+}
+
+.hljs-string,
+.hljs-doctag {
+  color: #d14;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+  color: #900;
+  font-weight: bold;
+}
+
+.hljs-subst {
+  font-weight: normal;
+}
+
+.hljs-type,
+.hljs-class .hljs-title {
+  color: #458;
+  font-weight: bold;
+}
+
+.hljs-tag,
+.hljs-name,
+.hljs-attribute {
+  color: #000080;
+  font-weight: normal;
+}
+
+.hljs-regexp,
+.hljs-link {
+  color: #009926;
+}
+
+.hljs-symbol,
+.hljs-bullet {
+  color: #990073;
+}
+
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #0086b3;
+}
+
+.hljs-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.hljs-deletion {
+  background: #fdd;
+}
+
+.hljs-addition {
+  background: #dfd;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+
+  </style>
+    <script async src="http://localhost:35729/livereload.js"></script>
+</head>
+<body>
+    <div class="progress">
+    <div class="progress-bar"></div>
+  </div>
+
+  <div class="slide" id="slide-1">
+    <section class="slide-content"><h1 id="10-things-from-idiomatic-python">10 Things from Idiomatic Python</h1>
+<h2 id="a-nano-presentation">A nano presentation</h2>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-2">
+    <section class="slide-content"><p>Always code as if the guy who ends up maintaining your code
+will be a violent psychopath who knows where you live.</p>
+<p><code>-John Woods comp.lang.c++</code></p>
+<p><code>(also the preface to Idiomatic Python)</code></p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-3">
+    <section class="slide-content"><h3 id="what-is-idiomatic-code-">What is idiomatic code?</h3>
+<ul>
+<li>code that follows conventions</li>
+<li>using the easiest and most common way in Python to do something</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-4">
+    <section class="slide-content"><h3 id="writing-idiomatic-code">Writing idiomatic code</h3>
+<ul>
+<li>makes it more readable</li>
+<li>is usually more efficient (physically + performance)</li>
+<li>makes it more maintainable</li>
+<li>Good for the general community (sets standards)</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-5">
+    <section class="slide-content"><h3 id="this-presentation">This presentation</h3>
+<ul>
+<li>will not cover everything</li>
+<li>only the interesting, non-intuitive parts (in my opinion)</li>
+<li>please skim book</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-6">
+    <section class="slide-content"><h3 id="why-read-the-book-">Why read the book?</h3>
+<ul>
+<li>it&#39;s an easy read (1 sitting)</li>
+<li>no harm in revisiting basics once in a while</li>
+<li>I will post a copy in <strong>#random</strong></li>
+<li>Great intro for newbies or those switching from other languages</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-7">
+    <section class="slide-content"><h1 id="let-s-start-">Let&#39;s start!</h1>
+<h2 id="10-things-about-idiomatic-python-">10 things about Idiomatic Python!</h2>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-8">
+    <section class="slide-content"><h3 id="1-exceptions">1. Exceptions</h3>
+<ul>
+<li>Use them for control flow in Python.</li>
+<li>WTF?!</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-9">
+    <section class="slide-content"><p>Exceptions are everywhere in Python, even in a <code>for</code> loop!</p>
+<p><code>for</code> loops use them for stopping.</p>
+<p>When you use <code>for</code>, <code>iter()</code> is called on it and it goes through it until <code>StopIteration</code> is raised.</p>
+<pre><code class="lang-python">my_list = [<span class="hljs-string">'exceptions'</span>, <span class="hljs-string">'are'</span>, <span class="hljs-string">'cool'</span>]
+a = iter(my_list)
+a.next()
+a.next()
+a.next()
+a.next()</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-10">
+    <section class="slide-content"><p>Use them to write EAFP vs LBYL code!</p>
+<p>Bad:</p>
+<pre><code class="lang-python"> <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_log_level</span><span class="hljs-params">(config_dict)</span>:</span>
+  <span class="hljs-keyword">if</span> <span class="hljs-string">'ENABLE_LOGGING'</span> <span class="hljs-keyword">in</span> config_dict:
+    <span class="hljs-keyword">if</span> config_dict[<span class="hljs-string">'ENABLE_LOGGING'</span>] != <span class="hljs-keyword">True</span>:
+      <span class="hljs-keyword">return</span> <span class="hljs-keyword">None</span>
+    <span class="hljs-keyword">elif</span> <span class="hljs-keyword">not</span> <span class="hljs-string">'DEFAULT_LOG_LEVEL'</span> <span class="hljs-keyword">in</span> config_dict:
+      <span class="hljs-keyword">return</span> <span class="hljs-keyword">None</span>
+    <span class="hljs-keyword">else</span>:
+      <span class="hljs-keyword">return</span> config_dict[<span class="hljs-string">'DEFAULT_LOG_LEVEL'</span>]
+  <span class="hljs-keyword">else</span>:
+    <span class="hljs-keyword">return</span> <span class="hljs-keyword">None</span></code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-11">
+    <section class="slide-content"><p>Good:</p>
+<pre><code class="lang-python"><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_log_level</span><span class="hljs-params">(config_dict)</span>:</span>
+  <span class="hljs-keyword">try</span>:
+    <span class="hljs-keyword">if</span> config_dict[<span class="hljs-string">'ENABLE_LOGGING'</span>]:
+      <span class="hljs-keyword">return</span> config_dict[<span class="hljs-string">'DEFAULT_LOG_LEVEL'</span>]
+  <span class="hljs-keyword">except</span> KeyError:
+    <span class="hljs-comment"># if either value wasn't present, a</span>
+    <span class="hljs-comment"># KeyError will be raised, so</span>
+    <span class="hljs-comment"># return None</span>
+    <span class="hljs-keyword">return</span> <span class="hljs-keyword">None</span></code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-12">
+    <section class="slide-content"><h3 id="2-use-the-operator-to-represent-the-rest-of-a-list">2. Use the <code>*</code> operator to represent the &quot;rest&quot; of a list</h3>
+<ul>
+<li>specific to Python 3 though :(</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-13">
+    <section class="slide-content"><pre><code class="lang-python">my_list = [<span class="hljs-string">'I'</span>, <span class="hljs-string">'want'</span>, <span class="hljs-string">'a'</span>, <span class="hljs-string">'big'</span>, <span class="hljs-string">'sandwich'</span>]</code></pre>
+<p>Try these:</p>
+<pre><code class="lang-python">(*uno, dos, tres) = my_list
+&gt;&gt;&gt; ?</code></pre>
+<pre><code class="lang-python">(uno, *dos, tres) = my_list
+&gt;&gt;&gt; ?</code></pre>
+<pre><code class="lang-python">(uno, dos, *tres) = my_list
+&gt;&gt;&gt; ?</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-14">
+    <section class="slide-content"><h3 id="3-dict-comprehension">3. <code>dict</code> comprehension</h3>
+<p>Everyone knows about list comprehensions, but what about dict comprehensions?</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-15">
+    <section class="slide-content"><p>This is super useful for filtering information.</p>
+<pre><code class="lang-python"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">User</span>:</span>
+  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span><span class="hljs-params">(self, first_name, last_name, email, credits)</span>:</span>
+    self.first_name = first_name
+    self.last_name = last_name
+    self.email = email
+    self.credits = credits
+
+users_list = [
+  User(<span class="hljs-string">'Luis'</span>, <span class="hljs-string">'Pugoy'</span>, <span class="hljs-string">'pugspugspugs@aol.com'</span>, <span class="hljs-number">69</span>),
+  User(<span class="hljs-string">'Marte'</span>, <span class="hljs-string">'Parte'</span>, <span class="hljs-string">'parte@marte.io'</span>, <span class="hljs-number">80085</span>),
+  User(<span class="hljs-string">'Gibby'</span>, <span class="hljs-string">'Duenas'</span>, <span class="hljs-keyword">None</span>, <span class="hljs-number">666</span>),
+  User(<span class="hljs-string">'Janine'</span>, <span class="hljs-string">'Duenas'</span>, <span class="hljs-string">'jadu@gmail.com'</span>, <span class="hljs-number">10000</span>)
+]
+
+emails = {user.first_name: user.email <span class="hljs-keyword">for</span> user <span class="hljs-keyword">in</span> users_list <span class="hljs-keyword">if</span> user.email}</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-16">
+    <section class="slide-content"><h3 id="4-set-comprehension">4. <code>set</code> comprehension</h3>
+<p>...how about set comprehensions?</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-17">
+    <section class="slide-content"><pre><code class="lang-python"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">User</span>:</span>
+  <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span><span class="hljs-params">(self, first_name, last_name, email, credits)</span>:</span>
+    self.first_name = first_name
+    self.last_name = last_name
+    self.email = email
+    self.credits = credits
+
+users_list = [
+  User(<span class="hljs-string">'Luis'</span>, <span class="hljs-string">'Pugoy'</span>, <span class="hljs-string">'pugspugspugs@aol.com'</span>, <span class="hljs-number">69</span>),
+  User(<span class="hljs-string">'Marte'</span>, <span class="hljs-string">'Parte'</span>, <span class="hljs-string">'parte@marte.io'</span>, <span class="hljs-number">80085</span>),
+  User(<span class="hljs-string">'Gibby'</span>, <span class="hljs-string">'Duenas'</span>, <span class="hljs-keyword">None</span>, <span class="hljs-number">666</span>),
+  User(<span class="hljs-string">'Janine'</span>, <span class="hljs-string">'Duenas'</span>, <span class="hljs-string">'jadu@gmail.com'</span>, <span class="hljs-number">10000</span>)
+]
+
+unique_fams = {user.last_name <span class="hljs-keyword">for</span> user <span class="hljs-keyword">in</span> users_list <span class="hljs-keyword">if</span> user.credits &gt; <span class="hljs-number">100</span>}</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-18">
+    <section class="slide-content"><h3 id="5-namedtuple-">5. <code>namedtuple</code></h3>
+<p>Is it a <code>tuple</code> is it a <code>dict</code>? No, it&#39;s a <code>namedtuple</code>!</p>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-19">
+    <section class="slide-content"><p>What is it?</p>
+<p>Let&#39;s rewrite <code>User</code> class!</p>
+<pre><code class="lang-python"><span class="hljs-keyword">from</span> collections <span class="hljs-keyword">import</span> namedtuple
+
+User = namedtuple(<span class="hljs-string">'User'</span>, [<span class="hljs-string">'first_name'</span>, <span class="hljs-string">'last_name'</span>, <span class="hljs-string">'email'</span>, <span class="hljs-string">'credits'</span>])
+
+gibby = User(<span class="hljs-string">'Gibby'</span>, <span class="hljs-string">'Duenas'</span>, <span class="hljs-keyword">None</span>, <span class="hljs-number">666</span>)
+
+<span class="hljs-comment"># You can get attributes it by position</span>
+<span class="hljs-keyword">print</span> gibby[<span class="hljs-number">0</span>]
+
+<span class="hljs-comment"># Or by name</span>
+<span class="hljs-keyword">print</span> gibby.last_name
+
+<span class="hljs-comment"># But like a tuple, it's immutable. This gives an error</span>
+gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-20">
+    <section class="slide-content"><h3 id="6-generator-expressions">6. generator expressions</h3>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-21">
+    <section class="slide-content"><ul>
+<li>generators are awesome!</li>
+<li>generates things &quot;on demand&quot;</li>
+<li>unlike list comprehension, memory intensive for large data</li>
+<li>ex. lazy loading</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-22">
+    <section class="slide-content"><pre><code class="lang-python">
+<span class="hljs-keyword">for</span> a, b <span class="hljs-keyword">in</span> ((user.last_name.upper(), <span class="hljs-string">'Php '</span> + str(user.credits)) <span class="hljs-keyword">for</span> user <span class="hljs-keyword">in</span> users_list):
+  <span class="hljs-keyword">print</span> a, b</code></pre>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-23">
+    <section class="slide-content"><h3 id="7-use-leading-underscores-in-function-and-variable-names-to-denote-private-data">7. Use leading underscores in function and variable names to denote private data</h3>
+<ul>
+<li><code>_</code> denotes protected</li>
+<li><code>__</code> denotes private</li>
+<li>Just a convention?</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-24">
+    <section class="slide-content"><p><strong> Nope!</strong></p>
+<ul>
+<li>prefixing stuff with <code>_</code> makes sure it&#39;s not imported with <code>*</code></li>
+<li><code>__</code> &quot;mangles&quot;, useful when someone else will use your class as superclass and you wanna protect your class&#39;s variables.</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-25">
+    <section class="slide-content"><h3 id="8-__enter__-and-__exit__-in-your-classes-that-require-housekeeping">8. <code>__enter__</code> and <code>__exit__</code> in your classes that require housekeeping</h3>
+<ul>
+<li>Everyone familiar with context manager <code>with</code>?</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-26">
+    <section class="slide-content"><ul>
+<li><code>__enter__</code> and <code>__exit__</code> are good for stuff like db connections</li>
+<li>get creative!</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-27">
+    <section class="slide-content"><h3 id="9-document-what-something-does-not-how">9. Document what something does, not how</h3>
+<ul>
+<li>Sounds super obvious (but sometimes I forget)</li>
+<li>proper, not leaky abstraction</li>
+<li>if idiomatic, should be self-documenting</li>
+<li>causes you to change it when you change actual code (more work)</li>
+</ul>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-28">
+    <section class="slide-content"><h3 id="10-teach-others-to-write-idiomatic-code-">10. Teach others to write idiomatic code!</h3>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-29">
+    <section class="slide-content"><h1 id="thanks-for-listening-">Thanks for listening! :)</h1>
+</section>
+  </div>
+  <div class="slide hidden author-slide" id="slide-30">
+    <section class="slide-content"><div class="author">
+  <h1 class="name">Beato Bongco</h1>
+    <h3 class="url">
+      <a href="https://beatobongco.com">https://beatobongco.com</a>
+    </h3>
+</div>
+</section>
+  </div>
+
+  <div class="controls">
+    <div class="arrow prev"></div>
+    <div class="arrow next"></div>
+  </div>
+
+
+  <script type="text/javascript">
+    /**
+ * Returns the current page number of the presentation.
+ */
+function currentPosition() {
+  return parseInt(document.querySelector('.slide:not(.hidden)').id.slice(6));
+}
+
+
+/**
+ * Navigates forward n pages
+ * If n is negative, we will navigate in reverse
+ */
+function navigate(n) {
+  var position = currentPosition();
+  var numSlides = document.getElementsByClassName('slide').length;
+
+  /* Positions are 1-indexed, so we need to add and subtract 1 */
+  var nextPosition = (position - 1 + n) % numSlides + 1;
+
+  /* Normalize nextPosition in-case of a negative modulo result */
+  nextPosition = (nextPosition - 1 + numSlides) % numSlides + 1;
+
+  document.getElementById('slide-' + position).classList.add('hidden');
+  document.getElementById('slide-' + nextPosition).classList.remove('hidden');
+
+  updateProgress();
+  updateURL();
+  updateTabIndex();
+}
+
+
+/**
+ * Updates the current URL to include a hashtag of the current page number.
+ */
+function updateURL() {
+  try {
+    window.history.replaceState({} , null, '#' + currentPosition());
+  } catch (e) {
+    window.location.hash = currentPosition();
+  }
+}
+
+
+/**
+ * Sets the progress indicator.
+ */
+function updateProgress() {
+  var progressBar = document.querySelector('.progress-bar');
+
+  if (progressBar !== null) {
+    var numSlides = document.getElementsByClassName('slide').length;
+    var position = currentPosition() - 1;
+    var percent = (numSlides === 1) ? 100 : 100 * position / (numSlides - 1);
+    progressBar.style.width = percent.toString() + '%';
+  }
+}
+
+
+/**
+ * Removes tabindex property from all links on the current slide, sets
+ * tabindex = -1 for all links on other slides. Prevents slides from appearing
+ * out of control.
+ */
+function updateTabIndex() {
+  var allLinks = document.querySelectorAll('.slide a');
+  var position = currentPosition();
+  var currentPageLinks = document.getElementById('slide-' + position).querySelectorAll('a');
+  var i;
+
+  for (i = 0; i < allLinks.length; i++) {
+    allLinks[i].setAttribute('tabindex', -1);
+  }
+
+  for (i = 0; i < currentPageLinks.length; i++) {
+    currentPageLinks[i].removeAttribute('tabindex');
+  }
+}
+
+/**
+ * Determines whether or not we are currently in full screen mode
+ */
+function isFullScreen() {
+  return document.fullscreenElement ||
+         document.mozFullScreenElement ||
+         document.webkitFullscreenElement ||
+         document.msFullscreenElement;
+}
+
+/**
+ * Toggle fullScreen mode on document element.
+ * Works on chrome (>= 15), firefox (>= 9), ie (>= 11), opera(>= 12.1), safari (>= 5).
+ */
+function toggleFullScreen() {
+  /* Convenient renames */
+  var docElem = document.documentElement;
+  var doc = document;
+
+  docElem.requestFullscreen =
+      docElem.requestFullscreen ||
+      docElem.msRequestFullscreen ||
+      docElem.mozRequestFullScreen ||
+      docElem.webkitRequestFullscreen.bind(docElem, Element.ALLOW_KEYBOARD_INPUT);
+
+  doc.exitFullscreen =
+      doc.exitFullscreen ||
+      doc.msExitFullscreen ||
+      doc.mozCancelFullScreen ||
+      doc.webkitExitFullscreen;
+
+  isFullScreen() ? doc.exitFullscreen() : docElem.requestFullscreen();
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  // Update the tabindex to prevent weird slide transitioning
+  updateTabIndex();
+
+  // If the location hash specifies a page number, go to it.
+  var page = window.location.hash.slice(1);
+  if (page) {
+    navigate(parseInt(page) - 1);
+  }
+
+  document.onkeydown = function (e) {
+    var kc = e.keyCode;
+
+    // left, down, H, J, backspace, PgUp - BACK
+    // up, right, K, L, space, PgDn - FORWARD
+    // enter - FULLSCREEN
+    if (kc === 37 || kc === 40 || kc === 8 || kc === 72 || kc === 74 || kc === 33) {
+      navigate(-1);
+    } else if (kc === 38 || kc === 39 || kc === 32 || kc === 75 || kc === 76 || kc === 34) {
+      navigate(1);
+    } else if (kc === 13) {
+      toggleFullScreen();
+    }
+  };
+
+  if (document.querySelector('.next') && document.querySelector('.prev')) {
+    document.querySelector('.next').onclick = function (e) {
+      e.preventDefault();
+      navigate(1);
+    };
+
+    document.querySelector('.prev').onclick = function (e) {
+      e.preventDefault();
+      navigate(-1);
+    };
+  }
+});
+
+
+  </script>
+</body>
+</html>
