@@ -1,6 +1,9 @@
 # TIL
 A small list of shit I learned.
 
+## 5/19/2017
+ * Easy slides http://jdan.github.io/cleaver/
+ 
 ## 5/11/2017
  * How to make music https://learningmusic.ableton.com/
  * Remember to care about loadtimes https://blog.intercom.com/bringing-visibility-to-technical-performance/?utm_content=buffer9de5e&utm_medium=social&utm_source=twitter&utm_campaign=buffer
