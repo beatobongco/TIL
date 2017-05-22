@@ -1,6 +1,10 @@
 # TIL
 A small list of shit I learned.
 
+## 5/22/2017
+ * AI playbook http://aiplaybook.a16z.com/
+ * Good ML courses https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+ 
 ## 5/19/2017
  * Easy slides http://jdan.github.io/cleaver/
  
