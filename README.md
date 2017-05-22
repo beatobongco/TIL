@@ -1,6 +1,10 @@
 # TIL
 A small list of shit I learned.
 
+## 5/23/2017
+ * Really good primer on state of AI and deep learning http://a16z.com/2016/06/10/ai-deep-learning-machines/
+ * Andreessen Horowitz has great tech articles, videos and podcasts http://a16z.com/
+ 
 ## 5/22/2017
  * AI playbook http://aiplaybook.a16z.com/
  * Good ML courses https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
