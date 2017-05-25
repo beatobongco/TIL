@@ -4,6 +4,7 @@ A small list of shit I learned.
 ## 5/25/2017
  * Delete docker logs `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
  * Very powerful custom directives in Vue https://vuejs.org/v2/guide/custom-directive.html
+ * Super funny I've never used `v-show` for conditional rendering in Vue. Use this to not destroy and create elements when rendering conditionally.
  
 ## 5/23/2017
  * Really good primer on state of AI and deep learning http://a16z.com/2016/06/10/ai-deep-learning-machines/
