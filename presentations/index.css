@@ -14,7 +14,7 @@ a {
 
 h1 {
   padding-top: 75px;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 300;
   color: #e74c3c;
   margin: 0 5%;
@@ -37,7 +37,6 @@ h1:before {
 
 .header {
   position: relative;
-  min-height: 240px;
 }
 
 .header a,
