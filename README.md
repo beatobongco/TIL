@@ -1,22 +1,24 @@
 # TIL
 A small list of shit I learned.
 
+Some of my [talks and presentations](https://beatobongco.com/presentations/) can be found here.
+
 ## 5/25/2017
  * Delete docker logs `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
  * Very powerful custom directives in Vue https://vuejs.org/v2/guide/custom-directive.html
  * Super funny I've never used `v-show` for conditional rendering in Vue. Use this to not destroy and create elements when rendering conditionally.
- 
+
 ## 5/23/2017
  * Really good primer on state of AI and deep learning http://a16z.com/2016/06/10/ai-deep-learning-machines/
  * Andreessen Horowitz has great tech articles, videos and podcasts http://a16z.com/
- 
+
 ## 5/22/2017
  * AI playbook http://aiplaybook.a16z.com/
  * Good ML courses https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
- 
+
 ## 5/19/2017
  * Easy slides http://jdan.github.io/cleaver/
- 
+
 ## 5/11/2017
  * How to make music https://learningmusic.ableton.com/
  * Remember to care about loadtimes https://blog.intercom.com/bringing-visibility-to-technical-performance/?utm_content=buffer9de5e&utm_medium=social&utm_source=twitter&utm_campaign=buffer
@@ -24,15 +26,15 @@ A small list of shit I learned.
 
 ## 5/4/2017
  * Google Cloud Platform training for a data analyst! https://github.com/GoogleCloudPlatform/training-data-analyst
- 
+
 ## 5/3/2017
  * https://www.startupschool.org/
- 
+
 ## 5/2/2017
  * esoteric programming paradigms http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/
  * evidence-based advice https://80000hours.org/career-guide/how-to-be-successful/
  * http://firstround.com/review/how-to-become-insanely-well-connected/
- 
+
 ## 4/25/2017
  * Derek Yu pixel art tutorial http://makegames.tumblr.com/post/42648699708/pixel-art-tutorial
  * Creative coding inspiration: vacuum flowers http://vacuumflowers.com/projects/
