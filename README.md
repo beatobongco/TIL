@@ -1,7 +1,7 @@
 # TIL
 A small list of shit I learned.
 
-Some of my [talks and presentations](https://beatobongco.com/presentations/) can be found here.
+Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 5/25/2017
  * Delete docker logs `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
