@@ -1,5 +1,7 @@
 # Processes
 
+Thought dump.
+
 The biggest gist of all when implementing processes is making sure they're useful, easy to adapt, and to grow these processes organically.
 
 Processes help you become more free as it becomes an efficient use of your time. Using processes should always result in having "more bang for your buck" meaning you get more work done in the same amount of time.
@@ -71,3 +73,4 @@ Just three things:
 * Collab hour - hour when the team is online together, working or just available for chat/talk. You don't need to do anything but be reachable. This is a good time to ask questions or ask for help if you're stuck. 1pm-2pm every T, Th.
 * FF - present a minimum of 5 minutes on what you're doing, even if it's marginal improvement from last time or if you're stuck, show what you're stuck at. Free food and beer after. If you have requests, make it known on #effingfridays. Don't be shy! You can even buy the food/drinks yourself and be reimbursed! Every Friday 4pm.
 
+##
