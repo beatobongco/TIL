@@ -28,9 +28,13 @@ Started coding insync from a one-bedroom condo near UP.
 
 Raised **Php 15 million** in seed round from a VC in Manila.
 
+--
+
 ### June 2010
 
 Introduced Insync as “Dropbox for Google Docs” at [Echelon](https://e27.co/echelon-2010-registrations-finally-open/) in Singapore.
+
+[![ech](https://cloud.githubusercontent.com/assets/3739702/26625911/827c30a8-4630-11e7-9fab-aa94076cf6cc.png)](http://www.youtube.com/watch?v=K_SyPmGGZ1s)
 
 --
 
