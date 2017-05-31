@@ -5,6 +5,7 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 
 ## 5/31/2017
  * Net art anthology! Beautiful af! https://anthology.rhizome.org/
+ * How about making an interactive poem about climbing?
  
 ## 5/25/2017
  * Delete docker logs `truncate -s 0 /var/lib/docker/containers/*/*-json.log`
