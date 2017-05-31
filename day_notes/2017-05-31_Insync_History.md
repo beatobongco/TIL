@@ -1,6 +1,6 @@
 title: Insync History
 author:
-  name: Beato Bongco (for InsyncHQ)
+  name: Terence Pua (edited by Beato Bongco)
   url: https://www.insynchq.com
 output: 2017-05-31_Insync_History.html
 controls: true
