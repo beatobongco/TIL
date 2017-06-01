@@ -3,6 +3,14 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/1/2017
+ * How to place multiple cursors on sublime text
+``` 
+Select all the text: CTRL A.
+Activate multi-cursors: CTRL (or CMD on Mac) SHIFT L.
+Press the Home key to move all cursors to the front of the line.
+```
+
 ## 5/31/2017
  * Net art anthology! Beautiful af! https://anthology.rhizome.org/
  * How about making an interactive poem about climbing?
