@@ -10,7 +10,8 @@ Select all the text: CTRL A.
 Activate multi-cursors: CTRL (or CMD on Mac) SHIFT L.
 Press the Home key to move all cursors to the front of the line.
 ```
-
+ * Making Things by Miyake Issey https://www.youtube.com/watch?v=cHm2ksnkUdg
+ 
 ## 5/31/2017
  * Net art anthology! Beautiful af! https://anthology.rhizome.org/
  * How about making an interactive poem about climbing?
