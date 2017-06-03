@@ -5,7 +5,10 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 
 ## 6/3/2017
  * `HOME` and `END` to go to beginning/end of line on almost any text editor (even web)
-
+ * http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/
+```
+But is what we get from the computational universe art? When we pick out something like rule 30 for a particular purpose, what we’re doing is conceptually a bit like photography: we’re not creating the underlying forms, but we are selecting the ones we choose to use.
+```
 ## 6/1/2017
  * How to place multiple cursors on sublime text
 ``` 
