@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/3/2017
+ * `HOME` and `END` to go to beginning/end of line on almost any text editor (even web)
+
 ## 6/1/2017
  * How to place multiple cursors on sublime text
 ``` 
