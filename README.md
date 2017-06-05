@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/5/2017
+ * Theoretically, could you build a machine designed to be more efficient and make it run a deep learning algorithm to recursively improve its own efficiency?
+  
 ## 6/3/2017
  * `HOME` and `END` to go to beginning/end of line on almost any text editor (even web)
  * http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/
