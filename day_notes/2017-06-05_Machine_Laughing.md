@@ -1,0 +1,5 @@
+# ML Fun
+
+## Classification Problem: Dog or Muffin?
+
+![image](https://cloud.githubusercontent.com/assets/3739702/26785291/21a3589e-4a34-11e7-8e5f-4ce8bf181cac.png)
