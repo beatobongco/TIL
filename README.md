@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/6/2017
+ * Using deep learning on small data http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
+ 
 ## 6/5/2017
  * Reads open source non-fiction books and gives me the keywords. Produces a super short high-frequency non-stupid words (Can use classifier and tweak) summary so I can choose something to skim. e.g. Steve Jobs - biography - Apple billion dollar company, Elon Musk - biography Tesla Space X solar electric
  * Theoretically, could you build a machine designed to be more efficient and make it run a deep learning algorithm to recursively improve its own efficiency?
