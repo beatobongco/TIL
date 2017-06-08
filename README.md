@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/8/2017
+* Good explanation of various binary classifier concepts https://classeval.wordpress.com/
+
 ## 6/6/2017
  * Using deep learning on small data http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html
  
