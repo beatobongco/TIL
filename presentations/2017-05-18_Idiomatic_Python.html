@@ -358,6 +358,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 
 
   </style>
+    <script async src="http://localhost:35729/livereload.js"></script>
 </head>
 <body>
     <div class="progress">
@@ -557,10 +558,7 @@ gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
   </div>
   <div class="slide hidden" id="slide-20">
     <section class="slide-content"><h3 id="6-generator-expressions">6. generator expressions</h3>
-</section>
-  </div>
-  <div class="slide hidden" id="slide-21">
-    <section class="slide-content"><ul>
+<ul>
 <li>generators are awesome!</li>
 <li>generates things &quot;on demand&quot;</li>
 <li>unlike list comprehension, memory intensive for large data</li>
@@ -568,13 +566,14 @@ gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-22">
+  <div class="slide hidden" id="slide-21">
     <section class="slide-content"><pre><code class="lang-python">
-<span class="hljs-keyword">for</span> a, b <span class="hljs-keyword">in</span> ((user.last_name.upper(), <span class="hljs-string">'Php '</span> + str(user.credits)) <span class="hljs-keyword">for</span> user <span class="hljs-keyword">in</span> users_list):
+<span class="hljs-keyword">for</span> a, b <span class="hljs-keyword">in</span> ((user.last_name.upper(), <span class="hljs-string">'Php '</span> +
+             str(user.credits)) <span class="hljs-keyword">for</span> user <span class="hljs-keyword">in</span> users_list):
   <span class="hljs-keyword">print</span> a, b</code></pre>
 </section>
   </div>
-  <div class="slide hidden" id="slide-23">
+  <div class="slide hidden" id="slide-22">
     <section class="slide-content"><h3 id="7-use-leading-underscores-in-function-and-variable-names-to-denote-private-data">7. Use leading underscores in function and variable names to denote private data</h3>
 <ul>
 <li><code>_</code> denotes protected</li>
@@ -583,7 +582,7 @@ gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-24">
+  <div class="slide hidden" id="slide-23">
     <section class="slide-content"><p><strong> Nope!</strong></p>
 <ul>
 <li>prefixing stuff with <code>_</code> makes sure it&#39;s not imported with <code>*</code></li>
@@ -591,21 +590,21 @@ gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-25">
+  <div class="slide hidden" id="slide-24">
     <section class="slide-content"><h3 id="8-__enter__-and-__exit__-in-your-classes-that-require-housekeeping">8. <code>__enter__</code> and <code>__exit__</code> in your classes that require housekeeping</h3>
 <ul>
 <li>Everyone familiar with context manager <code>with</code>?</li>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-26">
+  <div class="slide hidden" id="slide-25">
     <section class="slide-content"><ul>
 <li><code>__enter__</code> and <code>__exit__</code> are good for stuff like db connections</li>
 <li>get creative!</li>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-27">
+  <div class="slide hidden" id="slide-26">
     <section class="slide-content"><h3 id="9-document-what-something-does-not-how">9. Document what something does, not how</h3>
 <ul>
 <li>Sounds super obvious (but sometimes I forget)</li>
@@ -615,15 +614,15 @@ gibby.last_name = <span class="hljs-string">'McGibberson'</span></code></pre>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-28">
+  <div class="slide hidden" id="slide-27">
     <section class="slide-content"><h3 id="10-teach-others-to-write-idiomatic-code-">10. Teach others to write idiomatic code!</h3>
 </section>
   </div>
-  <div class="slide hidden" id="slide-29">
+  <div class="slide hidden" id="slide-28">
     <section class="slide-content"><h1 id="thanks-for-listening-">Thanks for listening! :)</h1>
 </section>
   </div>
-  <div class="slide hidden author-slide" id="slide-30">
+  <div class="slide hidden author-slide" id="slide-29">
     <section class="slide-content"><div class="author">
   <h1 class="name">Beato Bongco</h1>
     <h3 class="url">

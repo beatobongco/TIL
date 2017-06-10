@@ -230,8 +230,6 @@ gibby.last_name = 'McGibberson'
 
 ### 6. generator expressions
 
---
-
 * generators are awesome!
 * generates things "on demand"
 * unlike list comprehension, memory intensive for large data
@@ -241,7 +239,8 @@ gibby.last_name = 'McGibberson'
 
 ```python
 
-for a, b in ((user.last_name.upper(), 'Php ' + str(user.credits)) for user in users_list):
+for a, b in ((user.last_name.upper(), 'Php ' +
+             str(user.credits)) for user in users_list):
   print a, b
 
 ```
