@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/14/2017
+* Protect your Psyche: http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age
+
 ## 6/8/2017
 * Good explanation of various binary classifier concepts https://classeval.wordpress.com/
 
