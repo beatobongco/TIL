@@ -4,6 +4,8 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 6/14/2017
+* Deep Learning course by Google. Also, check out udacity's AI and ML nanodegrees https://www.udacity.com/course/deep-learning--ud730
+* 3 hour tensorflow https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 * Protect your Psyche: http://aging.nautil.us/feature/218/why-you-cant-help-but-act-your-age
 
 ## 6/8/2017
