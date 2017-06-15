@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/15/2017
+* http://w4nderlu.st/projects/about-serendipity
+
 ## 6/14/2017
 * Tensorflow from Kadenze https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 * Deep Learning course by Google. Also, check out udacity's AI and ML nanodegrees https://www.udacity.com/course/deep-learning--ud730
