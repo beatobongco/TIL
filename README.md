@@ -4,7 +4,7 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 6/15/2017
-* http://w4nderlu.st/projects/about-serendipity
+* recognizing serendipity is a skill, ML techniques can lead to "mind cages", as programmers we have the moral responsbility to avoid doing this http://w4nderlu.st/projects/about-serendipity
 
 ## 6/14/2017
 * Tensorflow from Kadenze https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
