@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/16/2017
+* Having wifi probs on Ubuntu? Try `sudo killall dnsmasq`
+
 ## 6/15/2017
 * recognizing serendipity is a skill, ML techniques can lead to "mind cages", as programmers we have the moral responsbility to avoid doing this http://w4nderlu.st/projects/about-serendipity
 
