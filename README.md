@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/18/2017
+* Google Scholar classic papers https://scholar.google.com/citations?view_op=list_classic_articles&hl=en&by=2006
+
 ## 6/16/2017
 * Having wifi probs on Ubuntu? Try `sudo killall dnsmasq`
 
