@@ -3,6 +3,8 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/20/2017
+* Share terminal session with people you trust https://www.teleconsole.com/
 ## 6/19/2017 
 * Try `ncdu`, an excellent command-line disk usage analyser.
 * Docker cheat sheet https://github.com/wsargent/docker-cheat-sheet
