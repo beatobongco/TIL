@@ -3,8 +3,20 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/21/2017
+* http://gratefulness.org/resource/one-morning/
+* Password protect HTML page https://github.com/robinmoisson/staticrypt
+* Write native apps in Vue! https://weex.incubator.apache.org/
+* Requests has verbose mode 
+
+```
+my_config = {'verbose': sys.stderr}
+requests.get('http://httpbin.org/headers', config=my_config)
+```
+
 ## 6/20/2017
 * Share terminal session with people you trust https://www.teleconsole.com/
+
 ## 6/19/2017 
 * Try `ncdu`, an excellent command-line disk usage analyser.
 * Docker cheat sheet https://github.com/wsargent/docker-cheat-sheet
