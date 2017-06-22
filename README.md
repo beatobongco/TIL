@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/22/2017
+* See partitions and where they're mounted `sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL`
+
 ## 6/21/2017
 * http://gratefulness.org/resource/one-morning/
 * Password protect HTML page https://github.com/robinmoisson/staticrypt
