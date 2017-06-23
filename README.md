@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/24/2017 
+* How to study http://www.cse.buffalo.edu/~rapaport/howtostudy.html
+
 ## 6/22/2017
 * See partitions and where they're mounted `sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL`
 * Sounds intuitive. Clear cached images and files if Chrome is not honoring your hosts file.
