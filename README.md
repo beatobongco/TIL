@@ -4,7 +4,8 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 6/26/2017
-This is a mapping of 2 (2x3) layers in an NN. Looks like a nice logo. 
+* Great notes on Stanford ML class. http://www.holehouse.org/mlclass/
+* This is a mapping of 2 (2x3) layers in an NN. Looks like a nice logo. 
 
 ![image](https://user-images.githubusercontent.com/3739702/27521487-1a564886-5a50-11e7-955c-7f5ab77b2f51.png)
 
