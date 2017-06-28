@@ -5,6 +5,12 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 
 ## 6/28/2017
 * Create env in conda `conda create -n tensorflow python=<ver>`, `source activate tensorflow`
+* Silence tf errors, or build from source
+```
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+import tensorflow as tf
+```
 
 ## 6/26/2017
 * Great notes on Stanford ML class. http://www.holehouse.org/mlclass/
