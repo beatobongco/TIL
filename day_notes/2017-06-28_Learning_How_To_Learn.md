@@ -12,13 +12,13 @@ other a lot. This is why I don't believe in remote work.
 * Sleep - consolidates what we learn, eliminates toxins.
 * Exercise - allows processes to run in background and helps solve problems (Eureka moment)
 * Benny the Irish Polyglot 
-  - make a lot of mistakes to learn. Be OK with making mistakes.
-  - self-fulfilling prophecies - whether you think you can or you can't you're right.
+  * make a lot of mistakes to learn. Be OK with making mistakes.
+  * self-fulfilling prophecies - whether you think you can or you can't you're right.
 * Dr. Robert Bilder
- - expert on creativity
- - you need discomfort to learn
- - OCEAN (mine is 88-55-95-65-23) 
- - O - positive correlatins great achievement
- - A - negative correlation, challenge the status quo
- - powers on ten exercises - get perspective by super zooming out a problem then super zooming in
- - snake biting tail = benzene ring - serendipity - ideas that arise from subconscious
+  * expert on creativity
+  * you need discomfort to learn
+  * OCEAN (mine is 88-55-95-65-23) 
+  * O - positive correlatins great achievement
+  * A - negative correlation, challenge the status quo
+  * powers on ten exercises - get perspective by super zooming out a problem then super zooming in
+  * snake biting tail = benzene ring - serendipity - ideas that arise from subconscious
