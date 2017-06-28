@@ -22,3 +22,6 @@ other a lot. This is why I don't believe in remote work.
   * A - negative correlation, challenge the status quo
   * powers on ten exercises - get perspective by super zooming out a problem then super zooming in
   * snake biting tail = benzene ring - serendipity - ideas that arise from subconscious
+* Writing Coach Daphne Gray-Grant
+  * Use mindmapping. If something is interesting/important/relevant to you, you will remember it.
+  * Don't edit while you write. "Vomit" on page first and then edit later.
