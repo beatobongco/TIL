@@ -3,7 +3,7 @@
 * Timeboxing is effective (Pomodoro)
 * Spaced Repetition is effective (Anki)
 * Cramming is not effective. Learn a little everyday. Think lifting weights.
-* Metaphor + analogy helps
+* **Metaphor + analogy** helps
 * Focused vs diffuse learning. Switch between two to learn effectively. (alternate between learning and chilling)
 * T. Sejnowski: Environment is important for learning. e.g. if you want to be creative surround yourself with and interact with creative people. 
 This is further proof of why visionaries like Steve Jobs want to create environments where people bump into each
@@ -25,3 +25,20 @@ other a lot. This is why I don't believe in remote work.
 * Writing Coach Daphne Gray-Grant
   * Use mindmapping. If something is interesting/important/relevant to you, you will remember it.
   * Don't edit while you write. "Vomit" on page first and then edit later.
+* Chunking 
+  * Unite scattered bits of info through meaning.
+  * Logical whole makes it easier to remember.
+  * "Ah, gets" moments.
+  * Makes your brain run more efficiently.
+  * Chunking can be like creating a function in a programming language to abstract a series of steps. Once you've created it, you only need to remember the function name and what it does, not how it does it.
+  * Top down and bottom up learning need to work together. (Memorization and understanding)
+  * 1. Focus all your RAM on the task.
+  * 2. Do a quick first pass to get the gist.
+  * 3. Practice.
+  * When a concept is chunked, it takes up less RAM freeing you to use it for other tasks.
+* Recall
+  * After learning something, look away and try to repeat in own words the main concepts.
+  * Test yoself or wreck yoself!
+* **Underline less and take notes more!** Underlining too much leads to illusions of competence.
+* Test yourself in different places to not be dependent on subliminal cues where you learned the material. 
+Argument of using highly mobile laptops and using Anki while on the go.
