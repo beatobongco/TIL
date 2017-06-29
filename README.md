@@ -3,6 +3,10 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 6/29/2017
+* Thoughts on interviewing engineers http://blog.triplebyte.com/how-to-interview-engineers
+* https://triplebyte.com/manifesto
+
 ## 6/28/2017
 * Create env in conda `conda create -n tensorflow python=<ver>`, `source activate tensorflow`
 * Silence tf errors, or build from source
