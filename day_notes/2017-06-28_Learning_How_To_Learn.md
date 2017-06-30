@@ -26,6 +26,7 @@ other a lot. This is why I don't believe in remote work.
   * Use mindmapping. If something is interesting/important/relevant to you, you will remember it.
   * Don't edit while you write. "Vomit" on page first and then edit later.
 * Chunking 
+  * Takes only one slot in working memory
   * Unite scattered bits of info through meaning.
   * Logical whole makes it easier to remember.
   * "Ah, gets" moments.
@@ -42,3 +43,13 @@ other a lot. This is why I don't believe in remote work.
 * **Underline less and take notes more!** Underlining too much leads to illusions of competence.
 * Test yourself in different places to not be dependent on subliminal cues where you learned the material. 
 Argument of using highly mobile laptops and using Anki while on the go.
+* **Combine chunks** - read widely - Gates/Jobs set aside week-long reading periods (perhaps different books) so that they can hold many ideas in mind during one time. This allows their ideas to "network" amongst themselves.
+* **Transfer** - one chunk can be applied to many different unrelated fields.
+* **Law of Serendipity** - Lady Luck favors the one who tries. 
+* **Overlearning** - repeating what you already know. Waste of time. Think: climbing a lot of easy routes.
+* **Deliberate practice** - focus intently on the parts of the problem that are more difficult to you.
+* **Einstellung** - German: mindset - your initial thoughts may prevent a better idea from being found 
+(close minded?). Beginner's mind?
+* **Interleaving** - jump back and forth between problems which require different techinques or strategies. Mix up your learning. Builds flexibility and creativity. This is practice to be less book smart and more world smart.
+* Innovate by mastering different fields. 
+
