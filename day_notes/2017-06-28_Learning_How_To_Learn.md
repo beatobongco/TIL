@@ -52,4 +52,7 @@ Argument of using highly mobile laptops and using Anki while on the go.
 (close minded?). Beginner's mind?
 * **Interleaving** - jump back and forth between problems which require different techinques or strategies. Mix up your learning. Builds flexibility and creativity. This is practice to be less book smart and more world smart.
 * Innovate by mastering different fields. 
-
+* Dr. Norman Fortenberry - director American Society for Engineering Education
+  * You have to be part of team. Engineering is a team a sport. Find it as quickly as possible.
+  * Impportant to take a break. Complete mental turnoff. 
+  * Use all modes of input while learning. Sound, sight, touch (writing) etc.
