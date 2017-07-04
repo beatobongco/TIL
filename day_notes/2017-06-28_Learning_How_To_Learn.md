@@ -56,3 +56,9 @@ Argument of using highly mobile laptops and using Anki while on the go.
   * You have to be part of team. Engineering is a team a sport. Find it as quickly as possible.
   * Impportant to take a break. Complete mental turnoff. 
   * Use all modes of input while learning. Sound, sight, touch (writing) etc.
+* Scott Young - guy who compressed MIT CS course into 1 year of learning
+  * Feynman technique: explain it to other people
+  * Use analogy
+  * Talent is just exposure
+  * Best learners aren't put off by failure
+  * MIT Open courseware is incredible https://ocw.mit.edu/index.htm
