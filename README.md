@@ -49,7 +49,7 @@ requests.get('http://httpbin.org/headers', config=my_config)
 * Share terminal session with people you trust https://www.teleconsole.com/
 
 ## 6/19/2017 
-* Try `ncdu`, an excellent command-line disk usage analyser.
+* Try `ncdu`, an excellent command-line disk usage analyser. You need to install `sudo apt-get install libncurses-dev`
 * Docker cheat sheet https://github.com/wsargent/docker-cheat-sheet
 
 ## 6/18/2017
