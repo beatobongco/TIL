@@ -62,3 +62,4 @@ Argument of using highly mobile laptops and using Anki while on the go.
   * Talent is just exposure
   * Best learners aren't put off by failure
   * MIT Open courseware is incredible https://ocw.mit.edu/index.htm
+* **Focus on the process** not the product. Best effort for a short while, without focusing on the outcome.
