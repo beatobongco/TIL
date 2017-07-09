@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 7/9/2017
+* The essence of calculus, great video series on YouTube for grokking the basics. https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
 ## 6/30/2017
  * Luck is a skill http://www.telegraph.co.uk/technology/3304496/Be-lucky-its-an-easy-skill-to-learn.html
  * `Once you get into the habit of the 30 second review, it starts to change the way you pay attention, whether listening to a talk or participating in a discussion.` http://www.huffingtonpost.com/robyn-scott/the-30-second-habit-that-_b_4808632.html
