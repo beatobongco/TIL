@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 7/11/2017 
+* https://codelabs.developers.google.com/cpb100
+
 ## 7/10/2017
 * People who take breaks and have leisure time outperform those who only just doggedly pursue an endless treadmill - Learning How to Learn 
 
