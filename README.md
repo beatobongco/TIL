@@ -4,6 +4,7 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 7/11/2017 
+* https://github.com/slap-editor/slap
 * https://codelabs.developers.google.com/cpb100
 
 ## 7/10/2017
