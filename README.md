@@ -4,6 +4,7 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 7/11/2017 
+* `wget -qO - http://ipecho.net/plain; echo` ez find ip
 * https://github.com/slap-editor/slap
 * https://codelabs.developers.google.com/cpb100
 
