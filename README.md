@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 7/12/2017
+* http://karpathy.github.io/
+
 ## 7/11/2017 
 * incremental learning http://scikit-learn.org/stable/modules/scaling_strategies.html#incremental-learning
 * `wget -qO - http://ipecho.net/plain; echo` ez find ip
