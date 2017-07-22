@@ -2,19 +2,23 @@ Michael Seibel - CEO of YC
 Steve Huffman - founder-CEO of reddit
 Emmet Shear - founder-CEO of twitch
 
-Your most angry users can become your most loyal ones if you treat them right. 
+Your most angry users can become your most loyal ones if you treat them right.
 
 Talk to the users who didn't choose to use your product.
 
-Launch sooner rather than later. It's OK to launch something that is jury-rigged, doesn't scale. 
+Launch sooner rather than later. It's OK to launch something that is jury-rigged, doesn't scale.
 Just make sure the value-add is extremely compelling to some people.
 
 You need minimum viable data. Track some shit from day 1 even if you don't use it yet.
 
 **Pick your 5-7 most important user actions and log them.**
 
-Your users don't care about your tech. 
+Your users don't care about your tech.
 
 Fix things one at a time, do not wait to fix many things then release. Release early and often.
 
-Talk to users, look at data, not to validate products ideas but to HAVE product ideas.
+Talk to users, look at data, not to validate products ideas but to HAVE product ideas. Not to for them to tell you explicitly what to build but to understand their pain points.
+
+Build metrics so that you can explain why numbers go up. This is hard but you should nevertheless strive to build this.
+
+Sisyphus -> product market fit -> boulder rolls downhill and you must chase it
