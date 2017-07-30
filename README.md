@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 7/30/2017
+* https://benmccormick.org/2017/07/19/ten-things-javascript/
+ 
 ## 7/25/2017 
 * https://www.crimsoneducation.org/
 
