@@ -4,6 +4,7 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 7/30/2017
+* https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f
 * https://benmccormick.org/2017/07/19/ten-things-javascript/
  
 ## 7/25/2017 
