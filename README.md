@@ -4,6 +4,8 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 7/30/2017
+* art https://marpi.pl/
+* `We build custom real-time audio-reactive music visualizers, using web technologies such as WebGL, Web Audio, and custom GLSL shaders. We also build live concert visuals and interactive installations.` https://www.uberviz.io/
 * https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f
 * https://benmccormick.org/2017/07/19/ten-things-javascript/
  
