@@ -1,0 +1,93 @@
+#app1 {
+  font-size: 1rem;
+  border: 2px solid black;
+  max-width: 400px;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+#app1 .row {
+  height: 150px;
+}
+#app1 .answer {
+  font-size: 1.5rem;
+  text-align: center;
+}
+#app1 .accuracy > p {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+}
+#app1 .accuracy strong {
+  font-size: 1.5rem;
+}
+#app1 .controls > div {
+  text-align: center;
+}
+#app1 .app-controls {
+  margin-top: 1rem;
+  height: 21px;
+}
+#app1 button {
+  font-size: .9rem;
+  padding: 5px 8px;
+  background-color: transparent;
+  border-radius: 0;
+  border: 2px solid black;
+  cursor: pointer;
+}
+[v-cloak] {
+  display: none;
+}
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translate3d(50%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+    transform: none;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+.fadeSlow-enter-active {
+  animation-name: fadeIn;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+.fadeLeft-enter-active {
+  animation-name: fadeInLeft;
+  animation-duration: .3s;
+  animation-fill-mode: both;
+}
+.fade-enter-active {
+  animation-name: fadeIn;
+  animation-duration: .3s;
+  animation-fill-mode: both;
+}
+.fadeSlow-leave-active,
+.fadeLeft-leave-active,
+.fade-leave-active {
+  animation-name: fadeOut;
+  animation-duration: .3s;
+  animation-fill-mode: both;
+}
