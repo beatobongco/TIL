@@ -193,14 +193,14 @@ Click on the button above! This is a robot that learns to identify apples among 
 
 * Say we want to predict housing prices given a house's area.
 * Just area is insufficient to actually predict house prices, but just pay attention to concepts.
-
+* House area is formally called our *feature*. In real-life ML problems you usually have a lot more features.
 --
 
-### Collect your features
+### Collect your data
 
 ![image](static/images/housefail.jpg)
 
-Go outside, look at houses and get area and price. Once you've visited around a thousand houses, plot all house data out on a graph (x: area, y: price)
+Go outside, look at houses and get area and price. Plot all house data out on a graph with area on the x-axis and price on the y-axis.
 
 --
 
