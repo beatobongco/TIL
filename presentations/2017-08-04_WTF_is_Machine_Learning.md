@@ -46,7 +46,7 @@ controls: true
 
 ![image](static/images/oatmeal-prototype.png)
 
-Cars, ships, planes, drones, and ...cyborgs?
+Cars, ships, planes, drones, and ...[pancake flipping robots](https://www.youtube.com/watch?v=W_gxLKSsSIE)?
 
 --
 
@@ -54,7 +54,7 @@ Cars, ships, planes, drones, and ...cyborgs?
 
 ![image](static/images/dog-muffin.png)
 
-Visual search, shopping w/ no checkout lines, [cucumber sorting](https://www.youtube.com/watch?v=4HCE1P-m1l8).
+Visual search, [shopping](https://www.youtube.com/watch?v=NrmMk1Myrxc) w/ no checkout lines, [cucumber sorting](https://www.youtube.com/watch?v=4HCE1P-m1l8).
 
 --
 
@@ -62,7 +62,7 @@ Visual search, shopping w/ no checkout lines, [cucumber sorting](https://www.you
 
 ![image](static/images/queries.png)
 
-Translation, understanding queries, support automation.
+Translation, understanding queries, support automation, [virtual coaches](https://www.youtube.com/watch?v=krdwB8bfXLQ).
 
 --
 
