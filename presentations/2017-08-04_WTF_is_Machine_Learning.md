@@ -118,7 +118,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 4. Feed into machine, not showing it the answers.
 4. Machine tries to answer.
 4. Compare machine's answers to correct output.
-4. Tell the machine how far off it's answers were.
+4. Tell the machine how far off its answers were.
 5. Machine optimizes self using ~~magic~~ **math**.
 5. Do steps 2-6 a __shitton__ of times.
 6. Machine can now give you the output you want on data it hasn't seen yet.
