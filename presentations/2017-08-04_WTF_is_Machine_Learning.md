@@ -262,7 +262,7 @@ The answer is to turn to ~~meth~~ math!
 
 ### The magic of gradient descent
 
-Turns out with the magic of derivatives and by deriving the cost function, we can show Gary if a weight should be increased or decreased to minimize the cost function.
+Turns out with the magic of derivatives (we will derive the cost function), we can show Gary if a weight should be increased or decreased to minimize the cost function.
 
 ![image](static/images/graddes.png)
 
@@ -290,11 +290,11 @@ So it follows that Gary's goal is to try to reach the bottom.
 
 ### Doing the descent + learning rate
 
-Each time Gary trains, all we have to do is subtact each weight by a number (learning rate) times the gradient. Think of learning rate as how big a fall off the hill Gary takes at a time.
+Each time Gary trains, all we have to do is subtract each weight by a number (learning rate) times the gradient. Think of learning rate as how big a fall off the hill Gary takes at a time.
 
 ![image](static/images/graddesf.jpg)
 
-We just keep doing this until our cost function doesn't decrease by much (like less than some tiny number 0.0001).
+We just keep doing the descent and adjusting our weights until our cost function doesn't decrease by much (like less than some tiny number 0.0001).
 
 --
 
@@ -308,9 +308,9 @@ Once we're satisfied that Gary has fallen enough, he's ready to predict house pr
 
 ![image](static/images/megaseed.jpg)
 
-We'll find some house we haven't seen yet, get their areas as x, apply Gary's weights and we should get a number that predicts the price of that house! Recall `y = mx + b`.
+We'll find some house we haven't seen yet, get their area as x, apply Gary's weights and we should get a number that predicts the price of that house! Recall `y = mx + b`.
 
-`price = weight1 * house area + weight2`
+Get your price by calculating `price = weight1 * house area + weight2`
 
 --
 
@@ -318,8 +318,8 @@ We'll find some house we haven't seen yet, get their areas as x, apply Gary's we
 
 As a recap, takeaway the following:
 
-* Model - the features (and modifications to them) you choose to use
-* Weights - numbers applied to the model to get the output. This is what our algorithm tries to find via optimization.
+* **Model** - the features (and modifications to them) you choose to use
+* **Weights** - numbers applied to the model to get the output. This is what our algorithm tries to find via optimization.
 
 --
 
@@ -340,5 +340,5 @@ As a recap, takeaway the following:
 
 ### Sources
 
-* [The Promise of AI - Andreessen Horowitz](https://vimeo.com/215926017)
+* [The Promise of AI - Frank Chen of Andreessen Horowitz](https://vimeo.com/215926017)
 * [Stanford's Machine Learning course by Andrew Ng](https://www.coursera.org/learn/machine-learning)
