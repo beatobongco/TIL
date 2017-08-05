@@ -196,7 +196,7 @@ Click on the button above! This is a robot that learns to identify apples among 
 
 --
 
-### Collect
+### Collect your features
 
 ![image](static/images/housefail.jpg)
 
@@ -213,7 +213,7 @@ This is called our *model*.
 
 --
 
-### Le weights
+### Weights
 
 We want Gary to draw that line for us. He can do that by plugging in values to `m` and `b`.
 
