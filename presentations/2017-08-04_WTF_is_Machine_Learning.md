@@ -17,6 +17,12 @@ controls: true
   .spacer {
     margin-bottom: 50px;
   }
+  img {
+    width: auto !important;
+  }
+  .slide-content {
+    height: auto !important;
+  }
 </style>
 
 # WTF is Machine Learning?
