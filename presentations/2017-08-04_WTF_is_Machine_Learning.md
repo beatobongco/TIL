@@ -109,9 +109,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 
 --
 
-### What is ML revisited: How does a machine "learn by experience"?
-
-#### Setup
+### Setup
 
 1. You want a certain output given a certain input.
 2. Too hard or too infeasible to program a solution.
@@ -120,15 +118,15 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 
 --
 
-### Supervised learning overview
+### Supervised learning in 9 steps
 
-4. Give machine lots of training data where you provide the answers / correct output.
-4. Feed into machine, not showing it the answers.
-4. Machine tries to answer.
-4. Compare machine's answers to correct output.
-4. Tell the machine how far off its answers were.
-5. Machine optimizes self using ~~magic~~ **math**.
-5. Do steps 2-6 a __shitton__ of times.
+4. Give machine lots of labeled training data. Labeled just means you provide the answers / correct output.
+4. Feed data into machine, not showing it the labels.
+4. Machine tries to label all the training data itself.
+4. Compare machine's labels to correct labels.
+4. Tell the machine how far off its labels were.
+5. Machine optimizes itself a little bit using ~~magic~~ **math**.
+5. Do steps 2-6 a __shitton__ of times. This is called `training` your machine and each pass is called an `epoch`. Once satisfied with machine's labels, you may stop training.
 6. Machine can now give you the output you want on data it hasn't seen yet.
 7. Mind === blown.
 
@@ -141,6 +139,13 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 <link rel="stylesheet" type="text/css" href="static/css/wtfisml.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.4.2/vue.min.js"></script>
 <div v-cloak id="app1">
+  <div class="row app-controls">
+    <div class="col-xs-12">
+      <div v-if="guessing && !finishingRound && !scolding">
+        Training on example {{step + 1}} of {{stepMax + 1}}...
+      </div>
+    </div>
+  </div>
   <div class="row middle-xs center-xs">
     <div class="col-xs-6">
       <transition name="fade">
@@ -153,13 +158,28 @@ Translation, understanding queries, support automation, [virtual coaches](https:
         </div>
       </transition>
       <transition name="fade">
-        <div class="answer" v-if="finishingRound && !correct">
-          <p>Oops, adjusting...</p>
+        <div class="answer" v-if="finishingRound">
+          <p v-if="numWrongs > 0">Ok. Optimizing self based on error...</p>
+          <p v-else>AWW YIS.</p>
           <p>/</p>
         </div>
       </transition>
     </div>
     <div class="col-xs-6">
+      <div class="answer" v-if="scolding">
+        <p>/</p>
+        <p>
+          <span v-if="numWrongs > 1">
+            You got {{numWrongs}} wrong. Feel bad!
+          </span>
+          <span v-if="numWrongs === 1">
+            You got one wrong. Not bad...
+          </span>
+          <span v-if="numWrongs === 0">
+            All good!
+          </span>
+        </p>
+      </div>
       <img
         :class="{animated: evaluation, shake: !correct, tada: correct}"
         v-if="evaluation"
@@ -169,11 +189,18 @@ Translation, understanding queries, support automation, [virtual coaches](https:
   <div class="row top-xs center-xs">
     <div class="col-xs-6">
       <img src="static/images/robot.png">
-      <div class="accuracy">
-        <p>Cost:</p>
-        <p :class="{animated: finishingRound, flash: finishingRound}">
+      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
+        <p>Epoch:</p>
+        <p>
+          <strong>{{timesTrained - 1}}</strong>
+        </p>
+      </div>
+      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
+        <p>Accuracy:</p>
+        <p>
         <strong>{{readableAccuracy}}</strong>
         </p>
+        <p>%</p>
       </div>
     </div>
     <div class="col-xs-6">
@@ -186,17 +213,37 @@ Translation, understanding queries, support automation, [virtual coaches](https:
   </div>
   <div class="row app-controls center-xs">
     <div class="col-xs-12" v-show="!guessing">
-      <button @click="showFruit">Show a fruit</button>
+      <button @click="train">Train</button>
     </div>
   </div>
 </div>
 <script src="static/js/wtfisml.js"></script>
 
-Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary. Note that the lower the `cost` goes, the better his answers. At 0 `cost`, Gary will answer perfectly. We'll discuss `cost` more later.
+Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary. Explanation on the next slide.
 
 --
 
-### More formal example: predict house prices
+### Supervised learning in 9 steps with Gary
+
+4. We get 5 fruits form the store: 2 apples, 1 orange, 1 banana, 1 kiwi and label them properly.
+4. We give those fruits to Gary without labels.
+4. We show Gary each of the fruits. He tries to label them.
+4. We compare Gary's labels to the correct labels.
+4. We tell Gary how many he got wrong.
+5. Gary optimizes self based on error. He will perform better the next time around.
+5. You may train Gary again and again.
+6. Gary should now be able to identify apples, oranges, bananas and kiwis from a different store. This is not part of the demo.
+7. Mind === blown.
+
+--
+
+# Now for a more in-depth example...
+
+## ![image](static/images/robot.png) ![image](static/images/exclamation-question-mark.png)
+
+--
+
+### Predicting house prices
 
 * Say we want to predict housing prices given a house's area.
 * Just area is insufficient to actually predict house prices, but just pay attention to concepts.
@@ -207,7 +254,7 @@ Click on the button above! This is a robot that learns to identify apples among 
 
 ![image](static/images/housefail.jpg)
 
-Go outside, look at houses and get area and price. Plot all house data out on a graph with area on the x-axis and price on the y-axis.
+Go outside, look at houses and get area and price. Plot all house data out on a graph with area on the `x-axis` and price on the `y-axis`.
 
 --
 
@@ -215,7 +262,7 @@ The intuition is, we want our machine (who we'll call Gary, after our apple-bot)
 
 ![image](static/images/linearreg.png)
 
-Remember the formula for a line? `y = mx + b`
+Remember the formula for a line? `y = mx + b`.
 This is called our *model*.
 
 --
@@ -224,7 +271,7 @@ This is called our *model*.
 
 We want Gary to draw that line for us. He can do that by plugging in values to `m` and `b`.
 
-These are called *weights* and are usually denoted by the greek letter Theta (Θ). For now, since Gary is untrained, let's just set `m` and `b` to 0.
+These are called *weights* and are usually denoted by the greek letter Theta (Θ).
 
 It is Gary's job to find the best values for the weights, to get the best fitting line.
 
@@ -240,7 +287,7 @@ The cost function is how you tell Gary he's wrong. Specifically, it tells Gary *
 
 --
 
-Here's the formula. Don't scare, doge.
+Here's the formula.
 
 ![image](static/images/linregcost.png)
 
@@ -326,7 +373,7 @@ Get your price by calculating `price = weight1 * house area + weight2`
 As a recap, takeaway the following:
 
 * **Model** - the features (and modifications to them) you choose to use
-* **Weights** - numbers applied to the model to get the output. This is what our algorithm tries to find via optimization.
+* **Weights** - numbers applied to the model to get the output. These are what our algorithm tries to find via optimization.
 
 --
 

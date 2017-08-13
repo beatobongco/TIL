@@ -3,27 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-  <meta property="og:image" content="https://beatobongco.com/TIL/presentations/static/images/og_ml.png" />
-  <meta name="description" content="What is ML and why should you care? The basics broken down in the least technical way possible.">
   <title>WTF is Machine Learning?</title>
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-56608851-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <style type="text/css">
-    img {
-      width: auto !important;
-    }
-    .slide-content {
-      height: auto !important;
-    }
-  </style>
-
   <style type="text/css">
     body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -479,8 +459,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 </section>
   </div>
   <div class="slide hidden" id="slide-12">
-    <section class="slide-content"><h3 id="what-is-ml-revisited-how-does-a-machine-learn-by-experience-">What is ML revisited: How does a machine &quot;learn by experience&quot;?</h3>
-<h4 id="setup">Setup</h4>
+    <section class="slide-content"><h3 id="setup">Setup</h3>
 <ol>
 <li>You want a certain output given a certain input.</li>
 <li>Too hard or too infeasible to program a solution.</li>
@@ -489,15 +468,15 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 </section>
   </div>
   <div class="slide hidden" id="slide-13">
-    <section class="slide-content"><h3 id="supervised-learning-overview">Supervised learning overview</h3>
+    <section class="slide-content"><h3 id="supervised-learning-in-9-steps">Supervised learning in 9 steps</h3>
 <ol>
-<li>Give machine lots of training data where you provide the answers / correct output.</li>
-<li>Feed into machine, not showing it the answers.</li>
-<li>Machine tries to answer.</li>
-<li>Compare machine&#39;s answers to correct output.</li>
-<li>Tell the machine how far off its answers were.</li>
-<li>Machine optimizes self using <del>magic</del> <strong>math</strong>.</li>
-<li>Do steps 2-6 a <strong>shitton</strong> of times.</li>
+<li>Give machine lots of labeled training data. Labeled just means you provide the answers / correct output.</li>
+<li>Feed data into machine, not showing it the labels.</li>
+<li>Machine tries to label all the training data itself.</li>
+<li>Compare machine&#39;s labels to correct labels.</li>
+<li>Tell the machine how far off its labels were.</li>
+<li>Machine optimizes itself a little bit using <del>magic</del> <strong>math</strong>.</li>
+<li>Do steps 2-6 a <strong>shitton</strong> of times. This is called <code>training</code> your machine and each pass is called an <code>epoch</code>. Once satisfied with machine&#39;s labels, you may stop training.</li>
 <li>Machine can now give you the output you want on data it hasn&#39;t seen yet.</li>
 <li>Mind === blown.</li>
 </ol>
@@ -510,6 +489,13 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 <p><link rel="stylesheet" type="text/css" href="static/css/wtfisml.css"></p>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.4.2/vue.min.js"></script>
 <div v-cloak id="app1">
+  <div class="row app-controls">
+    <div class="col-xs-12">
+      <div v-if="guessing && !finishingRound && !scolding">
+        Training on example {{step + 1}} of {{stepMax + 1}}...
+      </div>
+    </div>
+  </div>
   <div class="row middle-xs center-xs">
     <div class="col-xs-6">
       <transition name="fade">
@@ -522,13 +508,28 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
         </div>
       </transition>
       <transition name="fade">
-        <div class="answer" v-if="finishingRound && !correct">
-          <p>Oops, adjusting...</p>
+        <div class="answer" v-if="finishingRound">
+          <p v-if="numWrongs > 0">Ok. Optimizing self based on error...</p>
+          <p v-else>AWW YIS.</p>
           <p>/</p>
         </div>
       </transition>
     </div>
     <div class="col-xs-6">
+      <div class="answer" v-if="scolding">
+        <p>/</p>
+        <p>
+          <span v-if="numWrongs > 1">
+            You got {{numWrongs}} wrong. Feel bad!
+          </span>
+          <span v-if="numWrongs === 1">
+            You got one wrong. Not bad...
+          </span>
+          <span v-if="numWrongs === 0">
+            All good!
+          </span>
+        </p>
+      </div>
       <img
         :class="{animated: evaluation, shake: !correct, tada: correct}"
         v-if="evaluation"
@@ -538,11 +539,18 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   <div class="row top-xs center-xs">
     <div class="col-xs-6">
       <img src="static/images/robot.png">
-      <div class="accuracy">
-        <p>Cost:</p>
-        <p :class="{animated: finishingRound, flash: finishingRound}">
+      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
+        <p>Epoch:</p>
+        <p>
+          <strong>{{timesTrained - 1}}</strong>
+        </p>
+      </div>
+      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
+        <p>Accuracy:</p>
+        <p>
         <strong>{{readableAccuracy}}</strong>
         </p>
+        <p>%</p>
       </div>
     </div>
     <div class="col-xs-6">
@@ -555,17 +563,37 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   </div>
   <div class="row app-controls center-xs">
     <div class="col-xs-12" v-show="!guessing">
-      <button @click="showFruit">Show a fruit</button>
+      <button @click="train">Train</button>
     </div>
   </div>
 </div>
 <script src="static/js/wtfisml.js"></script>
 
-<p>Click on the button above! This is a robot that learns to identify apples among other fruits. Let&#39;s call him Gary. Note that the lower the <code>cost</code> goes, the better his answers. At 0 <code>cost</code>, Gary will answer perfectly. We&#39;ll discuss <code>cost</code> more later.</p>
+<p>Click on the button above! This is a robot that learns to identify apples among other fruits. Let&#39;s call him Gary. Explanation on the next slide.</p>
 </section>
   </div>
   <div class="slide hidden" id="slide-15">
-    <section class="slide-content"><h3 id="more-formal-example-predict-house-prices">More formal example: predict house prices</h3>
+    <section class="slide-content"><h3 id="supervised-learning-in-9-steps-with-gary">Supervised learning in 9 steps with Gary</h3>
+<ol>
+<li>We get 5 fruits form the store: 2 apples, 1 orange, 1 banana, 1 kiwi and label them properly.</li>
+<li>We give those fruits to Gary without labels.</li>
+<li>We show Gary each of the fruits. He tries to label them.</li>
+<li>We compare Gary&#39;s labels to the correct labels.</li>
+<li>We tell Gary how many he got wrong.</li>
+<li>Gary optimizes self based on error. He will perform better the next time around.</li>
+<li>You may train Gary again and again.</li>
+<li>Gary should now be able to identify apples, oranges, bananas and kiwis from a different store. This is not part of the demo.</li>
+<li>Mind === blown.</li>
+</ol>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-16">
+    <section class="slide-content"><h1 id="now-for-a-more-in-depth-example-">Now for a more in-depth example...</h1>
+<h2 id="-image-static-images-robot-png-image-static-images-exclamation-question-mark-png-"><img src="static/images/robot.png" alt="image"> <img src="static/images/exclamation-question-mark.png" alt="image"></h2>
+</section>
+  </div>
+  <div class="slide hidden" id="slide-17">
+    <section class="slide-content"><h3 id="predicting-house-prices">Predicting house prices</h3>
 <ul>
 <li>Say we want to predict housing prices given a house&#39;s area.</li>
 <li>Just area is insufficient to actually predict house prices, but just pay attention to concepts.</li>
@@ -573,66 +601,66 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-16">
+  <div class="slide hidden" id="slide-18">
     <section class="slide-content"><h3 id="collect-your-data">Collect your data</h3>
 <p><img src="static/images/housefail.jpg" alt="image"></p>
-<p>Go outside, look at houses and get area and price. Plot all house data out on a graph with area on the x-axis and price on the y-axis.</p>
+<p>Go outside, look at houses and get area and price. Plot all house data out on a graph with area on the <code>x-axis</code> and price on the <code>y-axis</code>.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-17">
+  <div class="slide hidden" id="slide-19">
     <section class="slide-content"><p>The intuition is, we want our machine (who we&#39;ll call Gary, after our apple-bot) to draw a line that best fits our data. From this line, we will be able to predict house prices given house areas our machine hasn&#39;t seen yet.</p>
 <p><img src="static/images/linearreg.png" alt="image"></p>
-<p>Remember the formula for a line? <code>y = mx + b</code>
+<p>Remember the formula for a line? <code>y = mx + b</code>.
 This is called our <em>model</em>.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-18">
+  <div class="slide hidden" id="slide-20">
     <section class="slide-content"><h3 id="weights">Weights</h3>
 <p>We want Gary to draw that line for us. He can do that by plugging in values to <code>m</code> and <code>b</code>.</p>
-<p>These are called <em>weights</em> and are usually denoted by the greek letter Theta (Θ). For now, since Gary is untrained, let&#39;s just set <code>m</code> and <code>b</code> to 0.</p>
+<p>These are called <em>weights</em> and are usually denoted by the greek letter Theta (Θ).</p>
 <p>It is Gary&#39;s job to find the best values for the weights, to get the best fitting line.</p>
 <p>But how do we know if it&#39;s the best fitting line?</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-19">
+  <div class="slide hidden" id="slide-21">
     <section class="slide-content"><h3 id="enter-the-cost-function">Enter the cost function</h3>
 <p><img src="static/images/chingchong.jpg" alt="img"></p>
 <p>The cost function is how you tell Gary he&#39;s wrong. Specifically, it tells Gary <strong>how wrong</strong> he was.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-20">
-    <section class="slide-content"><p>Here&#39;s the formula. Don&#39;t scare, doge.</p>
+  <div class="slide hidden" id="slide-22">
+    <section class="slide-content"><p>Here&#39;s the formula.</p>
 <p><img src="static/images/linregcost.png" alt="image"></p>
 <p><code>m</code> - number of houses in our dataset (training examples)
 <code>h</code> - just means apply our weights to our model and get the result</p>
 <p>All this is doing is summing up all of our errors and squaring them.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-21">
+  <div class="slide hidden" id="slide-23">
     <section class="slide-content"><p>Visually, it looks like this:</p>
 <p><img src="static/images/mse.png" alt="image"></p>
 <p>We&#39;re just getting the distance of each training example from the line our machine guessed, squaring them, adding them all together and dividing the result by <code>2 * num training examples</code>.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-22">
+  <div class="slide hidden" id="slide-24">
     <section class="slide-content"><p>Ok, now that Gary knows how bad his answers are, what can he do?</p>
 <p><img src="static/images/feelbad.jpg" alt="image"></p>
 <p>The answer is to turn to <del>meth</del> math!</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-23">
+  <div class="slide hidden" id="slide-25">
     <section class="slide-content"><h3 id="the-magic-of-gradient-descent">The magic of gradient descent</h3>
 <p>Turns out with the magic of derivatives (we will derive the cost function), we can show Gary if a weight should be increased or decreased to minimize the cost function.</p>
 <p><img src="static/images/graddes.png" alt="image"></p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-24">
+  <div class="slide hidden" id="slide-26">
     <section class="slide-content"><h3 id="down-from-the-hill">Down from the hill</h3>
 <p><img src="static/images/fall.gif" alt="image"></p>
 <p>A helpful analogy for gradient descent is that we&#39;re throwing Gary off a hill.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-25">
+  <div class="slide hidden" id="slide-27">
     <section class="slide-content"><h3 id="derivatives-gradients-gravity">Derivatives/Gradients == gravity</h3>
 <p>Another name for derivatives are gradients (thus gradient descent).</p>
 <p>I won&#39;t go into details of how to get derivatives (lots of nice tuts online) but just think of them as gravity, telling Gary&#39;s poor body where to go.</p>
@@ -640,35 +668,35 @@ This is called our <em>model</em>.</p>
 <p>So it follows that Gary&#39;s goal is to try to reach the bottom.</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-26">
+  <div class="slide hidden" id="slide-28">
     <section class="slide-content"><h3 id="doing-the-descent-learning-rate">Doing the descent + learning rate</h3>
 <p>Each time Gary trains, all we have to do is subtract each weight by a number (learning rate) times the gradient. Think of learning rate as how big a fall off the hill Gary takes at a time.</p>
 <p><img src="static/images/graddesf.jpg" alt="image"></p>
 <p>We just keep doing the descent and adjusting our weights until our cost function doesn&#39;t decrease by much (like less than some tiny number 0.0001).</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-27">
+  <div class="slide hidden" id="slide-29">
     <section class="slide-content"><h3 id="mega-reward">Mega reward</h3>
 <p><img src="static/images/morty.webp" alt="image"></p>
 <p>Once we&#39;re satisfied that Gary has fallen enough, he&#39;s ready to predict house prices with his weights!</p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-28">
+  <div class="slide hidden" id="slide-30">
     <section class="slide-content"><p><img src="static/images/megaseed.jpg" alt="image"></p>
 <p>We&#39;ll find some house we haven&#39;t seen yet, get their area as x, apply Gary&#39;s weights and we should get a number that predicts the price of that house! Recall <code>y = mx + b</code>.</p>
 <p>Get your price by calculating <code>price = weight1 * house area + weight2</code></p>
 </section>
   </div>
-  <div class="slide hidden" id="slide-29">
+  <div class="slide hidden" id="slide-31">
     <section class="slide-content"><h3 id="intuition-ml-is-just-models-and-weights">Intuition: ML is just models and weights</h3>
 <p>As a recap, takeaway the following:</p>
 <ul>
 <li><strong>Model</strong> - the features (and modifications to them) you choose to use</li>
-<li><strong>Weights</strong> - numbers applied to the model to get the output. This is what our algorithm tries to find via optimization.</li>
+<li><strong>Weights</strong> - numbers applied to the model to get the output. These are what our algorithm tries to find via optimization.</li>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-30">
+  <div class="slide hidden" id="slide-32">
     <section class="slide-content"><h3 id="hungry-for-apples-more-">Hungry for <del>apples</del> more?</h3>
 <ul>
 <li><a href="https://www.technologyreview.com/s/513696/deep-learning/">Deep Learning</a> is current hot trend</li>
@@ -680,12 +708,12 @@ This is called our <em>model</em>.</p>
 </ul>
 </section>
   </div>
-  <div class="slide hidden" id="slide-31">
+  <div class="slide hidden" id="slide-33">
     <section class="slide-content"><h1 id="thank-you-">Thank you!</h1>
 <h2 id="-image-static-images-vhand-png-image-static-images-robot-png-"><img src="static/images/vhand.png" alt="image"><img src="static/images/robot.png" alt="image"></h2>
 </section>
   </div>
-  <div class="slide hidden" id="slide-32">
+  <div class="slide hidden" id="slide-34">
     <section class="slide-content"><h3 id="sources">Sources</h3>
 <ul>
 <li><a href="https://vimeo.com/215926017">The Promise of AI - Frank Chen of Andreessen Horowitz</a></li>
@@ -693,7 +721,7 @@ This is called our <em>model</em>.</p>
 </ul>
 </section>
   </div>
-  <div class="slide hidden author-slide" id="slide-33">
+  <div class="slide hidden author-slide" id="slide-35">
     <section class="slide-content"><div class="author">
   <h1 class="name">Beato Bongco</h1>
     <h3 class="url">
