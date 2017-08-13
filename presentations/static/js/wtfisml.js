@@ -11,7 +11,7 @@ var app1 = new Vue({
   },
   computed: {
     readableAccuracy: function() {
-      return parseInt(this.accuracy * 100)
+      return 100 - parseInt(this.accuracy * 100)
     }
   },
   methods: {

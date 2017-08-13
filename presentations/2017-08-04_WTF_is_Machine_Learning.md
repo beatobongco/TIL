@@ -168,11 +168,10 @@ Translation, understanding queries, support automation, [virtual coaches](https:
     <div class="col-xs-6">
       <img src="static/images/robot.png">
       <div class="accuracy">
-        <p>Accuracy:</p>
+        <p>Cost:</p>
         <p :class="{animated: finishingRound, flash: finishingRound}">
         <strong>{{readableAccuracy}}</strong>
         </p>
-        <p>%</p>
       </div>
     </div>
     <div class="col-xs-6">
@@ -191,7 +190,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 </div>
 <script src="static/js/wtfisml.js"></script>
 
-Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary.
+Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary. Not that the lower the cost goes, the better his answers. At 0 cost, Gary will answer perfectly.
 
 --
 
