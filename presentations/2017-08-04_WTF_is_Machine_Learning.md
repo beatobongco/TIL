@@ -30,9 +30,11 @@ controls: true
 ## ![image](static/images/robot.png) ![image](static/images/exclamation-question-mark.png)
 --
 
-### Basically: Learning from XP
+### Basically
 
 ![image](static/images/XP.jpg)
+
+A machine that learns to perform better from experience.
 
 --
 
