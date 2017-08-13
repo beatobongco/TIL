@@ -192,7 +192,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 </div>
 <script src="static/js/wtfisml.js"></script>
 
-Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary. Not that the lower the cost goes, the better his answers. At 0 cost, Gary will answer perfectly.
+Click on the button above! This is a robot that learns to identify apples among other fruits. Let's call him Gary. Note that the lower the `cost` goes, the better his answers. At 0 `cost`, Gary will answer perfectly. We'll discuss `cost` more later.
 
 --
 
