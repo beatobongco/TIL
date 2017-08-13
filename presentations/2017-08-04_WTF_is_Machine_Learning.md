@@ -141,9 +141,11 @@ Translation, understanding queries, support automation, [virtual coaches](https:
 <div v-cloak id="app1">
   <div class="row app-controls">
     <div class="col-xs-12">
-      <div v-if="guessing && !finishingRound && !scolding">
-        Training on example {{step + 1}} of {{stepMax + 1}}...
-      </div>
+      <transition name="fade">
+        <div v-if="guessing && !finishingRound && !scolding">
+          Training on example {{step + 1}} of {{stepMax + 1}}...
+        </div>
+      </transition>
     </div>
   </div>
   <div class="row middle-xs center-xs">
@@ -166,6 +168,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
       </transition>
     </div>
     <div class="col-xs-6">
+      <transition name="fade">
       <div class="answer" v-if="scolding">
         <p>/</p>
         <p>
@@ -180,6 +183,7 @@ Translation, understanding queries, support automation, [virtual coaches](https:
           </span>
         </p>
       </div>
+      </transition>
       <img
         :class="{animated: evaluation, shake: !correct, tada: correct}"
         v-if="evaluation"
@@ -189,19 +193,23 @@ Translation, understanding queries, support automation, [virtual coaches](https:
   <div class="row top-xs center-xs">
     <div class="col-xs-6">
       <img src="static/images/robot.png">
-      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
-        <p>Epoch:</p>
-        <p>
-          <strong>{{timesTrained - 1}}</strong>
-        </p>
-      </div>
-      <div v-show="timesTrained > 1 && !guessing" class="accuracy">
-        <p>Accuracy:</p>
-        <p>
-        <strong>{{readableAccuracy}}</strong>
-        </p>
-        <p>%</p>
-      </div>
+      <transition name="fade">
+        <div v-show="timesTrained > 1 && !guessing">
+          <div class="accuracy">
+            <p>Epoch:</p>
+            <p>
+              <strong>{{timesTrained - 1}}</strong>
+            </p>
+          </div>
+          <div class="accuracy">
+            <p>Accuracy:</p>
+            <p>
+            <strong>{{readableAccuracy}}</strong>
+            </p>
+            <p>%</p>
+          </div>
+        </div>
+      <transition name="fade">
     </div>
     <div class="col-xs-6">
       <div>

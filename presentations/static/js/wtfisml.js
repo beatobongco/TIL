@@ -12,7 +12,7 @@ var app1 = new Vue({
     fruitToShow: null,
     correct: null,
     trainingData: ['apple', 'orange', 'apple', 'banana', 'kiwi'],
-    baseWaitTime: 1000,
+    baseWaitTime: 850,
   },
   computed: {
     readableAccuracy: function() {
