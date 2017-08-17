@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 8/17/2017
+* $7k masters in CS https://www.omscs.gatech.edu/
+
 ## 8/2/2017
 * Chase gave a talk on GraphQL: a query language that could help speed up frontend heavy apps IMO. CMS for it: https://graphcms.com/
 * Always read this yearly article: Current State of Machine Intelligence by @Shivon https://medium.com/@shivon/the-current-state-of-machine-intelligence-3-0-e4d305da032e
