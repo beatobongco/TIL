@@ -5,7 +5,7 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 
 ## 8/17/2017
 * Okinawans have a beautiful life philosophy http://www.telegraph.co.uk/health-fitness/mind/finding-ikigai-japanese-secret-health-happiness/
-![image](https://user-images.githubusercontent.com/3739702/29422089-af3eb85c-83a9-11e7-80a4-7d7c7f8a1b17.png)
+* ![image](https://user-images.githubusercontent.com/3739702/29422089-af3eb85c-83a9-11e7-80a4-7d7c7f8a1b17.png)
 * _Ikigai_, reason for living: https://www.weforum.org/agenda/2017/08/is-this-japanese-concept-the-secret-to-a-long-life/
 * $7k masters in CS https://www.omscs.gatech.edu/
 
