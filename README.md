@@ -4,6 +4,7 @@ A small list of shit I learned.
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
 ## 8/17/2017
+* _Ikigai_, reason for living: https://www.weforum.org/agenda/2017/08/is-this-japanese-concept-the-secret-to-a-long-life/
 * $7k masters in CS https://www.omscs.gatech.edu/
 
 ## 8/2/2017
