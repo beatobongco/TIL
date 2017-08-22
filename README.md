@@ -3,6 +3,9 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 8/22/2017
+* YDKJS book 2, chapter 3: Use immediately invoked function expressions (IIFE's) to keep your global scope clean. `(function a() { console.log(1) })()`
+
 ## 8/17/2017
 * Okinawans have a beautiful life philosophy http://www.telegraph.co.uk/health-fitness/mind/finding-ikigai-japanese-secret-health-happiness/
 * ![image](https://user-images.githubusercontent.com/3739702/29422089-af3eb85c-83a9-11e7-80a4-7d7c7f8a1b17.png)
