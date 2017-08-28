@@ -3,6 +3,10 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 8/28/2017
+* `Revealing Module` patter in JS is like a public API for a module. https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md
+* `Closures` (in my own words, not necessarily accurate) are just that functions retain memory/reference (?) of variables defined at the same level. 
+
 ## 8/22/2017
 * Writing stuff out may be important for learning because our hands command one of the largest provisions of our brains based on the [cortical homonculus](https://en.wikipedia.org/wiki/Cortical_homunculus). Notice hands are allocated greater resources than both the eyes and ears.
 * YDKJS book 2, chapter 3: Use immediately invoked function expressions (IIFE's) to keep your global scope clean. `(function a() { console.log(1) })()`
