@@ -9,6 +9,7 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 ## 8/28/2017
 * `Revealing Module` pattern in JS is like a public API for a module. https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md
 * `Closures` (in my own words, not necessarily accurate) are just that functions retain memory/reference (?) of variables defined at the same scope level. 
+* Defined in the book: Closure is when a function can remember and access its lexical scope even when it's invoked outside its lexical scope.
 * A useful memory aid for this is:
 
 ```js
