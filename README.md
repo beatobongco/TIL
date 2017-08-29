@@ -33,8 +33,10 @@ var bakemono = Monster('Poring')
 var bakemono2 = Monster('Poporing')
 
 bakemono.takeDamage(10)
-bakemono.showHP()
-bakemono2.showHP() // note that bakemono2 is not affected
+bakemono.showHP() // Poring has 90 HP.
+
+// note that bakemono2 is not affected
+bakemono2.showHP() // Poporing has 100 HP.
 ```
 
 ## 8/22/2017
