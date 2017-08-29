@@ -26,7 +26,7 @@ function Monster(name) {
   return {
     takeDamage: takeDamage,
     showHP: showHP
-  };
+  }
 }
 
 var bakemono = Monster('Poring')
