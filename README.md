@@ -3,8 +3,11 @@ A small list of shit I learned.
 
 Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
 
+## 8/29/2017
+* Clean your datasets with this super cool tool https://cloud.google.com/dataprep/
+
 ## 8/28/2017
-* `Revealing Module` patter in JS is like a public API for a module. https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md
+* `Revealing Module` pattern in JS is like a public API for a module. https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md
 * `Closures` (in my own words, not necessarily accurate) are just that functions retain memory/reference (?) of variables defined at the same level. 
 
 ## 8/22/2017
