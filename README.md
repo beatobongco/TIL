@@ -8,7 +8,34 @@ Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/)
 
 ## 8/28/2017
 * `Revealing Module` pattern in JS is like a public API for a module. https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md
-* `Closures` (in my own words, not necessarily accurate) are just that functions retain memory/reference (?) of variables defined at the same level. 
+* `Closures` (in my own words, not necessarily accurate) are just that functions retain memory/reference (?) of variables defined at the same scope level. 
+* A useful memory aid for this is:
+
+```js
+function Monster(name) {
+  var life = 100;
+
+  function takeDamage(n) {
+    life -= n
+  }
+
+  function showHP() {
+    console.log(name + ' has ' + life + ' HP.')
+  }
+
+  return {
+    takeDamage: takeDamage,
+    showHP: showHP
+  };
+}
+
+var bakemono = Monster('Poring')
+var bakemono2 = Monster('Poporing')
+
+bakemono.takeDamage(10)
+bakemono.showHP()
+bakemono2.showHP() // note that bakemono2 is not affected
+```
 
 ## 8/22/2017
 * Writing stuff out may be important for learning because our hands command one of the largest provisions of our brains based on the [cortical homonculus](https://en.wikipedia.org/wiki/Cortical_homunculus). Notice hands are allocated greater resources than both the eyes and ears.
