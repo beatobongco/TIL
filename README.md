@@ -1,7 +1,11 @@
 # TIL
 A small list of shit I learned.
 
-Some of my [talks and presentations](https://beatobongco.com/TIL/presentations/) can be found here.
+Some of my talks and presentations can be found [here](https://beatobongco.com/TIL/presentations/).
+
+I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
+
+I'll be super happy if someone finds these useful :)
 
 ## 8/30/2017
 * Good short reminder of concepts discussed in Talent Code http://web.cecs.pdx.edu/~tymerski/ece101/Expert_mind_scientificamerican0806-64.pdf
