@@ -8,6 +8,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 8/31/2017
+* Better rankings for a thumbs up / down system http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
 * These could be great features for your personal hiring (paper) system http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
 
 ## 8/30/2017
