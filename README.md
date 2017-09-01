@@ -8,7 +8,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 9/2/2017
-* Autocrop - find the subject of an image and crop around it to fit user-defined dimensions.
+* Autocrop - find the subject of an image and crop around it to fit user-defined dimensions. http://www.iptech-group.com/blog/locating-interesting-parts-of-an-image
 
 ## 8/31/2017
 * Better rankings for a thumbs up / down system http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
