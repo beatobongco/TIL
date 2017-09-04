@@ -9,6 +9,7 @@ I'm glad to be of service if someone finds these useful :)
 
 ## 9/4/2017
 * js `this` is not an author-time binding but a runtime binding. It is contextual based on the conditions of the function's invocation. `this` binding has nothing to do with where a function is declared, but has instead everything to do with the manner in which the function is called.
+* `this` is neither a reference to the function itself, nor is it a reference to the function's lexical scope.
 
 ## 9/2/2017
 * Autocrop - find the subject of an image and crop around it to fit user-defined dimensions. http://www.iptech-group.com/blog/locating-interesting-parts-of-an-image
