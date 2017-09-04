@@ -8,6 +8,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 9/4/2017
+* Function programming http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html
 * Having a macro view is essential. Don't miss the forest for the trees, but do understand the intricacies of the trees so you can better navigate the forest.
 * js `this` is not an author-time binding but a runtime binding. It is contextual based on the conditions of the function's invocation. `this` binding has nothing to do with where a function is declared, but has instead everything to do with the manner in which the function is called.
 * `this` is neither a reference to the function itself, nor is it a reference to the function's lexical scope.
