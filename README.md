@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 9/6/2017
+* Curiosity as a metric https://medium.com/the-mission/make-the-pursuit-of-curiosity-your-metric-for-success-e22ddc4c33c3
+
 ## 9/4/2017
 * Function programming http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html
 * Having a macro view is essential. Don't miss the forest for the trees, but do understand the intricacies of the trees so you can better navigate the forest.
