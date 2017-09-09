@@ -8,7 +8,8 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 9/9/2017
-* Kinda like markdown but suited for data storytelling https://idyll-lang.github.io/introduction
+* Lib for writing markdown + built-in components suited for data storytelling blog https://idyll-lang.github.io/introduction
+* Takeaways: do hard, varied things out of your comfort zone. http://www.bbc.com/future/story/20170828-the-amazing-fertility-of-the-older-mind
 
 ## 9/6/2017
 * Curiosity as a metric https://medium.com/the-mission/make-the-pursuit-of-curiosity-your-metric-for-success-e22ddc4c33c3
