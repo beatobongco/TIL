@@ -27,4 +27,9 @@ if can smart reply. If yes, deep neural net will return top 3 plausible replies.
 
 ![image](https://user-images.githubusercontent.com/3739702/30250536-8638c8a8-9682-11e7-88fd-b3aabded6a97.png)
 
+TEDxLA: https://www.youtube.com/watch?v=BfDQNrVphLQ
 
+* ML is really learning from mistakes.
+* low precision is OK!
+* simple linear algebra is OK!
+* that's how / why TPUs were built.
