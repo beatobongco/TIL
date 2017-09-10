@@ -15,4 +15,16 @@ and encouraged to publish in top-tier venues.
 
 ![image](https://user-images.githubusercontent.com/3739702/29748256-147fda5a-8b45-11e7-967f-a2ebc195ddc6.png)
 
-* 
+* Cells can now be virtually stained by neural nets!
+* > 10% of mobile inbox replies are done via Smart Reply. Pipeline is actually small feedforward NN that will predict
+if can smart reply. If yes, deep neural net will return top 3 plausible replies.
+* Parameter servers - share parameters (Google published paper 2012)
+* Learning to learn - research at Google, DL network that can learn NN architecture and optimizers
+
+![image](https://user-images.githubusercontent.com/3739702/30250569-19c096be-9683-11e7-8e75-02226a9fefd5.png)
+
+* NN is future
+
+![image](https://user-images.githubusercontent.com/3739702/30250536-8638c8a8-9682-11e7-88fd-b3aabded6a97.png)
+
+
