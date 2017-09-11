@@ -9,6 +9,7 @@ I'm glad to be of service if someone finds these useful :)
 
 ## 9/11/2017
 * Argument for walking https://www.newyorker.com/tech/elements/walking-helps-us-think
+* Argument for leaving and then coming back https://oliversegovia.com/2017/09/08/unsolicited-career-advice-ateneans-will-ignore/
 
 ## 9/9/2017
 * Lib for writing markdown + built-in components suited for data storytelling blog https://idyll-lang.github.io/introduction
