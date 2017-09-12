@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 9/13/2017
+* Go through this https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
+
 ## 9/11/2017
 * Argument for walking https://www.newyorker.com/tech/elements/walking-helps-us-think
 * Argument for leaving and then coming back https://oliversegovia.com/2017/09/08/unsolicited-career-advice-ateneans-will-ignore/
