@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 9/15/2017
+* Get that pesky 1600x900 resolution on Gnome http://ubuntuhandbook.org/index.php/2017/04/custom-screen-resolution-ubuntu-desktop/
+
 ## 9/13/2017
 * Go through this https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037
 
