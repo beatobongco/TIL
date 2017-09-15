@@ -8,6 +8,10 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 9/15/2017
+* “Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility.” - Noah Harari
+* You have to build out your toolbox. Thus, the secret to great thinking is to learn and employ a variety of mental models.
+* World-class thinkers are often silo-free thinkers. They avoid looking at life through the lens of one subject. Instead, they develop “liquid knowledge” that flows easily from one topic to the next.
+* http://jamesclear.com/feynman-mental-models
 * Get that pesky 1600x900 resolution on Gnome http://ubuntuhandbook.org/index.php/2017/04/custom-screen-resolution-ubuntu-desktop/
 
 ## 9/13/2017
