@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 9/19/2017
+* Supa fast frontend lib http://markojs.com/
+
 ## 9/15/2017
 * “Scientists generally agree that no theory is 100 percent correct. Thus, the real test of knowledge is not truth, but utility.” - Noah Harari
 * You have to build out your toolbox. Thus, the secret to great thinking is to learn and employ a variety of mental models.
