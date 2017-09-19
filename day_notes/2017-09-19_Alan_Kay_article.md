@@ -1,3 +1,4 @@
+* Thoreau had a good line. He said "We become the tools of our tools" -- meaning, be very careful when you design tools and put them out for use. (Our consumer based technology field is not being at all careful.)
 * Recommends Bertrand Russel and Neil Postman to read
 * "Simple things should be simple, complex things should be possible." - Alan Kay
 * "Look if you want to learn French, don’t take it in fifth or sixth grade. Go to France, because everything that makes learning French reasonable, and everything that helps learning French, is in France. If you want to do it in the United States, make a France." - Seymour Papert
