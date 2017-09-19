@@ -8,6 +8,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 I'm glad to be of service if someone finds these useful :)
 
 ## 9/19/2017
+* Really good stuff by Alan Kay, more signal less noise than his How to Invent the Future talk https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now 
+* [Notes here](https://github.com/beatobongco/TIL/blob/master/day_notes/2017-09-19_Alan_Kay_article.md)
+* Recommends Bertrand Russel and Neil Postman to read
 * Supa fast frontend lib http://markojs.com/
 
 ## 9/15/2017
