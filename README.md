@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 9/21/2017
+* A great reminder not to trust services where you are the product and to pull rather than accept information being pushed on you https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will
+
 ## 9/19/2017
 * Really good stuff by Alan Kay, more signal less noise than his How to Invent the Future talk https://www.fastcompany.com/40435064/what-alan-kay-thinks-about-the-iphone-and-technology-now 
 * [Notes here](https://github.com/beatobongco/TIL/blob/master/day_notes/2017-09-19_Alan_Kay_article.md)
