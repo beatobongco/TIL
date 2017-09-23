@@ -45,3 +45,40 @@ deep / reinforcement learning to tailor the UI's behavior to the user.
 
 I, too, want AI's to help grow *us*. I want humankind to be in the equation later on, not to just be ruled by
 machines and algorithms. I can see this is a thin line to walk but I want to walk it right.
+
+### Programs with Common Sense - John McCarthy
+
+* McCarthy was trying to describe a computer program that could carry out elementary verbal reasoning.
+* The program will be able to improve itself based on the input statements we give it.
+* Program will have "common sense": it will reach decisions based on anything it is told + previous knowledge.
+* An existing checkers program is described, one that could modify the weights it used to evaluate positions.
+This is not what McCarthy wants however. He wants a machine that can discover the principle of opposition.
+* If one wants a machine to discover an abstraction the machine must be able to represent this abstraction 
+in some relatively simple way.
+* Not sure if I agree with the above. Deep neural nets represent things they learn in not so simple ways. 
+Maybe there's a way to synthesize both viewpoints? 
+* McCarthy talks about AI generalization (learning arbitrary behavior) and qualities it must possess:
+  * It must be able to represent all behaviors: construct automata or program in a general purpose PL.
+  * Changes in behavior must be expressible in a simple way.
+  * All aspects of behavior must be improvable. This includes the improving mechanism.
+  * The machine must have concepts of partial success (!!) because on difficult problems decisive 
+  success/failtures come too infrequently. 
+  (Note: the concept of partial goals that could tweak the weights of an ML algorithm is really interesting)
+  * The system must be able to create subroutines (I guess this means deviating from original programmed goal?)
+ * Of the above, McCarthy focuses on the second. The goal is to create a system that can be told to do things
+ as a human would, and for that we would need to construct a language of instruction that doesn't rely on any
+ knowledge of internal structure and previous knowledge.
+ * Imperative vs declarative is discussed. How do vs What do. Humans understand declarative, computers imperative.
+ * The gist I get from "THE CONSTRUCTION OF THE ADVICE TAKER" part is that the machine can have intuition:
+ an immediate deduction routine when given a set of premises will deduce a set of immediate conclusions. 
+ * Later on, the machine should be able to produce other conclusions which may be of interest. 
+ * These could be what Kahneman discusses as System 1 and 2. A fast gut feel routine and a slower deliberate routine.
+ * The machine should also be able to deduce fuzzily related things (e.g. 1776 is both a number and date of American
+ Revolution).
+ (Try to tie this in with [Pieter Abbeel](https://github.com/beatobongco/TIL/blob/master/day_notes/2017-09-18_Pieter_Abbeel_interview.md) where he said the next challenge is have systems reason over long horizons)
+ * The next section describes a language the system could use.
+ * My beef with this is it still seems very explicitly programmed and perhaps defining a language like this even if 
+ it is elegant, is limiting. But I need to learn more about reinforcement learning first. Maybe this thinking is its
+ ancestor.
+ * Random idea: how about larger RNN's with longer-term memory, when a problem fits an initial "profile", an old RNN state
+ will be accessed. (Not even sure they work that way). RNN's that remember as we do.
