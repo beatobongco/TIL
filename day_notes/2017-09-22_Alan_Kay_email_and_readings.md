@@ -82,3 +82,76 @@ Maybe there's a way to synthesize both viewpoints?
  ancestor.
  * Random idea: how about larger RNN's with longer-term memory, when a problem fits an initial "profile", an old RNN state
  will be accessed. (Not even sure they work that way). RNN's that remember as we do.
+
+### The Future of Reading Depends on the Future of Learning Difficult to Learn Things - Alan Kay
+
+* Kay defines `reading` as interpreting meanings from phenomena.
+* UI can be considered a form of writing. We are interested in the fluent reading of it 
+(not just it but others as well).
+* An idea presented in different media are different experiences.
+* New technologies as amplifiers not replacements for things (!). e.g. Socrates said "Writing removes the need to
+remember". But tech (writing) not just amplifies our memory but also allows us extra features like amplifying
+reach of kmowledge over time and space.
+
+> A big idea: there are not enough Socrates’ to go around in any age, but the printing press could 
+replicate Plato’s compelling recreation of Socrates so that the printed books of the Dialogues in 
+concert with more ordinary teachers could affect an entire continent and potentially enrich every 
+reader. 
+
+* A sophisticated mentor UI that learns from the learning outputs of its student would really propel us
+forward. I think this was sort of touched on in *Superintelligence*, but I think it was touted as too
+slow to bring us to the next level. Nevertheless, I think it's an interesting angle to explore when other 
+things like gene modification, smart drugs, full brain scanning and replication and general AI are still
+far away. Creation of such wouldn't be such a change to make an exponential inflection point but it would
+be a multiplier I think in any of these cases. Smarter people with better tools = even smarter people.
+
+> we need to examine whether “easy to use” is a boon (it fits with our current abilities), or sometimes a
+snare (it keeps us the way we are or even makes us less).
+
+* Interesting argument against super duper simple UI like Apple's design philosophy. Is it holding us back?
+
+> Anthropological studies of societies show that literate societies *think differently* than oral ones.
+
+* So if one could make a hyperliterate society, like one where everyone has access to the creme de la creme
+of education, like the full Harvard, MIT, and Stanford experience and it was trivial to learn it incrementally
+so no matter your current state of education you'd be able to do it... imagine how that would transform 
+society!
+
+> The more different and difficult the medium, the less attractive - or even visible - it appears.
+
+Kay gives an example of the Gutenberg Bible, it had to look familiar for it to be adopted and then just slowly
+could evolve into a more efficient / effective form. e.g. you don't need to replicate aesthetic shit in books
+because the importance lies in the content.
+
+A lot of book readers nowadays argue they cannot read on their devices and prefer physical copies of books
+because of "feel" or smell or whatever. But from a pure POV of efficiency and leveraging new tech, they
+dont gain anything from physical copies. It's an aesthetic preference holding them back from leveraging
+things like instant dictionary lookup, flashcards, highlights and notes which can be exported. All these
+features are available on Amazon's Kindle app.
+
+Kay then goes on to show statistics of reading skill decreasing over time. Though this is just for the states,
+this perhaps show we're not progressing in the education front as much as we're lead to expect.
+
+> Simple  news  and  exchanges about the world and one's social acquaintances no longer require the deeper skills of 
+writing and reading. That 22 minutes of news on television (it is like reading half a column in a 
+newspaper) does not communicate much of importance has been ignored.  
+
+So TV is really an inefficient medium. You can perhaps plot this in terms of Knowledge in vs time on a graph.
+
+* Read `Proust and the Squid by Maryanne Wolf`
+
+* Kay discusses Etoys, a programming language, where a child can be made to model epidemics using cars and 
+share his creation amongst his peers. Key takeaway here is to create a culture of knowledge creators perhaps,
+a global classroom so to speak.
+
+> This brings us to a central point of this note: The larger future of “reading” depends on the future of learning difficult to learn things”. 
+
+And I want to help this come about. Maybe if I can prove it with myself first, by becoming an AI expert using
+systems I have put into place, which I can then translate/prototype into a platform or system. 
+
+Kay says we're generally not wired to read/write and think in the abstract. That's why these take a lot of
+effort to learn and also had to be invented.
+
+But cool example, if we put effort into learning stuff like Calculus, we can outthink the greatest geniuses of antiquity
+in these areas.
+
