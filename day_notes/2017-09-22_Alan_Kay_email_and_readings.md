@@ -155,3 +155,64 @@ effort to learn and also had to be invented.
 But cool example, if we put effort into learning stuff like Calculus, we can outthink the greatest geniuses of antiquity
 in these areas.
 
+Kay talks about capacity issues, the mind can only hold 5 - 9 chunks. Oakley talks about this too.
+Maybe our AI could help us manage this, tailored chunks.
+
+Kay talks about there being many different types of learners (perhaps as much as 15-25 types) but only one 
+curriculum. He contrasts this to sports, where there's a lot of 1 on 1 with an expert a few times a week.
+
+> Another pause point in this note allows us to reflect that: “The future of learning difficult to learn things depends on the willingness of learners to spend many hours over years getting fluent”.  
+
+> could add to this: “… And on the ability and willingness of society to motivate learners in many different ways to want to put in those many hours”
+
+Perhaps the AI could take this into consideration. "What are your motivations for learning this course?"
+and use that data to show related media that would "stoke the fire" so to speak.
+
+Kay stresses that **feedback** is essential to learn difficult things. This is one caveat of online education.
+
+> But what about “Socrates in a computer”? Something more than “Socrates in a book” should be possible here, because the computer is active and can sense many things that the learner is doing: where they are looking, how interested they  are, hesitations and confidence, and much more.
+
+It's the data gathering part that is difficult but essential. Must think of ways to maximize this without
+being to instrusive to the end user.
+
+> A large part of what education means in any society is to successfully get people to want what they need.
+
+**This.** This could be and should be the problem our creative ad geniuses should be spending their time on!
+
+Kay recommends reading Maria Montessori, O. K. Moore and Seymour Papert. Montessori stressed the effect of
+environment.
+
+> “We are in the 20th century, yet the environment for the children at home and school is more like the 10th century. What would happen if we embodied the powerful ideas of our time in the  environment in which children naturally grow?”
+
+Moore, too, defined a *responsive environment*. I think this is very important to note for future endeavors.
+
+1. permits learners to explore freely 
+
+2. informs learners immediately about the consequences of their actions 
+
+3. is self-pacing, i.e. events happen within the environment at a rate determined by the learner 
+
+4. permits the learners to make full use of their capacities to discover relations of various kinds 
+
+5. has a structure such that learners are likely to make a series of interconnected discoveries about the physical, cultural or social world
+
+> He called such an environment: “autotelic, if engaging in it is done for its own sake rather than for obtaining rewards or avoiding punishments that have no inherent connection with the activity itself"
+
+> recognizing that it is very difficult for human beings to come up with good ideas from scratch—hence the need for forms of guidance—but that things are learned best if the learner puts in the effort to make the final connections themselves—hence the need for processes of discovery
+
+I recall that Oakley stresses we should test ourselves. I think testing will help us make these *final* 
+connections.
+
+Kay talks about OK Moore's talking typewriter. Again, I think this is a pretty easy project to do and would 
+be a good UI practice. The key was how the typewriter responded to their actions to encourage them to start to write words that they knew. This was stressed: *children have an urge to make*. And this desire to write expanded into a desire
+to read.
+
+> The future of learning difficult to learn things is the future of learning to make difficult to make things—in other words, the future of “reading” depends on the future of “writing”. 
+
+The key is making a UI that makes it easy to *make* or *create*. Learn by doing! By being creative!
+
+> 95% of a real Dynabook design lies in the richness of the services it can provide to its owner, and the first of these is an interface that can facilitate learning, not just reactions. This is why the present author has responded to questions about various consumer devices “Isn’t this (e.g. the iPad) a Dynabook?”, by saying “No. It has more capacity than what was imagined in 1968, but it still lacks the essential services and guides for its owner”.
+
+The hardware is there, the software capability is there, the design and algorithms are not.
+
+> We aim for a computer learning helper agent that is better than no teacher, better than a bad teacher, as good as a decent teacher, and will not attempt the magic of a great teacher. 
