@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 10/2/2017
+* In general, faking classes (even as mixins) in JS often sets more landmines for future coding than solving present real problems. - YDKJS
+
 ## 9/21/2017
 * A great reminder not to trust services where you are the product and to pull rather than accept information being pushed on you https://www.theguardian.com/technology/2017/sep/19/facebooks-war-on-free-will
 
