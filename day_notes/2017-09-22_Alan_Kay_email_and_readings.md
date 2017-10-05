@@ -216,3 +216,67 @@ The key is making a UI that makes it easy to *make* or *create*. Learn by doing!
 The hardware is there, the software capability is there, the design and algorithms are not.
 
 > We aim for a computer learning helper agent that is better than no teacher, better than a bad teacher, as good as a decent teacher, and will not attempt the magic of a great teacher. 
+
+We need at least:
+
+1. To see and interpret what the learner is doing and feeling
+2. To be able to communicate in the usual human modalities
+3. A good model of the subject matter
+4. A good model of how the subject matter is best learned by a variety of learners
+5. A good model of human commonsense reasoning, to put the tutoring agent as much as possible in the same world as the learners
+6. “Relationship theories”, e.g. strategies that avoid becoming a prosthetic for the knowledge,
+but which constantly move towards helping the ideas and skills get built inside the learner
+7. Authoring systems for “teachers of the computer agents” that allow content and pedagogical experts to inform a general tutoring system about specific subjects and methods of approach.
+
+For an "MVP" of a mentor UI...
+
+1. To gauge progress and difficulty felt, to get to deliberate practice level. This can be done via personalized deep learning models.
+2. (ASK) Not sure of the reason for this. To make the student feel at ease? To make it an efficient UI for communicating with student? Maybe this can be skipped if it's too hard.
+3. So a good curriculum or perhaps a more in-depth, true understanding of the subject matter.
+4. (ASK) Maybe the general concepts in Learning How to Learn can be used as initial weights then it can slowly be tailored to personal style of student.
+5. (ASK) Not sure if essential.
+6. ? Maybe through self-testing, SRS, practical application.
+7. A platform in other words, where others can build models for different subjects.
+
+a. It is now possible to use the video cameras on our computer to do realtime tracking of
+where the learner’s eyes are looking, the degree of interest in what is going on (pupilometry), and facial recognition and expressions. We can listen not just to what the learner is
+saying, but to some degree assess parts of psychological state.
+b. Computers can understand to a better degree highly contextualized speech and written
+language, and also produce it.
+c. Good computer models have been made of some subjects—for example Geometry, some
+story structures, parts of programming languages.
+d. We still lack deep computer models of how subject matter is best learned by a many kinds
+of learners.
+e. We now have extensive working models of human commonsense reasoning.
+f. We lack examples of how to avoid “the Siri syndrome” of the computer as servant, and
+how to “convince the learner to want to learn to ride a bike rather than to drive a car”.
+g. Authoring systems for computer tutors at this point require expert model builders and
+many person hours of many kinds of people in order to produce a somewhat workable experience for a learner.
+
+a. (ASK) Why psychological state? Maybe for deliberate practice where there must be a certain level of frustration?
+b. Affirmative, no comment (ANC).
+c. ANC.
+d. Maybe through books like LH2L
+e. (ASK) Where?! Check footnotes xix, 13, and xx.
+f. (ASK) What do you mean by this statement?
+g. Maybe deep learning is the answer so no expert model builders are needed, just lots of compute and data.
+
+> all the necessary inventions 
+that contributed to the success of personal computing, the gateway for its billions of users has 
+been the graphical user interface, which acts as a usable, often pleasurable, now usually invisible 
+intermediary between the two very different worlds of human beings and what is actually going 
+on inside the computer. 
+
+What do you think of voice as being the next UI? And thoughts as perhaps the one after that?
+
+> The next qualitative advance in user interface environments will be: a teacher for every learn
+er—user interfaces that can deeply help end users learn new ideas and whole subjects. 
+... Besides the obvious simple benefits of such an advance, this also allows new inventions to be 
+put out to the general public that do not have to (a) follow one style groove for many decades, or 
+(b) to be aimed at the lowest common denominator of learning and intelligence. Part of a new 
+idea—whether application or how to be more facile on one’s computer—can be the “advice to 
+the user interface” about how to help the end user learn the new ideas. 
+
+Extreme agreement here. A UI that fits itself to the user allows for more data that can be used by apps
+and programs to improve usability / UX.
+
