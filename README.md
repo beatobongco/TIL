@@ -10,7 +10,7 @@ I'm glad to be of service if someone finds these useful :)
 ## 10/9/2017
 * JS doesn't have class inheritance (no copying is done), it has "delegation" links through the 
 `[[Prototype]]` chain. When attempting a property access on an object that doesn't have that property, 
-it will look through the prototype chain (you can view this by doing`Object.getPrototypeOf(yourObject)` or `yourObject.__proto__`. Second one works on most browsers but not all).
+it will look through the prototype chain (you can view this by doing`Object.getPrototypeOf(yourObject)` or `yourObject.__proto__`. Second one works on most browsers but not all). - YDKJS
 
 ## 10/2/2017
 * In general, faking classes (even as mixins) in JS often sets more landmines for future coding than solving present real problems. - YDKJS
