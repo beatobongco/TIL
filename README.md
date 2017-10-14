@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 10/14/2017
+* Complete [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design) by UC San Diego 
+
 ## 10/9/2017
 * JS doesn't have class inheritance (no copying is done), it has "delegation" links through the 
 `[[Prototype]]` chain. When attempting a property access on an object that doesn't have that property, 
