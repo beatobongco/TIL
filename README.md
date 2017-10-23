@@ -9,6 +9,7 @@ I'm glad to be of service if someone finds these useful :)
 
 ## 10/23/2017
 * JS: try to use the [OLOO pattern](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md#delegating-widget-objects). Here's a [sorta Pokemon-like game snippet](https://github.com/beatobongco/TIL/blob/master/day_notes/2017-10-23_OLOO_Pattern.js) I wrote.
+* Flat UI causes uncertainty. Use strong signifiers. https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/
 
 ## 10/14/2017
 * Complete [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design) by UC San Diego 
