@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 10/23/2017
+* JS: try to use the [OLOO pattern](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md#delegating-widget-objects)
+
 ## 10/14/2017
 * Complete [Interaction Design Specialization](https://www.coursera.org/specializations/interaction-design) by UC San Diego 
 
