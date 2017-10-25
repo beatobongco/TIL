@@ -7,6 +7,10 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 10/26/2017
+* Berkeley Deep Reinforcement Learning http://rll.berkeley.edu/deeprlcourse/
+* Tekken 5 DR Ghost AI paper https://www.cp.eng.chula.ac.th/~vishnu/gameProg/papers/CGAT_Real%20Time%20Imitaion%20Based%20Learning.pdf
+
 ## 10/23/2017
 * JS: try to use the [OLOO pattern](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch6.md#delegating-widget-objects). Here's a [sorta Pokemon-like game snippet](https://github.com/beatobongco/TIL/blob/master/day_notes/2017-10-23_OLOO_Pattern.js) I wrote.
 * Flat UI causes uncertainty. Use strong signifiers. https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/
