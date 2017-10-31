@@ -13,3 +13,4 @@ converted into brain aids and that's what I want to do.
 * People are anti-fragile, capable of changing goals based on new data. They also have a lot of things going on at at time. Computers at their current state aren't this way. People can cover machines' weaknesses and vice-versa so symbiosis just 
 kinda makes sense.
 * Men will lead the way, define the question, handle all the low-probability scenarios.
+* Lick talks about a `trie` structure for information retrieval, as a sort of fuzzy search. Applying it in my context, I should have fuzzy search for my notes and books!
