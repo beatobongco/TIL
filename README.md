@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 10/31/2017
+* Make client side fuzzy search for your notes and book highlights https://gist.github.com/beatobongco/60f3d163d5e5aa774d57919b27d1ccfc
+
 ## 10/26/2017
 * Berkeley Deep Reinforcement Learning http://rll.berkeley.edu/deeprlcourse/
 * Tekken 5 DR Ghost AI paper https://www.cp.eng.chula.ac.th/~vishnu/gameProg/papers/CGAT_Real%20Time%20Imitaion%20Based%20Learning.pdf
