@@ -14,3 +14,6 @@ converted into brain aids and that's what I want to do.
 kinda makes sense.
 * Men will lead the way, define the question, handle all the low-probability scenarios.
 * Lick talks about a `trie` structure for information retrieval, as a sort of fuzzy search. Applying it in my context, I should have fuzzy search for my notes and books!
+* Humans: goals, computers: courses
+* Seems like Lick talks about speech recognition as a useful interface for interacting with the computer.
+* For truly symbiotic interaction, we just need the computer to have a 2000 word vocabulary (1k english, 1k technical terms)
