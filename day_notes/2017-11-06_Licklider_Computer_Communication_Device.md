@@ -1,4 +1,4 @@
-# Licklider: The Computer as a Communications Device (1
+# Licklider: The Computer as a Communications Device
 
 * "When minds interact, new ideas emerge."
 * "a well programmed computer can provide direct access both to informational resources and to the processes for making use of 
@@ -18,3 +18,5 @@ modification of external models.
 * If 2 different mental models are just different because of the parameters, by communicating they will converge. This is the
 easiest type of communication.
 * Meeting of many minds is even more difficult. This was touched upon also by Brooks in the Mythical Man Month.
+* > A particular form of digital computer organization, with its programs and data, constitutes the dynamic, moldable medium that can revolutionize the art of modeling and that in doing so can improve the effectiveness of communication among people so much as perhaps to revolutionize that also.
+* It's MODELLING that is KEY.
