@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 11/11/2017
+* One interpretation of the recent success of neural networks is that humans should encode as little knowledge as possible into AI software, and instead make them figure things out for themselves from scratch. https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
+
 ## 10/31/2017
 * Make client side fuzzy search for your notes and book highlights https://gist.github.com/beatobongco/60f3d163d5e5aa774d57919b27d1ccfc
 
