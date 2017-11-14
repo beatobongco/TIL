@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 11/14/2017
+* Aside from my own book highlights and notes, this is a good Antifragile reference https://startupbros.com/antifragile-act-cant-know-much/ 
+
 ## 11/11/2017
 * One interpretation of the recent success of neural networks is that humans should encode as little knowledge as possible into AI software, and instead make them figure things out for themselves from scratch. https://www.wired.com/story/googles-ai-wizard-unveils-a-new-twist-on-neural-networks/
 
