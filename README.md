@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 11/15/2017
+* Hinton's capsule networks https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+
 ## 11/14/2017
 * It is possbile to "overfit" life from the experiences/data you've had so far. It's important to adopt a strategy that generalizes well. Have a general direction but make sure your model can take advantage and learn properly from data that is yet to come. 
 * Aside from my own book highlights and notes, this is a good Antifragile reference https://startupbros.com/antifragile-act-cant-know-much/ 
