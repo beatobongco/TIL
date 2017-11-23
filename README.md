@@ -7,6 +7,10 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 11/23/2017
+* It was paper and not the printing press http://timharford.com/2017/08/what-we-get-wrong-about-technology/
+* Education startups https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/
+
 ## 11/15/2017
 * Hinton's capsule networks https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 
