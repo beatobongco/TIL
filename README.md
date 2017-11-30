@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 11/30/2017
+* Basic explanation of ETH smart contracts http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/
+
 ## 11/23/2017
 * It was paper and not the printing press http://timharford.com/2017/08/what-we-get-wrong-about-technology/
 * Education startups https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/
