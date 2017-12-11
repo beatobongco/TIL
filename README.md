@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 I'm glad to be of service if someone finds these useful :)
 
+## 12/11/2017
+* Abstract S01E02: Tinker Hatfield. When he discusses his design process, he says he draws randomly on a notebook. Ref: stochastic tinkering and an "explorative" meditation I recall from Headspace (just let thoughts flow for a time then when you're finished write down what valuable insights you got).
+
 ## 11/30/2017
 * Basic explanation of ETH smart contracts http://www.gjermundbjaanes.com/understanding-ethereum-smart-contracts/
 
