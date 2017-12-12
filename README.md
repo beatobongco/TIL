@@ -5,7 +5,10 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
-I'm glad to be of service if someone finds these useful :)
+## 12/12/2017
+* Abstract S01E04: Bjarke Ingels. He wanted to become a graphic novelist and studied architecture to learn to draw. He became world renowned architect specializing in "pragmatic utopian" architecture. Later on he published a graphic novel illustrating his ideas. Take signals from your youth and use it to augment your present.
+
+* Ideas: create code tools that make CRUD easy, like Positron idea but more general. Can dogfood it at Insync or Incorgito.
 
 ## 12/11/2017
 * Abstract S01E02: Tinker Hatfield. When he discusses his design process, he says he draws randomly on a notebook. Ref: stochastic tinkering and an "explorative" meditation I recall from Headspace (just let thoughts flow for a time then when you're finished write down what valuable insights you got).
