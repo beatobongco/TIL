@@ -34,6 +34,8 @@ The above is an experimental tag so my own little search engine doesn't index th
 * Identify your audience/market. There are some people you really flow with when you speak to them. Try to hang with these people.
 * I can use communication to foster communication in others who are not natural communicators.
 * Find a medium for your comms. Blog + strategic social media use.
+* You thrive in settings where most people feel safe
+thinking out loud.
 
 ## Positivity
 
@@ -44,6 +46,8 @@ The above is an experimental tag so my own little search engine doesn't index th
 * Book repeats this twice: make people understand you're not naive. Ground your positivity on real data (which it mostly is grounded on)
 * Arm self with good stories, jokes, and sayings (I have sayings but few of the previous two).
 * Efficient: if person is alreay positive, you can be the spark that lights the fire AND gain energy. Helping negative people out is possbile but drains your energy. Use your energy wisely.
+* You feel really upbeat about life when your desire to acquire knowledge or skills is regularly satisfied. Thus to be happy, always be learning.
+* If you can pull together bits of information, ideas, or facts for later use, you might feel content. Yes, [selfsearch](https://beatobongco.com/selfsearch/) and [book highlights](https://beatobongco.com/book-highlights/) make me very happy.
 
 ## Strategic
 
