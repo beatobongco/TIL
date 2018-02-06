@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/6/2018
+* Data structure for making collaborative js apps https://github.com/automerge/automerge
+
 ## 1/5/2018
 * Lots of good resources on Product/Market Fit https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b
 
