@@ -5,6 +5,10 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 3/1/2018
+* Hello last month of Q1.
+* I really want to learn the serverless stack. It's right up my alley! https://serverless.com/learn/
+
 ## 2/19/2018
 * Louis D. Brandeis: "Publicity is justly commended as a remedy for social and industrial diseases. Sunlight is said to be the best of disinfectants; electric light the most efficient policeman."
 
