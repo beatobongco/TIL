@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 3/5/2018
+* Nice to study some CSS when I have free time https://atomiks.github.io/30-seconds-of-css/
+
 ## 3/1/2018
 * Hello last month of Q1.
 * I really want to learn the serverless stack. It's right up my alley! https://serverless.com/learn/
