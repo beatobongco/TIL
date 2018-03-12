@@ -19,3 +19,21 @@
 * simplicity is essential (via negativa, maximize work not done)
 * self-organizing teams -- dont overmanage
 * at regular intervals, team reflects on how to be better and then inacts the change
+
+## Agile Methods
+
+### XP
+
+Extreme programming. Kent Beck.  
+
+### Lean
+
+Mary Poppendieck
+
+### Crystal
+
+Alistair Cockburn
+
+### Scrum
+
+Schwaber and Sutherland
