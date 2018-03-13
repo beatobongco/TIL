@@ -24,16 +24,54 @@
 
 ### XP
 
-Extreme programming. Kent Beck.  
+Extreme programming. 
+
+Kent Beck. 
+
+Not documentation but programs and programming at the center. 
 
 ### Lean
 
-Mary Poppendieck
+Mary Poppendieck.
+
+Lean (from Toyota Production System, also Lean startup!).
+
+Get rid of waste.
 
 ### Crystal
 
-Alistair Cockburn
+Alistair Cockburn.
+
+Combination of agile and traditional.
 
 ### Scrum
 
-Schwaber and Sutherland
+Schwaber and Sutherland.
+
+Currently dominates.
+
+Self-organizing teams. Short release iterations like sprints.
+
+In practice, when we talk about agile we talk about Scrum. Not entirely accurate.
+
+### Principles in depth
+
+Principles - abstract, prescriptive
+Practice - concrete, prescriptive
+Assertion - statement about the world
+
+Testing is absent.
+
+### Agile Values
+
+* reduced role for manager -- do not assign tasks to project members
+* no "big upfront" steps -- requirements and development as you go, no long periods of planning
+* iterative development -- short cycles
+* limited, negotiated scope -- only build what's really needed
+* focus on quality, achieved through testing
+
+
+
+
+ 
+
