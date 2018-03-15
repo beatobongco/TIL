@@ -1,3 +1,5 @@
+# Week 1
+
 ## Manifesto
 
 * Individuals and interactions - over processes and tools
@@ -70,8 +72,9 @@ Testing is absent.
 * limited, negotiated scope -- only build what's really needed
 * focus on quality, achieved through testing
 
+# Week 2
 
+![image](https://user-images.githubusercontent.com/3739702/37384578-ab8c72d2-278a-11e8-8d5b-4b5ed55c4385.png)
 
-
- 
+## The enemy: the big upfront anything
 
