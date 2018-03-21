@@ -78,3 +78,59 @@ Testing is absent.
 
 ## The enemy: the big upfront anything
 
+Waterfall model -- basically it's bad
+
+Agile criticizes requirements. They change and are wasteful. Doesn't mean we shouldn't have them.
+
+Agile views on requirements
+* XP -- req gathering produces detail just before it is needed throughout development
+* Scrum -- projs do not have an upfront analysis or design phase, all work occurs within sprint cycles
+* Lean -- separating reqs from implmentation is just another form of "handover" -- impedance mismatch
+
+Any good engineer has to define a problem before she solves it.
+
+Takeaway: Too much time spent on requirements is wasteful. But teams should still plan.
+
+## Organizational principles
+
+1. Put the customer at the center -- JTBD will definitely help!!
+
+"You will get results with real customers... A proxy for a real customer leads to waste
+as you develop features that aren't used, specify tests that don't reflect the real acceptance
+criteria, and lose the chance to build real relationships between the people with the most
+diverse perspective of the project." -- Beck
+
+XP: there's a customer who is part of the team (hard to do in practice)
+
+Scrum: product owner (takes away part of role of manager, has responsibility to the client org)
+
+2. Accept change
+
+3. Let the team self-organize
+
+Roles of the leader
+* encourage progress
+* help catch errors
+* remove impediments
+* provide support and help in difficult situations
+* make sure that skepticism does not ruin the team's spirit
+
+Schwaber "Control through peer pressure and "control by love" are the basis of subtle control.
+The dynamic flow of the team surfaces the tacit (unconscious) knowledge of the group and creates
+explicit knowledge in the form of software.
+
+How about decentralized control? Is that possible? Like a semi-flat organization that allows
+each member to collaborate, give feedback, praise and if needed, chastise.
+
+4. Maintain a sustainable pace
+
+* People perform best if they are not overstressed
+* Devs shouldn't work more than 40 hour weeks
+* no consecutive overtime
+* XP avoids "crunch time" of trad projects thanks to short release cycles
+
+* frequent code-merge
+* always maintain executable, test-covered, high-quality code
+* constant refactoring helps keep fresh and alert minds
+* collaborative style
+* constant testing
