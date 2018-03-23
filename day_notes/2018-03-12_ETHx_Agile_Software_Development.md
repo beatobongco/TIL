@@ -134,3 +134,23 @@ each member to collaborate, give feedback, praise and if needed, chastise.
 * constant refactoring helps keep fresh and alert minds
 * collaborative style
 * constant testing
+
+### YAGNI
+
+You ain't gonna need it. Work on the story you have not what you think you need. "Even if we
+know we're going to need it."
+
+> Poppendieck: Our software systems contain far more features than are ever going to
+be used. Extra features increase the complexity of the code, driving up costs nonlinearly.
+If even half of our code is unnecessary - a convervative estimate - the cost is not just double;
+it's perhaps ten times more expensive than it needs to be.
+
+### 7 Wastes of Software Development
+
+* Extra/Unused features (overproduction)
+* Partially developed work not released (Inventory)
+* Intermediate/unused artifacts (extra processing)
+* Seeking information (motion)
+* Escaped defects not caught by tests/reviews (Defects)
+* Waiting (incl. customer waiting)
+* Handoffs (transportation)
