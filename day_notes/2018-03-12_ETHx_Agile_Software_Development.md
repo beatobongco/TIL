@@ -154,3 +154,46 @@ it's perhaps ten times more expensive than it needs to be.
 * Escaped defects not caught by tests/reviews (Defects)
 * Waiting (incl. customer waiting)
 * Handoffs (transportation)
+
+### Iterativeness: frequent working iterations
+
+Basically Spotify's skateboard philosophy.
+
+### Iterativeness: freeze requirements during iteration
+
+The Closed-Window Rule -- during an iteration no one may add functionality or the sprint is canceled.
+
+### Dual development
+
+Early on: build infrastructure
+
+Later: produce releases (ship shit!)
+
+### Do not move on until all tests pass
+
+### Express requirements through scenarios
+
+User stories -- something a user wants (a job to be done?) 
+
+Standard form:
+
+```
+As a _
+I want _ 
+so that _
+```
+
+ex.
+
+```
+As a customer
+I want to see a list of my recent orders 
+so that I can track my purchases with a company 
+```
+
+I think this might be lacking. I like JTBD's approach. They are shallow, assuming that customer only does x so that he can do y. What if it only appears that x -> y but actually x -> z? 
+
+User stories are micro but essential but I guess one should never forget the macro view. What is the job to be done?
+
+Ok, the prof discussed it: user stories are for *validating* requirements. They're not a fundamental requirement technique. They're not a substitute for requirements.
+
