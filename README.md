@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 3/27/2018
+* Super useful chrome devtool features https://flaviocopes.com/chrome-devtools-tips/
+
 ## 3/21/2018
 * Pantone color of the year https://store.pantone.com/uk/en/color-of-the-year
 
