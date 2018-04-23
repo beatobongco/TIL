@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 4/24/2018
+* Present slides in markdown with syntax highlighting https://github.com/gnab/remark
+
 ## 3/27/2018
 * Super useful chrome devtool features https://flaviocopes.com/chrome-devtools-tips/
 
