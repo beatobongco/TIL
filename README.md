@@ -7,6 +7,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 ## 4/24/2018
 * Present slides in markdown with syntax highlighting https://github.com/gnab/remark
+* Great series on information theory https://www.youtube.com/playlist?list=PLbg3ZX2pWlgKDVFNwn9B63UhYJVIerzHL 
 
 ## 3/27/2018
 * Super useful chrome devtool features https://flaviocopes.com/chrome-devtools-tips/
