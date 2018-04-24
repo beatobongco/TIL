@@ -16,6 +16,8 @@ If people start being responsible for test cases there is ownership and thus mor
 
 > Energy is infectious.
 
+> Given enough eyeballs, all bugs are shallow - Linus' Law
+
 To prevent procrastination, testing should be done as a team effort. Fun is an important prerequisite to the adoption of this cultural trait as well as positive peer pressure. When your peers all around you are testing you will feel more motivated to do the same. 
 
 ### III. Testing as less work
