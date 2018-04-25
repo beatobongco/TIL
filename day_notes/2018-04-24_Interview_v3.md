@@ -101,6 +101,8 @@ Attitude: _I fucking love X. I'm going to do great things in X one day._
 
 > Show me your favorite project. Why is it your favorite? Explain to me at a high-level how you did it.
 
+> What are of tech are you excited about? Explain it to me at a high-level.
+
 ```
 1 - I like UI design.
 3 - I love UI design and how it's the first thing that customers see when they use an app. I try to practice UI design from time to time. 
@@ -145,11 +147,15 @@ Attitude: _I have strong beliefs yet I'm open to new data that could prove me wr
 
 A subjective rating of the candidate and how I think he/she will fit in Insync culture. Can base on Introductory Guide Questions. 
 
-If not yet convinced, ask questions gleaned from the interview or ask candidate to tell me an interesting fact or a joke.
+Extra questions:
+* Tell me an interesting fact many people don't know.
+* Tell me a joke.
+* What are things that are very offensive to you?
 
 # Closing
 
-Any questions?
+* Any questions?
+* When can you start?
 
 # Evaluation
 
