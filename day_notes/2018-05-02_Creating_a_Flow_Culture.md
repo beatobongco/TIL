@@ -1,6 +1,6 @@
 ## Creating a Flow Culture
 
-**[Flow](https://en.wikipedia.org/wiki/Flow_(psychology))** is a state of optimal experience that leads to extremely engaged and happy individuals.  We want Insyncers to benefit from a culture and environment that  promotes flow. We strive for Insyncers to become `autotelic` or to enjoy work for its own sake. 
+**[Flow](https://en.wikipedia.org/wiki/Flow_(psychology))** is a state of optimal experience that leads to extremely engaged and happy individuals.  We want Insyncers to benefit from a culture and environment that  promotes flow. We strive for Insyncers to become [autotelic](https://en.wikipedia.org/wiki/Autotelic#Flow) or to enjoy work for its own sake. 
 
 There is no "work-life balance". It is an outdated concept. At 	Insync, work respects life and life respects work and the two have a [mutualistic](https://en.wikipedia.org/wiki/Mutualism_(biology)) relationship. 
 
