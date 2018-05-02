@@ -4,7 +4,7 @@
 
 There is no "work-life balance". It is an outdated concept. At Insync, work respects life and life respects work and the two have a [mutualistic](https://en.wikipedia.org/wiki/Mutualism_(biology)) relationship. 
 
-We believe work should not prevent someone from living their best life, in fact it should enable it. One should find joy in doing good work as work is a reflection of the self. Work should not make unreasonable demands and require one to miss out on big life events and experiences.
+We believe work should not prevent someone from living their best life, in fact it should enable it. One should never be [alienated](https://www.youtube.com/watch?v=PZ4VzhIuKCQ) from work. One should find joy in doing good work as work is a reflection of the self. Work should not make unreasonable demands and require one to miss out on big life events and experiences.
 
 Insync is like a family so we can apply to it the five characteristics of what Csikszentmihalyi describes as "the family context that promotes flow".
 
@@ -22,25 +22,29 @@ How to build clarity:
 * onboarding should provide clear definition of an Insyncer's role and their scope of responsibility.
 * heads and mentors should provide constant feedback of how an Insyncer is doing. It should never come as a surprise that someone is under-performing. Conversely, if an Insyncer is performing well a `kudos` is in order.
 
-Question to ask:
+Questions to ask:
 
 > Is your role *clear* to you? Do you know how to succeed in it?
 
 #### Centering
 
-Insyncers know how what they are doing in the present impacts the company. 
+Insyncers know how what they are doing in the present impacts the company.
+
+How to build centering:  
 
 * when hiring, great care must be taken in defining what we are hiring for. We must know what impact the new hire will have and be able to properly communicate this impact to them
 * Insyncers should strive to know how they fit into the big picture
 * the company or team should acknowledge the importance of each person/role and never belittle any role or department
 
-Question to ask:
+Questions to ask:
 
 > Do you know how you fit into the big picture? Are you aware of *how* your work impacts the company? 
 
 #### Choice
 
-Insyncers know that they have the freedom to do what they want as long as they are prepared to face the (very fair but firm) consequences. 
+Insyncers know that they have the freedom to do what they want as long as they are prepared to face the very fair but firm consequences. 
+
+How to build choice:
 
 * Insync should have minimal red tape
 * Insyncers are encouraged to `default to action` rather than waiting for permission
@@ -63,6 +67,8 @@ We  feel comfortable enough to set aside the shield of our defenses, and become 
 
 A hallmark of this characteristic is [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety). 
 
+How to build commitment:
+
 * we must strive to hire and retain only people of integrity. No matter how excellent a person is if he or she has no integrity or is not a nice person then that's not a culture-fit 
 * as a company, we should refrain from creating any processes or performing actions that make Insyncers lose faith in Insync's own integrity e.g. much too stringent rules, telling employees how to live their lives, trying to `own` Insyncers' time
 
@@ -76,11 +82,14 @@ Questions to ask
 
 The company is dedicated to provide Insyncers with increasingly complex opportunities for action.
 
+How to build challenge:
+
 * heads and mentors should be mindful to make sure Insyncers are regularly challenged. This can be achieved through role changes, joining hackathons, taking on new responsibilities, taking new company-funded courses or workshops
+* onus should be on heads and mentors to find ways and contexts in which to apply their mentees' skills
 * Head of Team Development should spearhead these initiatives
 * Insyncers should be mindful to let heads and mentors know when they aren't challenged anymore
 
-Questions to ask
+Questions to ask:
 
 > Does your current role challenge you to grow? 
 
