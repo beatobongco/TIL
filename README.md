@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 5/3/2018
+* Part of being a leader is listening to feedback and taking it seriously.
+
 ## 4/24/2018
 * Present slides in markdown with syntax highlighting https://github.com/gnab/remark
 * Great series on information theory https://www.youtube.com/playlist?list=PLbg3ZX2pWlgKDVFNwn9B63UhYJVIerzHL 
