@@ -11,9 +11,9 @@ Insync is like a family so we can apply to it the five characteristics of what C
 What follows are thoughts on how to build an environment and culture based on this context and questions we can ask to ascertain whether an Insyncer feels his role or workplace promotes flow or whether a process is violating the flow culture. 
 
 
-### 5 Characteristics / the 5 C's
+## 5 Characteristics / the 5 C's
 
-#### Clarity
+### Clarity
 
 Insyncers know what is expected of them. Goals and feedback are unambiguous.
 
@@ -26,7 +26,7 @@ Questions to ask:
 
 > Is your role *clear* to you? Do you know how to succeed in it?
 
-#### Centering
+### Centering
 
 Insyncers know how what they are doing in the present impacts the company.
 
@@ -40,7 +40,7 @@ Questions to ask:
 
 > Do you know how you fit into the big picture? Are you aware of *how* your work impacts the company? 
 
-#### Choice
+### Choice
 
 Insyncers know that they have the freedom to do what they want as long as they are prepared to face the very fair but firm consequences. 
 
@@ -57,7 +57,7 @@ Questions to ask:
 
 > Do you feel you are free to perform your job to the best of your ability?
 
-#### Commitment
+### Commitment
 
 > Be open. Be nice. Care.
 
@@ -78,7 +78,7 @@ Questions to ask
 
 > Do you feel you can trust your fellow Insyncers?
 
-#### Challenge
+### Challenge
 
 The company is dedicated to provide Insyncers with increasingly complex opportunities for action.
 
@@ -93,7 +93,7 @@ Questions to ask:
 
 > Does your current role challenge you to grow? 
 
-### Processes that enable flow culture
+## Processes that enable flow culture
 
 * **Person-Company Fit sessions** are quarterly or biannual 1 on 1's that ask if these 5 traits are being fulfilled.
 * When thinking about changing up the office environment or instituting processes, to keep these 5 characteristics in mind and be strict to not violate any of them.
