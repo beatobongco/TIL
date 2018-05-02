@@ -48,7 +48,7 @@ How to build choice:
 
 * Insync should have minimal red tape
 * Insyncers are encouraged to `default to action` rather than waiting for permission
-* Insyncers are encouraged to choose and develop their own roles as long as they have measurable impact on the company
+* Insyncers are encouraged to choose and develop their own roles as long as they have impact on the company
 * Sometimes we have to do tasks that we don't want to do so the company can flourish but we should strive to allow everyone to do work they enjoy
 
 Questions to ask:
