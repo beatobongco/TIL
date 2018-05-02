@@ -95,8 +95,8 @@ Questions to ask:
 
 ## Processes that enable flow culture
 
-* **Person-Company Fit sessions** are quarterly or biannual 1 on 1's that ask if these 5 traits are being fulfilled.
-* When thinking about changing up the office environment or instituting processes, to keep these 5 characteristics in mind and be strict to not violate any of them.
+* **Person-Company Fit sessions** are quarterly or biannual 1 on 1's that ask if these 5 characteristics are being fulfilled.
+* When thinking about changing up the office environment or instituting processes, keep these 5 characteristics in mind and not violate any of them.
 
 ## Supporting Evidence
 
