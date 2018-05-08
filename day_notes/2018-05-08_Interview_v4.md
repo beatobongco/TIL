@@ -41,8 +41,6 @@ Areas not related to tech are acceptable but have less weight.
 
 Attitude: _I fucking love X. I'm going to do great things in X one day._
 
-> Show me your favorite project. Why is it your favorite? Explain to me at a high-level how you did it.
-
 > What parts of tech are you excited about? Explain it to me at a high-level.
 
 ```
