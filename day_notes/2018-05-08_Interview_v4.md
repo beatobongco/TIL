@@ -111,7 +111,7 @@ Extra questions:
 
 ## Evaluation
 
-We're going for >= 75%
+We're going for >= 75% or >= 22.5/30
 
 ## Supporting evidence
 
