@@ -33,6 +33,12 @@ Determined by show and tell project. If that doesn't exist, refer to their code 
 
 Assess how well the candidate communicated their decisions for their project / code board.
 
+```
+1 - I cannot understand what the candidate is saying.
+3 - I can understand the candidate but he/she glosses over things, assumes a lot of prior knowledge, or I have to fill in the blanks.
+5 - Perfect communication. Explains simply and succinctly. Richard Feynman would be proud.
+```
+
 ### 3. Passion
 
 Having a deep love for an area in tech, so much that he or she would pursue it in his or her free time.
