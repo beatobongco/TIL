@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 6/25/2018
+* Set up dev env for deep learning on GCE https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272
+
 ## 5/3/2018
 * Part of being a leader is listening to feedback and taking it seriously.
 
