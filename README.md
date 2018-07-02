@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 7/2/2018
+* https://blogs.nvidia.com/blog/2017/12/15/where-find-best-courses-learn-ai-deep-learning-machine-learning/
+
 ## 6/25/2018
 * Set up dev env for deep learning on GCE https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272
 
