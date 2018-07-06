@@ -6,7 +6,7 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 7/6/2018
-* https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
+* * Get started readling DL papers! https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0
 
 ## 7/2/2018
 * https://blogs.nvidia.com/blog/2017/12/15/where-find-best-courses-learn-ai-deep-learning-machine-learning/
