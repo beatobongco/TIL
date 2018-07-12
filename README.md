@@ -5,6 +5,11 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 7/12/2018
+* You can use pre-trained CNNs by using their pre-softmax output (perhaps an FC layer or whatever) as features for your network. This is called **fixed feature extraction**
+* You can also the pretrained model's weights and use as starting point, modifying the architecture. This is called **fine tuning**.
+* Some data for practice woo http://blog.indigoresearch.xyz/n-datasets-that-you-might-not-need/
+
 ## 7/10/2018
 * Interesting list of ML resources https://github.com/chasingbob/deep-learning-resources
 
