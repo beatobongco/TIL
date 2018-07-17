@@ -5,6 +5,11 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 7/17/2018
+* RNN and LSTM. https://www.youtube.com/watch?v=WCUNPb-5EYI 
+* Super great video on how to get started with ML using keras. Dont get hung up on chasing accuracy, always remember what you're trying to do/learn https://www.youtube.com/watch?v=tjsHSIG8I08
+* To watch: tensorflow.js https://www.youtube.com/watch?v=YB-kfeNIPCE
+
 ## 7/12/2018
 * You can use pre-trained CNNs by using their pre-softmax output (perhaps an FC layer or whatever) as features for your network. This is called **fixed feature extraction**
 * You can also the pretrained model's weights and use as starting point, modifying the architecture. This is called **fine tuning**.
