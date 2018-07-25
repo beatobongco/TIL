@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 7/25/2018
+* Not sure how long this will be up, but AWS has $1k free credits for startups https://aws.amazon.com/activate/builders-signup/
+
 ## 7/23/2018
 * TIL that AVX speeds up matmul by 62.8x times wew https://www.youtube.com/watch?v=Azt8Nc-mtKM
 
