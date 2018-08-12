@@ -7,6 +7,9 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 ## 8/12/2018
 * Interesting take on augmented intelligence. I don't agree with all but I agree with quite a few. https://www.wired.com/2008/04/ff-wozniak/
+* Major points of agreement: (1) memorization is needed no matter the field. Faster retrieval = can try more combinations of things or think at a higher-level with solid foundations. (2) Sleep (3) Deep work (non-interruption)  
+* Major points of disagreement: (1) discouting collaboration through socialization. It's superadditive and also most opportunities in life come from weak ties. (2) becoming proficient in better tools amplify our brain power more than optimizing the biological brain. (3) A lot of change in this world has come people who could influence others, through writing or through leading. 
+* https://en.wikipedia.org/wiki/Interpersonal_ties
 
 ## 7/25/2018
 * Not sure how long this will be up, but AWS has $1k free credits for startups https://aws.amazon.com/activate/builders-signup/
