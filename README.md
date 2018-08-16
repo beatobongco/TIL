@@ -6,6 +6,7 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 8/16/2018
+* Most honest https://www.atrium.co/blog/work-at-a-startup/
 * Gentle intro to game AI https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
 
 ## 8/12/2018
