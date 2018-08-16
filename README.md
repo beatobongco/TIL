@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 8/16/2018
+* Gentle intro to game AI https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/
+
 ## 8/12/2018
 * Interesting take on augmented intelligence. I don't agree with all but I agree with quite a few. https://www.wired.com/2008/04/ff-wozniak/
 * Major points of agreement: (1) memorization is needed no matter the field. Faster retrieval = can try more combinations of things or think at a higher-level with solid foundations. (2) Sleep (3) Deep work (non-interruption)  
