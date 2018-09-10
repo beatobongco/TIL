@@ -7,7 +7,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 ## 9/6/2018
 * Conversation with Paul Graham https://www.youtube.com/watch?v=4WO5kJChg3w
-  * Intellgent people can judge other intelligent people but trustworthy people cannot because they are often fooled.
+  * Intelligent people can judge other intelligent people but trustworthy people cannot because they are often fooled.
 * Reminds me of Danny Kahneman's method, note that at one point he recommended assigning equal weights (but that was for hiring) https://www.nytimes.com/2018/09/01/opinion/sunday/how-make-big-decision.html
 * Why read the classics https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/
 
