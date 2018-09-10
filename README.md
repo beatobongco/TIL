@@ -1,5 +1,5 @@
 # TIL
-A small list of shit I learned.
+A small list of shit I learned. For stuff learned about ML/AI check out my [X Days of ML Code](https://github.com/beatobongco/X_Days_of_ML_Code).
 
 Some of my talks and presentations can be found [here](https://beatobongco.com/TIL/presentations/).
 
