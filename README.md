@@ -5,6 +5,10 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 9/20/2018
+* Core ideas of Charlie Munger https://soundcloud.com/buffettnotes/charlie-munger-principles
+* http://placecorgi.com/
+
 ## 9/6/2018
 * Conversation with Paul Graham https://www.youtube.com/watch?v=4WO5kJChg3w
   * Intelligent people can judge other intelligent people but trustworthy people cannot because they are often fooled.
