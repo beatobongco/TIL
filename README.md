@@ -6,7 +6,7 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 10/5/2018
-* to learn better, you need face to face time with a subject matter expert https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/
+* to learn better, you need face to face time with a subject matter expert and the energy of peers https://blog.brainstation.io/why-we-need-more-than-learn-at-your-own-pace/
 
 ## 9/20/2018
 * Core ideas of Charlie Munger https://soundcloud.com/buffettnotes/charlie-munger-principles
