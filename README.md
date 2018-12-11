@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 12/11/2018
+* NES CSS https://nostalgic-css.github.io/NES.css/
+
 ## 11/28/2018
 * Piece on the women's liberation movement which also explains why startups eventually need structure and the pitfalls of remaining unstructured https://www.jofreeman.com/joreen/tyranny.htm
 
