@@ -5,6 +5,11 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 1/29/2018
+* Very good post describing hard problems in UI engineering https://overreacted.io/the-elements-of-ui-engineering/
+* Emotions are part and parcel of our cognition. This article + Voss' Never Split the Difference show that empathy, connection, engaging with the emotional system are way better than cold logic. Model: emotion as the sugar that helps the medicine go down, chemical reactions that help oil the delivery system of information into the brain. https://www.nytimes.com/2019/01/17/opinion/learning-emotion-education.html
+* Rationality as thinking in service of goals. If IQ is the horsepower of the motor, rationality is the efficiency of the output. https://commoncog.com/blog/putting-mental-models-to-practice-part-2-introduction-to-rationality/
+
 ## 12/11/2018
 * NES CSS https://nostalgic-css.github.io/NES.css/
 
