@@ -6,6 +6,8 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 1/30/2019
+* ElementAI's process for developing enterprise-grade AI
+![image](https://user-images.githubusercontent.com/3739702/51985772-abc79e00-24d9-11e9-8459-fa1e7d0a3e9c.png)
 * Resolve promises externally http://lea.verou.me/2016/12/resolve-promises-externally-with-this-one-weird-trick/
 
 ## 1/29/2019
