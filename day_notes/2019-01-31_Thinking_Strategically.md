@@ -24,7 +24,7 @@ A *dominant strategy* is a strategy that dominates all of yours in terms of retu
 
 A *dominated strategy* is a strategy that has a worse outcome than any of your strategies, no matter what the opponent uses.
 
-Slightly related: [alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI], removing parts of the search tree not worth searching. It assumes opponent always makes optimal decisions.
+Slightly related: [alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI), removing parts of the search tree not worth searching. It assumes opponent always makes optimal decisions.
 
 ### Rule 4: Look for an equilibrium
 
