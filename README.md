@@ -6,6 +6,7 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 1/31/2019
+* AI reading list, practical primers to sci fi short stories https://www.theverge.com/2019/1/29/18200585/understand-ai-artificial-intelligence-reading-list-books-scifi
 * [Lessons](https://github.com/beatobongco/TIL/blob/master/day_notes/2019-01-31_Thinking_Strategically.md) from Dixit's [Thinking Strategically](https://www.amazon.com/dp/B002OJIBLU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1): how to play sequential and simultaenous move games.
 
 ## 1/30/2019
