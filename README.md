@@ -6,6 +6,7 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
 ## 2/4/2019
+* 5kb data binding for the DOM https://simulacra.js.org/
 * Watch object changes in JS. Idea: make a tiny lib where you define an object, a template string, and an element and the contents of the element will change if any property on the object changes https://davidwalsh.name/watch-object-changes
 
 ## 1/31/2019
