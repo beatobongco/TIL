@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/4/2019
+* Watch object changes in JS. Idea: make a tiny lib where you define an object, a template string, and an element and the contents of the element will change if any property on the object changes https://davidwalsh.name/watch-object-changes
+
 ## 1/31/2019
 * Slides in Markdown + React (JSX) https://github.com/jxnblk/mdx-deck
 * AI reading list, practical primers to sci fi short stories https://www.theverge.com/2019/1/29/18200585/understand-ai-artificial-intelligence-reading-list-books-scifi
