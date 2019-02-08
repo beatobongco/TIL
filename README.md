@@ -5,6 +5,10 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/8/2019
+* free svg resources for landing pages and the like https://undraw.co/illustrations
+* free sounds https://freesound.org/
+
 ## 2/6/2019
 * Hyperbolic discounting -- how people and animals discount future rewards, there are leads here on how to form a dominant life strategy. 
   * Check out this playlist for the long view and hyperbolic discounting https://www.youtube.com/playlist?list=PL1BB35DF6195E125F
