@@ -4,8 +4,8 @@ A distillation of Voss' method of negotiation.
 
 Thesis: Seek to understand before being understood.
 
-* Active listening and empathy are the keys to better understanding. Listening gives you more information and negotiation is all about
-information gathering.
+* Active listening and empathy are the keys to better understanding. Listening gives you more information and negotiation is all about information gathering.
+* Ask calibrated questions: weapons of choice are HOW and WHAT questions
 * Treat people the way they need to be treated (empathy) not the way you wish to be treated (projection)
 * Negotiation can be derailed by parties not present at the table. Always ask about those people wishes and needs 
 
