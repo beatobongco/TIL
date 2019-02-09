@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/9/2019
+* Some [notes](https://github.com/beatobongco/TIL/blob/master/day_notes/2019-02-09_Never_Split_the_Difference.md) on Chris Voss' negotiation book Never Split the Difference 
+
 ## 2/8/2019
 * free svg resources for landing pages and the like https://undraw.co/illustrations
 * free sounds https://freesound.org/
