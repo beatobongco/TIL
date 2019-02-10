@@ -30,7 +30,7 @@ Assertive | Cannot listen without first being understood and respected. Gives an
 
 * How can I help to make this better for us?
 * How would you like me to proceed?
-* What is it hat brought us into this situation?
+* What is it that brought us into this situation?
 * How can we solve this problem?
 * What's the objective? What are we trying to accomplish here?
 * How am I supposed to do that?
