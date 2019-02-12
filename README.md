@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/12/2018
+* on being a principal engineer https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html
+
 ## 2/9/2019
 * Some [notes](https://github.com/beatobongco/TIL/blob/master/day_notes/2019-02-09_Never_Split_the_Difference.md) on Chris Voss' negotiation book Never Split the Difference 
 
