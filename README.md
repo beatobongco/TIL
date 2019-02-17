@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/17/2018
+* visual essays https://pudding.cool/
+
 ## 2/12/2018
 * on being a principal engineer https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html
 
