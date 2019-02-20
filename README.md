@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 2/20/2018
+* Deep Reinforcement Learning (DQN) AI for Snake https://github.com/YuriyGuts/snake-ai-reinforcement
+
 ## 2/17/2018
 * visual essays https://pudding.cool/
 
