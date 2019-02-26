@@ -5,16 +5,19 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
-## 2/22/2018
+## 2/26/2019
+* Deep Foundations of Advanced Javascript v2 by Kyle Simpson https://github.com/beatobongco/TIL/blob/master/day_notes/2019-02-26_Deep_Foundations_JS.md
+
+## 2/22/2019
 * Licklider biography https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop-ebook/dp/B07GBCX7YC
 
-## 2/20/2018
+## 2/20/2019
 * Deep Reinforcement Learning (DQN) AI for Snake https://github.com/YuriyGuts/snake-ai-reinforcement
 
-## 2/17/2018
+## 2/17/2019
 * visual essays https://pudding.cool/
 
-## 2/12/2018
+## 2/12/2019
 * on being a principal engineer https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html
 
 ## 2/9/2019
