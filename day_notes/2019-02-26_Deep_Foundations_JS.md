@@ -34,4 +34,8 @@ function baz() {
 
 ```
 
-Strict mode prevents this
+Strict mode prevents this. Strict mode is the future, it should be adopted.
+
+Rules in strict mode actually help your code run faster e.g. making globals at runtime is slow.
+
+Strict mode only affects per file the statement is written on (JS is file-based). Strict mode can be function-level too.
