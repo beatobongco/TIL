@@ -34,8 +34,34 @@ function baz() {
 
 ```
 
-Strict mode prevents this. Strict mode is the future, it should be adopted.
+### Strict mode
+
+Strict mode prevents auto-globals. Strict mode is the future, it should be adopted.
 
 Rules in strict mode actually help your code run faster e.g. making globals at runtime is slow.
 
 Strict mode only affects per file the statement is written on (JS is file-based). Strict mode can be function-level too.
+
+In non-strict mode, LHS (left hand side) variables are created implicitly but RHS ones throw a `ReferenceError`
+
+### Lexical scope
+
+It's fixed. Keep looking for definitions of a variable til you find it.
+
+Happens at compile-time.
+
+![image](https://user-images.githubusercontent.com/3739702/53691620-aa311480-3dbc-11e9-8bf0-208ffb7eedfe.png)
+
+### Named function expressions
+
+Named function expressions make their name identifier available in their own scopes
+
+![image](https://user-images.githubusercontent.com/3739702/53691648-68ed3480-3dbd-11e9-9ca7-065ae7d837dc.png)
+
+Think of it kind of like 
+
+```js
+function foo(bar) {
+  // bar now exists inside foo's scope
+}
+```
