@@ -65,3 +65,8 @@ function foo(bar) {
   // bar now exists inside foo's scope
 }
 ```
+
+3 reasons to use named function expressions
+* self-reference
+* shows up in stack traces
+* self-documenting code
