@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 3/19/2019
+* BigQuery puzzles, basically SQL for data analytics https://gist.github.com/beatobongco/9e208ca74beaf3b6571e381c0544b6b4
+
 ## 2/26/2019
 * Deep Foundations of Advanced Javascript v2 by Kyle Simpson https://github.com/beatobongco/TIL/blob/master/day_notes/2019-02-26_Deep_Foundations_JS.md
 
