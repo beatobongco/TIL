@@ -5,6 +5,10 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 4/22/2019
+* calculator if you should buy property to rent "buy to rent" https://causal.app/buy-to-rent/
+* blog in github issues https://github.com/lukego/blog/issues/32
+
 ## 3/19/2019
 * BigQuery puzzles, basically SQL for data analytics https://gist.github.com/beatobongco/9e208ca74beaf3b6571e381c0544b6b4
 
