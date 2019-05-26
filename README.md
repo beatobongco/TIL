@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 5/27/2019
+* Neural network quantization (tflite, etc) https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd
+
 ## 4/22/2019
 * calculator if you should buy property to rent "buy to rent" https://causal.app/buy-to-rent/
 * blog in github issues https://github.com/lukego/blog/issues/32
