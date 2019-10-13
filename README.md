@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 10/14/2019
+* I learned how to use RoBERTa to generate features for a simple neural network https://gist.github.com/beatobongco/98aa1ed3fe0ec1e1922edecbf2af934f
+
 ## 10/03/2019
 * Rapid UI dev't in Python for ML https://streamlit.io/
 
