@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 1/24/2020
+* Data augmentation for NLP https://github.com/makcedward/nlpaug
+
 ## 12/16/2019
 * https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge
 
