@@ -7,6 +7,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 ## 2/21/2020
 * Provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset https://github.com/ResidentMario/missingno
+* AI business model: hybrid of human services and software https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/
 
 ## 1/24/2020
 * Data augmentation for NLP https://github.com/makcedward/nlpaug
