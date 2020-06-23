@@ -5,6 +5,11 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 6/23/2020
+* Search for papers and find connected papers and display in a graph https://www.connectedpapers.com/
+* Easy quantization in PyTorch https://snappishproductions.com/blog/2020/05/03/big-models-hate-this-one-weird-trick-quantization-t5--pytorch-1.4.html.html
+
+
 ## 2/21/2020
 * Provides a small toolset of flexible and easy-to-use missing data visualizations and utilities that allows you to get a quick visual summary of the completeness (or lack thereof) of your dataset https://github.com/ResidentMario/missingno
 * AI business model: hybrid of human services and software https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/
