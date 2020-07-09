@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 7/9/2020
+* short document clustering with universal sentence encoder, UMAP, and HDBSCAN https://github.com/pmbaumgartner/binder-notebooks/blob/master/nlp-use-umap-hdbscan.ipynb
+
 ## 6/23/2020
 * Search for papers and find connected papers and display in a graph https://www.connectedpapers.com/
 * Easy quantization in PyTorch https://snappishproductions.com/blog/2020/05/03/big-models-hate-this-one-weird-trick-quantization-t5--pytorch-1.4.html.html
