@@ -5,6 +5,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 11/12/2020
+* Great resource for linear algebra concepts for ML https://pabloinsente.github.io/intro-linear-algebra
+
 ## 11/3/2020
 * always get back on the horse; always be effing learning
 * Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second https://github.com/vaexio/vaex
