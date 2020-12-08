@@ -1,9 +1,16 @@
 # TIL
-A small list of shit I learned. For stuff learned about ML/AI check out my [X Days of ML Code](https://github.com/beatobongco/X_Days_of_ML_Code).
+A small list of shit I learned. 
+
+(old; ML stuff now placed in this main TIL file) For stuff learned about ML/AI check out my [X Days of ML Code](https://github.com/beatobongco/X_Days_of_ML_Code).
 
 Some of my talks and presentations can be found [here](https://beatobongco.com/TIL/presentations/).
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
+
+## 12/08/2020
+Math book recommendations from a genius friend
+* Linear Algebra Done Right - Axler https://linear.axler.net/
+* Introduction to Real Analysis - Bartle https://sciencemathematicseducation.files.wordpress.com/2014/01/0471433314realanalysis4.pdf
 
 ## 11/23/2020
 * textai - AI powered search engine, embeddings engine https://github.com/neuml/txtai
