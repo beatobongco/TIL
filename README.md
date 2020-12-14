@@ -7,6 +7,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 12/14/2020
+* HTML parsing for humans, with support for js https://github.com/psf/requests-html
+
 ## 12/11/2020
 * Edit distance 1 million times faster in js https://github.com/wolfgarbe/SymSpell
 
