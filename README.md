@@ -9,6 +9,7 @@ I love to read. Here are some [book recommendations](https://beatobongco.com/boo
 
 ## 1/29/2021
 * sklearn-type API for rules based classification https://koaning.github.io/human-learn/index.html
+* above's author on Rules-based systems https://www.youtube.com/watch?v=nJAmN6gWdK8
 
 ## 12/14/2020
 * HTML parsing for humans, with support for js https://github.com/psf/requests-html
