@@ -7,6 +7,9 @@ Some of my talks and presentations can be found [here](https://beatobongco.com/T
 
 I love to read. Here are some [book recommendations](https://beatobongco.com/book-highlights/) and my [reading list](https://github.com/beatobongco/ReadingList).
 
+## 1/29/2021
+* sklearn-type API for rules based classification https://koaning.github.io/human-learn/index.html
+
 ## 12/14/2020
 * HTML parsing for humans, with support for js https://github.com/psf/requests-html
 
